@@ -1,0 +1,125 @@
+# BUỔI 1: CƠ BẢN CONTENT MARKETING & PHÂN TÍCH KHÁCH HÀNG
+## GIỚI THIỆU VÀ MỤC TIÊU
+
+---
+
+## 🎯 MỤC TIÊU BUỔI HỌC
+
+### Mục tiêu chính:
+- Hiểu rõ bản chất và tầm quan trọng của Content Marketing trong chiến lược Digital Marketing
+- Nắm vững phương pháp phân tích đối tượng khách hàng và xây dựng Buyer Persona
+- Hiểu Customer Journey và ứng dụng vào các dự án thực tế của CSA Vietnam
+- Có khả năng phân tích đối thủ cạnh tranh về mặt content
+
+### Mục tiêu cụ thể:
+- **Kiến thức:** Nắm vững 4P của Content Marketing, hiểu rõ Customer Journey 5 giai đoạn
+- **Kỹ năng:** Xây dựng được Buyer Persona chi tiết, phân tích content đối thủ
+- **Thái độ:** Tư duy khách hàng làm trung tâm trong mọi hoạt động content
+
+---
+
+## 🕐 LỊCH TRÌNH BUỔI HỌC (2.5 giờ)
+
+### Phần 1: Lý thuyết cơ bản (60 phút)
+- **9:00 - 9:15:** Check-in và giới thiệu khóa học
+- **9:15 - 9:45:** Content Marketing là gì? Tại sao quan trọng?
+- **9:45 - 10:00:** Content Marketing trong hệ sinh thái Digital Marketing
+
+### Phần 2: Phân tích khách hàng (75 phút)
+- **10:00 - 10:15:** Nghỉ giải lao
+- **10:15 - 11:00:** Xây dựng Buyer Persona & Customer Journey
+- **11:00 - 11:30:** Phân tích đối thủ cạnh tranh
+
+### Phần 3: Thực hành (15 phút)
+- **11:30 - 11:45:** Bài tập nhóm: Phân tích khách hàng dự án thực tế CSA
+
+---
+
+## 📚 NỘI DUNG CHI TIẾT
+
+### 1. Content Marketing Foundation
+
+#### Định nghĩa Content Marketing:
+> Content Marketing là chiến lược marketing tập trung vào việc tạo ra và phân phối nội dung có giá trị, liên quan và nhất quán để thu hút và giữ chân một đối tượng được xác định rõ ràng - và cuối cùng, để thúc đẩy hành động khách hàng có lợi nhuận.
+
+#### 4 Trụ cột của Content Marketing:
+1. **Content (Nội dung):** Phải có giá trị, hữu ích cho khách hàng
+2. **Context (Bối cảnh):** Phù hợp với thời điểm, địa điểm, tình huống
+3. **Connection (Kết nối):** Tạo mối liên kết cảm xúc với khách hàng
+4. **Community (Cộng đồng):** Xây dựng và nuôi dưỡng cộng đồng khách hàng
+
+#### Tại sao Content Marketing quan trọng cho CSA Vietnam?
+- **Chi phí thấp hơn:** Hiệu quả cao hơn quảng cáo truyền thống 62%
+- **Lead quality cao:** Content marketing tạo ra 3x lead hơn outbound marketing
+- **Brand building:** Xây dựng uy tín và độ tin cậy lâu dài
+- **SEO boost:** Cải thiện thứ hạng tìm kiếm tự nhiên
+
+---
+
+## 🎯 YÊU CẦU CHUẨN BỊ
+
+### Trước buổi học:
+- [ ] Đọc qua website và social media của CSA Vietnam
+- [ ] Tham khảo content của 2-3 agency cạnh tranh
+- [ ] Chuẩn bị thông tin về 1 dự án khách hàng bạn đã biết
+
+### Mang theo buổi học:
+- [ ] Laptop/máy tính với kết nối internet
+- [ ] Notebook và bút ghi chú
+- [ ] Tinh thần học hỏi và tương tác tích cực
+
+### Kiến thức nền tảng cần có:
+- ✅ Hiểu biết cơ bản về marketing và social media
+- ✅ Kỹ năng viết tiếng Việt tốt
+- ✅ Sử dụng thành thạo Excel/Google Sheets
+
+---
+
+## 🏁 KẾT QUẢ MONG ĐỢI
+
+Sau buổi học này, học viên có thể:
+
+### Kiến thức:
+- Giải thích được vai trò của Content Marketing trong chiến lược tổng thể
+- Phân biệt được các loại content và mục đích sử dụng
+- Hiểu rõ Customer Journey 5 giai đoạn của khách hàng CSA
+
+### Kỹ năng:
+- Xây dựng Buyer Persona cơ bản cho dự án
+- Phân tích content của đối thủ cạnh tranh
+- Xác định content phù hợp cho từng giai đoạn Customer Journey
+
+### Thái độ:
+- Tư duy customer-centric trong mọi hoạt động content
+- Chủ động quan sát và học hỏi từ content của đối thủ
+- Sẵn sàng thử nghiệm và cải tiến content
+
+---
+
+## 📋 CHECKLIST THAM GIA
+
+### Trước buổi học:
+- [ ] Đã đăng ký tham gia khóa học
+- [ ] Chuẩn bị đầy đủ thiết bị học tập
+- [ ] Đọc tài liệu tham khảo được gửi trước
+
+### Trong buổi học:
+- [ ] Tham gia tích cực thảo luận nhóm
+- [ ] Ghi chú đầy đủ kiến thức quan trọng
+- [ ] Hoàn thành bài tập thực hành
+
+### Sau buổi học:
+- [ ] Review lại note ghi chú
+- [ ] Hoàn thành bài tập về nhà (nếu có)
+- [ ] Chuẩn bị cho buổi học tiếp theo
+
+---
+
+**Lưu ý quan trọng:**
+- Buổi học này là nền tảng cho toàn bộ khóa đào tạo
+- Kiến thức sẽ được áp dụng trực tiếp vào công việc tại CSA Vietnam
+- Mọi thắc mắc vui lòng đặt câu hỏi ngay trong buổi học
+
+---
+
+*Chúc các bạn có buổi học hiệu quả và bổ ích!*
