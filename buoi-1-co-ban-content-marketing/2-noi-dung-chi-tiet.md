@@ -36,11 +36,24 @@ Content Marketing tập trung vào việc xây dựng mối quan hệ lâu dài 
 ### 1.2 Vai trò của Marketing Nội dung trong Marketing Số (Digital Marketing)
 
 #### Hệ sinh thái Marketing Số (Digital Marketing) của CSA Vietnam:
-
-```
-SEO ←→ MARKETING NỘI DUNG (CONTENT MARKETING) ←→ Mạng xã hội (Social Media)
- ↑              ↓              ↑
-Email Marketing ←→ Website ←→ Quảng cáo trả phí (Paid Ads)
+```mermaid
+flowchart TD
+   CM((Marketing Nội dung<br>Content Marketing)) ---|Cung cấp từ khóa| SEO
+   CM ---|Tạo nội dung| SM[Mạng xã hội<br>Social Media]
+   CM ---|Cung cấp nội dung| EM[Email Marketing]
+   CM ---|Xây dựng uy tín| WEB[Website]
+   CM ---|Tạo landing page| PA[Quảng cáo Trả phí<br>Paid Ads]
+   
+   EM -->|Dẫn traffic| WEB
+   WEB -->|Tăng tỷ lệ chuyển đổi| EM
+   WEB -->|Cung cấp landing page| PA
+   PA -->|Dẫn traffic| WEB
+   PA -->|Tăng reach| SM
+   SM -->|Tạo tương tác| PA
+   SEO -->|Tăng thứ hạng| WEB
+   WEB -->|Cung cấp nội dung| SEO
+   
+   style CM fill:#ff9900,stroke:#333,stroke-width:4px,color:#000
 ```
 
 #### Marketing Nội dung là trung tâm vì:

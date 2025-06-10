@@ -269,7 +269,7 @@ Semantic keywords:
 -   **Mobile responsiveness:** 100% mobile-friendly
 -   **Bounce rate:** <40% target
 -   **Time on page:** 2+ minutes for blog posts
-
+```
 ---
 
 ## 📱 PHẦN 2: PLATFORM OPTIMIZATION & ANALYTICS (75 phút)
