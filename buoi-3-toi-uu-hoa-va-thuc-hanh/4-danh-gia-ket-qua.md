@@ -14,7 +14,7 @@
 
 ### Thang điểm đánh giá Certification:
 
--   **95-100 điểm:** 🥇 Gold - "Thánh Content Master" 
+-   **95-100 điểm:** 🥇 Gold - "Thánh Content Master"
 -   **85-94 điểm:** 🥈 Silver - "Thánh Content Professional"
 -   **80-84 điểm:** 🥉 Bronze - "Thánh Content Practitioner"
 -   **70-79 điểm:** Đạt cơ bản - Cần improvement

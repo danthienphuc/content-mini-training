@@ -7,34 +7,40 @@
 ### Workshop 1: Master Challenge - 9 Công thức Nâng cao (45 phút)
 
 #### Mục tiêu:
+
 Áp dụng thành thạo 9 công thức nâng cao để tạo content portfolio chất lượng "Thánh Content"
 
 #### Format: Rotation Workshop (5 stations × 9 phút)
 
 **🚀 STATION 1: 4U Formula Challenge**
-- Task: Viết Facebook Ad cho CSA Vietnam Marketing Automation Package
-- Yêu cầu: Đảm bảo content Useful + Urgent + Unique + Ultra-specific
-- Deliverable: 100-word Facebook ad copy với CTR prediction
 
-**🌟 STATION 2: A FOREST Long-form** 
-- Task: Viết intro cho whitepaper "SME Digital Transformation Guide"
-- Yêu cầu: Áp dụng đầy đủ 7 elements của A FOREST framework
-- Deliverable: 300-word introduction với engagement hooks
+-   Task: Viết Facebook Ad cho CSA Vietnam Marketing Automation Package
+-   Yêu cầu: Đảm bảo content Useful + Urgent + Unique + Ultra-specific
+-   Deliverable: 100-word Facebook ad copy với CTR prediction
+
+**🌟 STATION 2: A FOREST Long-form**
+
+-   Task: Viết intro cho whitepaper "SME Digital Transformation Guide"
+-   Yêu cầu: Áp dụng đầy đủ 7 elements của A FOREST framework
+-   Deliverable: 300-word introduction với engagement hooks
 
 **🛡️ STATION 3: 5 Sự Cản Trở Sales Page**
-- Task: Tạo objection-handling section cho landing page CSA
-- Yêu cầu: Address 5 common objections từ SME prospects
-- Deliverable: 250-word objection handling với social proof
+
+-   Task: Tạo objection-handling section cho landing page CSA
+-   Yêu cầu: Address 5 common objections từ SME prospects
+-   Deliverable: 250-word objection handling với social proof
 
 **🎯 STATION 4: 3 Lý Do Email Sequence**
-- Task: Viết email trong nurture sequence 5-email campaign
-- Yêu cầu: Build case tại sao CSA là lựa chọn tốt nhất
-- Deliverable: Subject line + 200-word email body
 
-**📸 STATION 5: 4P Visual Content** 
-- Task: Storyboard cho TikTok video marketing CSA services
-- Yêu cầu: Picture hook + Promise + Prove + Push trong 60 seconds
-- Deliverable: Video script với visual cues và timing
+-   Task: Viết email trong nurture sequence 5-email campaign
+-   Yêu cầu: Build case tại sao CSA là lựa chọn tốt nhất
+-   Deliverable: Subject line + 200-word email body
+
+**📸 STATION 5: 4P Visual Content**
+
+-   Task: Storyboard cho TikTok video marketing CSA services
+-   Yêu cầu: Picture hook + Promise + Prove + Push trong 60 seconds
+-   Deliverable: Video script với visual cues và timing
 
 #### Đánh giá Workshop 1:
 
@@ -46,7 +52,7 @@
 - Complete elements included: ___/5
 
 🎨 CREATIVITY & ORIGINALITY (5 điểm):
-- Unique angle/approach: ___/3  
+- Unique angle/approach: ___/3
 - "Thánh Content" factor: ___/2
 
 🎯 CSA BRAND ALIGNMENT (5 điểm):
@@ -67,28 +73,32 @@ CSA Vietnam case study: "Hằng Underwears scaling từ startup đến 1 tỷ/th
 #### 4 Platform Teams:
 
 **📘 TEAM FACEBOOK:**
-- Task: Adapt case study thành Facebook post series (3 posts)
-- Focus: Maximize engagement và shareability
-- Constraints: Mobile-first optimization, hook trong 5 từ đầu
-- Deliverable: 3 posts với timing strategy và hashtag plan
+
+-   Task: Adapt case study thành Facebook post series (3 posts)
+-   Focus: Maximize engagement và shareability
+-   Constraints: Mobile-first optimization, hook trong 5 từ đầu
+-   Deliverable: 3 posts với timing strategy và hashtag plan
 
 **🎵 TEAM TIKTOK:**
-- Task: Create viral TikTok video script về transformation story
-- Focus: Completion rate optimization và trending potential  
-- Constraints: 30-60 seconds, trending sound integration
-- Deliverable: Video script với hooks, transitions, và sound cues
+
+-   Task: Create viral TikTok video script về transformation story
+-   Focus: Completion rate optimization và trending potential
+-   Constraints: 30-60 seconds, trending sound integration
+-   Deliverable: Video script với hooks, transitions, và sound cues
 
 **💼 TEAM LINKEDIN:**
-- Task: Transform thành thought leadership article
-- Focus: Professional insights và industry analysis
-- Constraints: B2B audience, credibility establishment
-- Deliverable: 800-word article với executive summary
+
+-   Task: Transform thành thought leadership article
+-   Focus: Professional insights và industry analysis
+-   Constraints: B2B audience, credibility establishment
+-   Deliverable: 800-word article với executive summary
 
 **🔴 TEAM YOUTUBE:**
-- Task: 10-minute case study video outline
-- Focus: Watch time retention và subscriber conversion
-- Constraints: YouTube SEO optimization, clear CTAs
-- Deliverable: Video outline với timestamps và description
+
+-   Task: 10-minute case study video outline
+-   Focus: Watch time retention và subscriber conversion
+-   Constraints: YouTube SEO optimization, clear CTAs
+-   Deliverable: Video outline với timestamps và description
 
 #### Platform Lab Assessment:
 
@@ -97,7 +107,7 @@ CSA Vietnam case study: "Hằng Underwears scaling từ startup đến 1 tỷ/th
 
 🔥 ALGORITHM ALIGNMENT (15 điểm):
 - Platform best practices adherence: ___/8
-- Format optimization: ___/4  
+- Format optimization: ___/4
 - Timing/posting strategy: ___/3
 
 📊 ENGAGEMENT POTENTIAL (10 điểm):
@@ -118,6 +128,7 @@ PLATFORM TEAM SCORE: ___/35
 #### Real-time Content Improvement Lab
 
 **🔥 Process:**
+
 1. **Present (5 phút):** Mỗi team present 1 piece content tốt nhất
 2. **Score (10 phút):** Audience real-time MDH scoring qua app/tool
 3. **Optimize (10 phút):** Live editing để improve MDH score
@@ -129,14 +140,14 @@ PLATFORM TEAM SCORE: ___/35
 🎯 REAL-TIME MDH SCORER
 
 👤 Content Creator: ________________
-📱 Platform: ______________________  
+📱 Platform: ______________________
 📝 Content Type: __________________
 
 📊 LIVE SCORING (1-10 scale):
 
 💡 YẾU TỐ NỘI DUNG (40%):
 ├── Uniqueness/Originality: ___/10
-├── Practical Value: ___/10  
+├── Practical Value: ___/10
 └── Emotional Impact: ___/10
 
 🎨 YẾU TỐ NGÔN TỪ (30%):
@@ -166,10 +177,11 @@ PLATFORM TEAM SCORE: ___/35
 Design và execute 1 integrated content marketing campaign cho CSA Vietnam targeting 50 new SME clients trong Q3 2025.
 
 **💰 Constraints:**
-- Budget: 100 triệu VND
-- Timeline: 12 weeks (July - September 2025)
-- Team: 4-5 people maximum
-- Success metrics: ROI ≥ 300%, lead quality score ≥ 8/10
+
+-   Budget: 100 triệu VND
+-   Timeline: 12 weeks (July - September 2025)
+-   Team: 4-5 people maximum
+-   Success metrics: ROI ≥ 300%, lead quality score ≥ 8/10
 
 ### Capstone Project Structure
 
@@ -185,7 +197,7 @@ Design và execute 1 integrated content marketing campaign cho CSA Vietnam targe
 └── Market Opportunity: Addressable market size và trends
 
 🎯 2. CONTENT STRATEGY:
-├── Content Pillars: 4 core themes aligned với CSA expertise  
+├── Content Pillars: 4 core themes aligned với CSA expertise
 ├── Content Calendar: 12-week calendar với platform distribution
 ├── Format Mix: Blog, social, video, email, webinar distribution
 └── SEO Strategy: Keyword research và organic growth plan
@@ -213,7 +225,7 @@ Design và execute 1 integrated content marketing campaign cho CSA Vietnam targe
 □ 5 Social Media Posts:
   ├── Facebook: BAB transformation story
   ├── LinkedIn: 3 Lý Do thought leadership
-  ├── TikTok: 4P visual storytelling  
+  ├── TikTok: 4P visual storytelling
   ├── Instagram: 5 Sự Cản Trở carousel
   └── YouTube: 3S case study video script
 
@@ -246,7 +258,7 @@ WEEK 1-2: FOUNDATION
 ├── Email automation setup và testing
 └── Analytics dashboard configuration
 
-WEEK 3-6: AMPLIFICATION  
+WEEK 3-6: AMPLIFICATION
 ├── Paid social media campaigns launch
 ├── Influencer collaboration và partnerships
 ├── PR outreach và media placements
@@ -254,7 +266,7 @@ WEEK 3-6: AMPLIFICATION
 
 WEEK 7-10: OPTIMIZATION
 ├── A/B testing implementation và results analysis
-├── Content optimization based on performance data  
+├── Content optimization based on performance data
 ├── Lead nurturing sequence refinement
 └── Conversion rate optimization
 
@@ -284,7 +296,7 @@ SLIDE 3-4: CONTENT SHOWCASE (180 seconds)
 
 SLIDE 5-6: IMPLEMENTATION PLAN (120 seconds)
 ├── 12-week timeline với key milestones
-├── Budget allocation và resource requirements  
+├── Budget allocation và resource requirements
 └── Risk mitigation và contingency plans
 
 SLIDE 7: ROI PROJECTION (30 seconds)
@@ -330,7 +342,7 @@ TOTAL CAPSTONE SCORE: ___/100
 📊 BUỔI 3 TOTAL SCORE BREAKDOWN:
 
 📚 Workshop 1 (9 Công thức): ___/25 điểm
-📱 Workshop 2 (Platform Optimization): ___/20 điểm  
+📱 Workshop 2 (Platform Optimization): ___/20 điểm
 🔥 Workshop 3 (MDH Lab): ___/15 điểm
 🏆 Capstone Project: ___/40 điểm
 
@@ -338,7 +350,7 @@ BUỔI 3 FINAL SCORE: ___/100
 
 🏅 OVERALL PROGRAM SCORE:
 ├── Buổi 1: ___/100 (weight: 25%)
-├── Buổi 2: ___/100 (weight: 35%)  
+├── Buổi 2: ___/100 (weight: 35%)
 └── Buổi 3: ___/100 (weight: 40%)
 
 FINAL PROGRAM SCORE: ___/100
@@ -351,11 +363,11 @@ FINAL PROGRAM SCORE: ___/100
 ```
 🥇 GOLD LEVEL (95-100): "Thánh Content Master"
 ├── Lead complex content campaigns independently
-├── Mentor junior content creators  
+├── Mentor junior content creators
 ├── Represent CSA tại industry events
 └── Advanced career track eligibility
 
-🥈 SILVER LEVEL (85-94): "Thánh Content Professional"  
+🥈 SILVER LEVEL (85-94): "Thánh Content Professional"
 ├── Execute sophisticated content strategies
 ├── Quality control cho team content
 ├── Client strategy presentation
@@ -393,17 +405,19 @@ FINAL PROGRAM SCORE: ___/100
 **🔥 Chúc mừng! Bạn đã chính thức trở thành "Thánh Content Marketing Professional" của CSA Vietnam! 🚀📚✨**
 
 ⚡ TECHNICAL FACTORS:
-□ Page loading speed (<3 seconds): ___/10 points
-□ Mobile responsiveness: ___/10 points
-□ Schema markup: ___/5 points
-□ Social media meta tags: ___/5 points
+□ Page loading speed (<3 seconds): **_/10 points
+□ Mobile responsiveness: _**/10 points
+□ Schema markup: **_/5 points
+□ Social media meta tags: _**/5 points
 
-🎯 TOTAL SCORE: ___/150 points
+🎯 TOTAL SCORE: \_\_\_/150 points
 
 📋 OPTIMIZATION RECOMMENDATIONS:
-1. Priority High: ________________
-2. Priority Medium: ________________
-3. Priority Low: ________________
+
+1. Priority High: ******\_\_\_\_******
+2. Priority Medium: ******\_\_\_\_******
+3. Priority Low: ******\_\_\_\_******
+
 ```
 
 #### Deliverable (15 phút làm bài):
@@ -430,6 +444,7 @@ Mỗi nhóm present top 3 optimization recommendations với expected impact
 **Template Structure:**
 
 ```
+
 🔥 FACEBOOK OPTIMIZATION TEMPLATE:
 
 [HOOK - 3 words maximum]
@@ -439,6 +454,7 @@ Mỗi nhóm present top 3 optimization recommendations với expected impact
 
 Visual: [Describe image concept]
 Hashtags: #3relevant #hashtags #maximum
+
 ```
 
 **💼 Station 2: LinkedIn Algorithm Optimization (10 phút)**
@@ -453,6 +469,7 @@ Hashtags: #3relevant #hashtags #maximum
 **Template Structure:**
 
 ```
+
 💼 LINKEDIN OPTIMIZATION TEMPLATE:
 
 [INDUSTRY INSIGHT - trend/observation]
@@ -462,6 +479,7 @@ Hashtags: #3relevant #hashtags #maximum
 
 Professional tone: ✅
 Industry hashtags: #DigitalMarketing #SMEGrowth #BusinessStrategy
+
 ```
 
 **📸 Station 3: Instagram Algorithm Optimization (10 phút)**
@@ -476,6 +494,7 @@ Industry hashtags: #DigitalMarketing #SMEGrowth #BusinessStrategy
 **Template Structure:**
 
 ```
+
 📸 INSTAGRAM OPTIMIZATION TEMPLATE:
 
 [VISUAL HOOK - describe compelling image]
@@ -485,6 +504,7 @@ Industry hashtags: #DigitalMarketing #SMEGrowth #BusinessStrategy
 
 Visual concept: [Detailed description]
 First comment hashtags: #mix #of #popular #and #niche #hashtags
+
 ```
 
 **🎵 Station 4: TikTok Algorithm Optimization (10 phút)**
@@ -499,6 +519,7 @@ First comment hashtags: #mix #of #popular #and #niche #hashtags
 **Template Structure:**
 
 ```
+
 🎵 TIKTOK OPTIMIZATION TEMPLATE:
 
 [TRENDING HOOK - current trend adaptation]
@@ -508,6 +529,7 @@ First comment hashtags: #mix #of #popular #and #niche #hashtags
 
 Trending audio: [Suggest relevant trending sound]
 Video concept: [15-30 second storyboard]
+
 ```
 
 #### Evaluation Criteria (5 phút presentation/team):
@@ -527,22 +549,27 @@ Video concept: [15-30 second storyboard]
 #### Sample Data Set:
 
 ```
+
 📈 CONTENT PERFORMANCE DATA (Q1 2024):
 
 BLOG POSTS (12 posts total):
 Post A: "Digital Marketing cho SME"
-- Page views: 2,500 | Time on page: 3:45 | Bounce rate: 35% | Leads: 8
+
+-   Page views: 2,500 | Time on page: 3:45 | Bounce rate: 35% | Leads: 8
 
 Post B: "Social Media Strategy 2024"
-- Page views: 1,800 | Time on page: 2:15 | Bounce rate: 65% | Leads: 3
+
+-   Page views: 1,800 | Time on page: 2:15 | Bounce rate: 65% | Leads: 3
 
 Post C: "Startup Branding Guide"
-- Page views: 3,200 | Time on page: 4:20 | Bounce rate: 28% | Leads: 15
+
+-   Page views: 3,200 | Time on page: 4:20 | Bounce rate: 28% | Leads: 15
 
 SOCIAL MEDIA (180 posts total):
 Facebook average: 1,200 reach | 48 engagement | 2.1% CTR
 LinkedIn average: 800 reach | 35 engagement | 1.8% CTR
 Instagram average: 950 reach | 67 engagement | 1.2% CTR
+
 ```
 
 #### Analysis Tasks (20 phút team work):
@@ -550,41 +577,48 @@ Instagram average: 950 reach | 67 engagement | 1.2% CTR
 **Task 1: Performance Analysis**
 
 ```
+
 📊 ANALYTICS WORKSHEET:
 
 🎯 TOP PERFORMERS IDENTIFICATION:
-Best blog post: ________________
-Reason for success: ________________
-Replication strategy: ________________
+Best blog post: ******\_\_\_\_******
+Reason for success: ******\_\_\_\_******
+Replication strategy: ******\_\_\_\_******
 
 🎯 UNDERPERFORMERS ANALYSIS:
-Worst performing content: ________________
-Root cause analysis: ________________
-Improvement recommendations: ________________
+Worst performing content: ******\_\_\_\_******
+Root cause analysis: ******\_\_\_\_******
+Improvement recommendations: ******\_\_\_\_******
 
 🎯 PLATFORM COMPARISON:
-Best performing platform: ________________
-Why it works: ________________
-Cross-platform learnings: ________________
+Best performing platform: ******\_\_\_\_******
+Why it works: ******\_\_\_\_******
+Cross-platform learnings: ******\_\_\_\_******
+
 ```
 
 **Task 2: Optimization Recommendations**
 
 ```
+
 🔧 OPTIMIZATION ACTION PLAN:
 
 📈 IMMEDIATE ACTIONS (Week 1):
-1. ________________________________
-2. ________________________________
-3. ________________________________
+
+1. ***
+2. ***
+3. ***
 
 📊 MEDIUM-TERM OPTIMIZATIONS (Month 1):
-1. ________________________________
-2. ________________________________
+
+1. ***
+2. ***
 
 🚀 STRATEGIC IMPROVEMENTS (Quarter 1):
-1. ________________________________
-2. ________________________________
+
+1. ***
+2. ***
+
 ```
 
 #### Presentation Format (10 phút total):
@@ -614,30 +648,36 @@ Cross-platform learnings: ________________
 **📄 Executive Summary (1 page)**
 
 ```
+
 📊 EXECUTIVE SUMMARY TEMPLATE:
 
 CLIENT OVERVIEW:
-- Company: ________________________
-- Industry: ________________________
-- Current challenges: ________________________
-- Target audience: ________________________
+
+-   Company: **********\_\_\_\_**********
+-   Industry: **********\_\_\_\_**********
+-   Current challenges: **********\_\_\_\_**********
+-   Target audience: **********\_\_\_\_**********
 
 STRATEGIC APPROACH:
-- Primary objective: ________________________
-- Key strategies: ________________________
-- Expected outcomes: ________________________
-- Timeline: ________________________
+
+-   Primary objective: **********\_\_\_\_**********
+-   Key strategies: **********\_\_\_\_**********
+-   Expected outcomes: **********\_\_\_\_**********
+-   Timeline: **********\_\_\_\_**********
 
 INVESTMENT & ROI:
-- Total budget: ________________________
-- Resource allocation: ________________________
-- Expected ROI: ________________________
-- Success metrics: ________________________
+
+-   Total budget: **********\_\_\_\_**********
+-   Resource allocation: **********\_\_\_\_**********
+-   Expected ROI: **********\_\_\_\_**********
+-   Success metrics: **********\_\_\_\_**********
+
 ```
 
 **🔍 Situation Analysis (2-3 pages)**
 
 ```
+
 📋 SITUATION ANALYSIS FRAMEWORK:
 
 CURRENT STATE AUDIT:
@@ -659,93 +699,103 @@ AUDIENCE RESEARCH:
 □ Content consumption preferences
 
 SWOT ANALYSIS:
-Strengths: ________________________
-Weaknesses: ________________________
-Opportunities: ________________________
-Threats: ________________________
+Strengths: **********\_\_\_\_**********
+Weaknesses: **********\_\_\_\_**********
+Opportunities: **********\_\_\_\_**********
+Threats: **********\_\_\_\_**********
+
 ```
 
 **🎯 Strategic Recommendations (3-4 pages)**
 
 ```
+
 📈 STRATEGY FRAMEWORK:
 
 CONTENT PILLARS (4 pillars maximum):
-Pillar 1: ________________________ (40%)
-- Topics: ________________________
-- Formats: ________________________
-- Platforms: ________________________
+Pillar 1: **********\_\_\_\_********** (40%)
 
-Pillar 2: ________________________ (30%)
-Pillar 3: ________________________ (20%)
-Pillar 4: ________________________ (10%)
+-   Topics: **********\_\_\_\_**********
+-   Formats: **********\_\_\_\_**********
+-   Platforms: **********\_\_\_\_**********
+
+Pillar 2: **********\_\_\_\_********** (30%)
+Pillar 3: **********\_\_\_\_********** (20%)
+Pillar 4: **********\_\_\_\_********** (10%)
 
 PLATFORM STRATEGY:
-Primary platforms: ________________________
-- Rationale: ________________________
-- Content allocation: ________________________
-- Success metrics: ________________________
+Primary platforms: **********\_\_\_\_**********
 
-Secondary platforms: ________________________
-- Purpose: ________________________
-- Content types: ________________________
+-   Rationale: **********\_\_\_\_**********
+-   Content allocation: **********\_\_\_\_**********
+-   Success metrics: **********\_\_\_\_**********
+
+Secondary platforms: **********\_\_\_\_**********
+
+-   Purpose: **********\_\_\_\_**********
+-   Content types: **********\_\_\_\_**********
 
 SEO STRATEGY:
-- Primary keywords (5): ________________________
-- Content cluster topics: ________________________
-- Link building approach: ________________________
-- Technical optimization: ________________________
+
+-   Primary keywords (5): **********\_\_\_\_**********
+-   Content cluster topics: **********\_\_\_\_**********
+-   Link building approach: **********\_\_\_\_**********
+-   Technical optimization: **********\_\_\_\_**********
 
 CONTENT FORMATS:
-- Blog posts: ___% (target: 2-3/week)
-- Social media: ___% (target: daily)
-- Video content: ___% (target: weekly)
-- Email marketing: ___% (target: weekly)
-- Other: ________________________
+
+-   Blog posts: \_\_\_% (target: 2-3/week)
+-   Social media: \_\_\_% (target: daily)
+-   Video content: \_\_\_% (target: weekly)
+-   Email marketing: \_\_\_% (target: weekly)
+-   Other: **********\_\_\_\_**********
+
 ```
 
 **📅 Implementation Plan (2 pages)**
 
 ```
+
 🗓️ 90-DAY IMPLEMENTATION ROADMAP:
 
 MONTH 1 - FOUNDATION:
-Week 1: ________________________
-Week 2: ________________________
-Week 3: ________________________
-Week 4: ________________________
+Week 1: **********\_\_\_\_**********
+Week 2: **********\_\_\_\_**********
+Week 3: **********\_\_\_\_**********
+Week 4: **********\_\_\_\_**********
 
 MONTH 2 - AMPLIFICATION:
-Week 5: ________________________
-Week 6: ________________________
-Week 7: ________________________
-Week 8: ________________________
+Week 5: **********\_\_\_\_**********
+Week 6: **********\_\_\_\_**********
+Week 7: **********\_\_\_\_**********
+Week 8: **********\_\_\_\_**********
 
 MONTH 3 - OPTIMIZATION:
-Week 9: ________________________
-Week 10: ________________________
-Week 11: ________________________
-Week 12: ________________________
+Week 9: **********\_\_\_\_**********
+Week 10: **********\_\_\_\_**********
+Week 11: **********\_\_\_\_**********
+Week 12: **********\_\_\_\_**********
 
 RESOURCE ALLOCATION:
-Content creation: ___% of budget
-Design & production: ___% of budget
-Advertising/promotion: ___% of budget
-Tools & technology: ___% of budget
-Team costs: ___% of budget
+Content creation: **_% of budget
+Design & production: _**% of budget
+Advertising/promotion: **_% of budget
+Tools & technology: _**% of budget
+Team costs: \_\_\_% of budget
 
 RISK MITIGATION:
-Risk 1: ________________________
-Mitigation: ________________________
+Risk 1: **********\_\_\_\_**********
+Mitigation: **********\_\_\_\_**********
 
-Risk 2: ________________________
-Mitigation: ________________________
+Risk 2: **********\_\_\_\_**********
+Mitigation: **********\_\_\_\_**********
 
 TEAM RESPONSIBILITIES:
-Content Strategist: ________________________
-Content Writer: ________________________
-Visual Designer: ________________________
-Analytics Specialist: ________________________
+Content Strategist: **********\_\_\_\_**********
+Content Writer: **********\_\_\_\_**********
+Visual Designer: **********\_\_\_\_**********
+Analytics Specialist: **********\_\_\_\_**********
+
 ```
 
 ### Part 2: Content Calendar (3 months detailed)
@@ -753,19 +803,21 @@ Analytics Specialist: ________________________
 **📅 Monthly Content Calendar Template:**
 
 ```
+
 📊 MONTH 1 CONTENT CALENDAR
 
 WEEKLY THEMES:
-Week 1: ________________________
-Week 2: ________________________
-Week 3: ________________________
-Week 4: ________________________
+Week 1: **********\_\_\_\_**********
+Week 2: **********\_\_\_\_**********
+Week 3: **********\_\_\_\_**********
+Week 4: **********\_\_\_\_**********
 
 CONTENT BREAKDOWN:
 Blog Posts (12 total):
-- Week 1: [Title] - [Keyword] - [Platform promotion]
-- Week 2: [Title] - [Keyword] - [Platform promotion]
-- [Continue for all weeks]
+
+-   Week 1: [Title] - [Keyword] - [Platform promotion]
+-   Week 2: [Title] - [Keyword] - [Platform promotion]
+-   [Continue for all weeks]
 
 Social Media Posts (60 total):
 Monday: [Platform] - [Content type] - [Topic]
@@ -780,6 +832,7 @@ Campaign 2: [Subject] - [Content theme] - [CTA]
 Video Content (4 total):
 Video 1: [Title] - [Platform] - [Duration] - [Topic]
 [Continue for all videos]
+
 ```
 
 ### Part 3: Performance Dashboard Mock-up
@@ -787,6 +840,7 @@ Video 1: [Title] - [Platform] - [Duration] - [Topic]
 **📊 Analytics Dashboard Design:**
 
 ```
+
 📈 CONTENT PERFORMANCE DASHBOARD
 
 KPI OVERVIEW:
@@ -800,9 +854,10 @@ KPI OVERVIEW:
 
 PLATFORM BREAKDOWN:
 Facebook:
-- Reach: _____ (target: _____)
-- Engagement rate: ___% (target: __%)
-- Click-through rate: ___% (target: __%)
+
+-   Reach: **\_** (target: **\_**)
+-   Engagement rate: **\_% (target: **%)
+-   Click-through rate: **\_% (target: **%)
 
 LinkedIn:
 [Same metrics structure]
@@ -811,12 +866,14 @@ Instagram:
 [Same metrics structure]
 
 Website/Blog:
-- Page views: _____ (target: _____)
-- Time on page: __:__ (target: __:__)
-- Bounce rate: ___% (target: __%)
-- Lead conversion: ___% (target: __%)
+
+-   Page views: **\_** (target: **\_**)
+-   Time on page: **:** (target: **:**)
+-   Bounce rate: **\_% (target: **%)
+-   Lead conversion: **\_% (target: **%)
 
 TOP PERFORMING CONTENT:
+
 1. [Title] - [Platform] - [Key metric] - [Performance]
 2. [Title] - [Platform] - [Key metric] - [Performance]
 3. [Title] - [Platform] - [Key metric] - [Performance]
@@ -825,6 +882,7 @@ OPTIMIZATION OPPORTUNITIES:
 □ [Specific recommendation based on data]
 □ [Action item with timeline]
 □ [Resource requirement]
+
 ```
 
 ---
@@ -836,6 +894,7 @@ OPTIMIZATION OPPORTUNITIES:
 #### Technical SEO Checklist cho Content:
 
 ```
+
 🔧 TECHNICAL SEO AUDIT:
 
 CRAWLABILITY:
@@ -861,6 +920,7 @@ STRUCTURED DATA:
 □ Rich snippets optimized
 □ FAQ schema for Q&A content
 □ Organization schema for company info
+
 ```
 
 #### Advanced Keyword Research:
@@ -868,26 +928,30 @@ STRUCTURED DATA:
 **🎯 Semantic Keyword Strategy:**
 
 ```
+
 PRIMARY KEYWORD: "dịch vụ marketing online"
 
 SEMANTIC CLUSTER:
-- quảng cáo trực tuyến
-- marketing kỹ thuật số
-- digital advertising
-- online promotion
-- internet marketing
-- social media marketing
-- content marketing
-- email marketing
-- SEO services
-- PPC advertising
+
+-   quảng cáo trực tuyến
+-   marketing kỹ thuật số
+-   digital advertising
+-   online promotion
+-   internet marketing
+-   social media marketing
+-   content marketing
+-   email marketing
+-   SEO services
+-   PPC advertising
 
 LONG-TAIL VARIATIONS:
-- dịch vụ marketing online cho SME
-- công ty marketing online TP.HCM
-- agency marketing online uy tín
-- giá dịch vụ marketing online
-- marketing online hiệu quả
+
+-   dịch vụ marketing online cho SME
+-   công ty marketing online TP.HCM
+-   agency marketing online uy tín
+-   giá dịch vụ marketing online
+-   marketing online hiệu quả
+
 ```
 
 ### Platform Algorithm Updates & Trends
@@ -897,38 +961,46 @@ LONG-TAIL VARIATIONS:
 **📘 Facebook Algorithm Updates:**
 
 ```
+
 🔄 RECENT CHANGES (2024):
-- Increased focus on meaningful interactions
-- Video content prioritization (especially Reels)
-- Local content boost for business pages
-- Reduced reach for overly promotional content
-- Enhanced AI content detection
+
+-   Increased focus on meaningful interactions
+-   Video content prioritization (especially Reels)
+-   Local content boost for business pages
+-   Reduced reach for overly promotional content
+-   Enhanced AI content detection
 
 🎯 OPTIMIZATION STRATEGIES:
-- Create conversation-starter content
-- Use Facebook Reels format
-- Include location tags for local business
-- Balance promotional vs valuable content (80/20 rule)
-- Focus on authentic, human-created content
+
+-   Create conversation-starter content
+-   Use Facebook Reels format
+-   Include location tags for local business
+-   Balance promotional vs valuable content (80/20 rule)
+-   Focus on authentic, human-created content
+
 ```
 
 **💼 LinkedIn Algorithm Updates:**
 
 ```
+
 🔄 RECENT CHANGES (2024):
-- Professional value emphasis increased
-- Newsletter feature prioritization
-- Industry expertise signals boosted
-- Company page content enhanced reach
-- LinkedIn Articles vs Posts balance shift
+
+-   Professional value emphasis increased
+-   Newsletter feature prioritization
+-   Industry expertise signals boosted
+-   Company page content enhanced reach
+-   LinkedIn Articles vs Posts balance shift
 
 🎯 OPTIMIZATION STRATEGIES:
-- Share industry insights với professional perspective
-- Utilize LinkedIn Newsletter feature
-- Establish thought leadership trong niche
-- Cross-promote company và personal content
-- Balance short-form posts với long-form articles
-```
+
+-   Share industry insights với professional perspective
+-   Utilize LinkedIn Newsletter feature
+-   Establish thought leadership trong niche
+-   Cross-promote company và personal content
+-   Balance short-form posts với long-form articles
+
+````
 
 ### Advanced Analytics Techniques
 
@@ -959,7 +1031,7 @@ gtag("event", "lead_score_increase", {
     trigger_content: content_title,
     total_score: user_total_score,
 });
-```
+````
 
 #### ROI Attribution Models:
 

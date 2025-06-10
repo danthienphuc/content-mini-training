@@ -9,9 +9,10 @@
 #### Warm-up: Đánh giá Mức Độ Hay (MDH) (15 phút)
 
 **🎯 Hoạt động nhóm:**
-- Mỗi nhân viên share 1 content đã viết trong tuần qua
-- Nhóm đánh giá MDH theo framework "Content Chân Kinh"
-- Tìm cách cải thiện để đạt MDH ≥ 8/10
+
+-   Mỗi nhân viên share 1 content đã viết trong tuần qua
+-   Nhóm đánh giá MDH theo framework "Content Chân Kinh"
+-   Tìm cách cải thiện để đạt MDH ≥ 8/10
 
 **📊 Framework đánh giá MDH:**
 
@@ -20,7 +21,7 @@
 
 📖 1. YẾU TỐ NỘI DUNG (40%):
 - Ý tưởng độc đáo và khác biệt: /10 x 0.15 = /1.5
-- Giá trị thực tế cho target audience: /10 x 0.15 = /1.5  
+- Giá trị thực tế cho target audience: /10 x 0.15 = /1.5
 - Cảm xúc và trải nghiệm: /10 x 0.10 = /1.0
 
 🎨 2. YẾU TỐ NGÔN TỪ (30%):
@@ -29,7 +30,7 @@
 
 ⚡ 3. YẾU TỐ CẤU TRÚC (30%):
 - Hook mạnh mẽ: /10 x 0.10 = /1.0
-- Logic và flow: /10 x 0.10 = /1.0  
+- Logic và flow: /10 x 0.10 = /1.0
 - CTA rõ ràng: /10 x 0.10 = /1.0
 
 📊 TỔNG MDH: /10
@@ -39,23 +40,24 @@
 
 **🏆 Bảng Tóm tắt Nhanh:**
 
-| Công thức | Khi nào dùng | Hook mạnh nhất | CTA type |
-|-----------|-------------|----------------|----------|
-| **AIDA** | Universal, blog posts | 5 loại hook "Thánh Content" | Urgent + Benefit |
-| **PAS** | Email sequences, sales copy | Problem + Statistic | Risk reducer |
-| **FAB** | Product descriptions | Feature shock | Feature-driven |
-| **BAB** | Before/after transformations | Before pain point | Vision-focused |
-| **4C** | Professional content | Clear value prop | Clear next step |
+| Công thức | Khi nào dùng                 | Hook mạnh nhất              | CTA type         |
+| --------- | ---------------------------- | --------------------------- | ---------------- |
+| **AIDA**  | Universal, blog posts        | 5 loại hook "Thánh Content" | Urgent + Benefit |
+| **PAS**   | Email sequences, sales copy  | Problem + Statistic         | Risk reducer     |
+| **FAB**   | Product descriptions         | Feature shock               | Feature-driven   |
+| **BAB**   | Before/after transformations | Before pain point           | Vision-focused   |
+| **4C**    | Professional content         | Clear value prop            | Clear next step  |
 
 ### 1.2 9 Công thức Nâng cao (60 phút)
 
 #### 🚀 Công thức 6: 4U Formula
 
 **Cấu trúc 4U:**
-- **U1 - Useful (Hữu ích):** Giải quyết vấn đề cụ thể
-- **U2 - Urgent (Cấp bách):** Tạo tính thúc đẩy hành động  
-- **U3 - Unique (Độc đáo):** Khác biệt với competitors
-- **U4 - Ultra-specific (Siêu cụ thể):** Chi tiết rõ ràng
+
+-   **U1 - Useful (Hữu ích):** Giải quyết vấn đề cụ thể
+-   **U2 - Urgent (Cấp bách):** Tạo tính thúc đẩy hành động
+-   **U3 - Unique (Độc đáo):** Khác biệt với competitors
+-   **U4 - Ultra-specific (Siêu cụ thể):** Chi tiết rõ ràng
 
 **📝 Ví dụ 4U cho CSA Vietnam:**
 
@@ -63,7 +65,7 @@
 🎯 U1 - USEFUL:
 "Phương pháp Data-driven Marketing giúp SME tăng ROI 200% trong Q1/2025"
 
-⏰ U2 - URGENT: 
+⏰ U2 - URGENT:
 "Chỉ còn 72 giờ để đăng ký gói Marketing Automation với giá Early Bird"
 
 ⭐ U3 - UNIQUE:
@@ -76,13 +78,14 @@
 #### 🌟 Công thức 7: A FOREST
 
 **Cấu trúc A FOREST (cho long-form content):**
-- **A - Alliteration:** Lặp lại âm đầu để dễ nhớ
-- **F - Facts:** Dẫn chứng sự thật cụ thể
-- **O - Opinions:** Quan điểm cá nhân/chuyên gia
-- **R - Repetition:** Lặp lại thông điệp chính
-- **E - Examples:** Ví dụ minh họa thực tế  
-- **S - Statistics:** Số liệu thống kê
-- **T - Threes:** Quy tắc số 3
+
+-   **A - Alliteration:** Lặp lại âm đầu để dễ nhớ
+-   **F - Facts:** Dẫn chứng sự thật cụ thể
+-   **O - Opinions:** Quan điểm cá nhân/chuyên gia
+-   **R - Repetition:** Lặp lại thông điệp chính
+-   **E - Examples:** Ví dụ minh họa thực tế
+-   **S - Statistics:** Số liệu thống kê
+-   **T - Threes:** Quy tắc số 3
 
 **📝 Ví dụ A FOREST cho CSA Vietnam:**
 
@@ -112,8 +115,9 @@
 #### 🛡️ Công thức 8: 5 Sự Cản Trở
 
 **Cấu trúc 5 Objections:**
+
 1. **"Tôi không đủ tiền"** → Giải pháp thanh toán linh hoạt
-2. **"Tôi không có thời gian"** → Automation và Done-for-you service  
+2. **"Tôi không có thời gian"** → Automation và Done-for-you service
 3. **"Tôi không cần"** → Chỉ ra cost của việc không làm
 4. **"Tôi không tin"** → Social proof và case studies
 5. **"Tôi không thích"** → Customization và personalization
@@ -124,7 +128,7 @@
 💰 1. "BUDGET KHÔNG ĐỦ":
 "Gói Starter 8 triệu/tháng = 267k/ngày = giá 1 bữa team lunch nhưng ROI 300%"
 
-⏰ 2. "KHÔNG CÓ THỜI GIAN":  
+⏰ 2. "KHÔNG CÓ THỜI GIAN":
 "CSA handle 100% execution, bạn chỉ cần 30 phút/tuần review report"
 
 ❓ 3. "KHÔNG CẦN":
@@ -140,8 +144,9 @@
 #### 🎯 Công thức 9: 3 Lý Do Vì Sao
 
 **Cấu trúc 3 Why:**
+
 1. **Vì sao sản phẩm/dịch vụ hiệu quả nhất?**
-2. **Vì sao khách hàng phải chọn bạn?**  
+2. **Vì sao khách hàng phải chọn bạn?**
 3. **Vì sao phải hành động ngay bây giờ?**
 
 **📝 Ví dụ 3 Lý Do cho CSA Vietnam:**
@@ -153,22 +158,23 @@
 ⭐ 2. VÌ SAO CHỌN CSA?
 "Duy nhất agency focus 100% SME, hiểu cash flow và budget constraints của bạn"
 
-⚡ 3. VÌ SAO NGAY BÂY GIỜ?  
+⚡ 3. VÌ SAO NGAY BÂY GIỜ?
 "Q3 là golden time cho growth, delay 1 tháng = mất 25% peak season opportunity"
 ```
 
 #### 📸 Công thức 10: 4P (Picture-Promise-Prove-Push)
 
 **Cấu trúc 4P (cho visual content):**
-- **P1 - Picture:** Hình ảnh thu hút attention
-- **P2 - Promise:** Cam kết giá trị cụ thể
-- **P3 - Prove:** Chứng minh bằng data/testimonial
-- **P4 - Push:** Kêu gọi hành động mạnh mẽ
+
+-   **P1 - Picture:** Hình ảnh thu hút attention
+-   **P2 - Promise:** Cam kết giá trị cụ thể
+-   **P3 - Prove:** Chứng minh bằng data/testimonial
+-   **P4 - Push:** Kêu gọi hành động mạnh mẽ
 
 **📝 Ví dụ 4P cho CSA Vietnam:**
 
 ```
-📸 P1 - PICTURE: 
+📸 P1 - PICTURE:
 [Hình dashboard showing ROI 247% cho client]
 
 🎯 P2 - PROMISE:
@@ -180,7 +186,9 @@
 🚀 P4 - PUSH:
 "Chỉ còn 2 slots cho Q3. Book ngay consultation call để secure spot!"
 ```
+
 ✅ GOOD: "Dịch Vụ Marketing Online Chuyên Nghiệp | CSA Vietnam"
+
 ```
 
 **📝 Meta Description Optimization:**
@@ -193,7 +201,9 @@
 **Example:**
 
 ```
+
 ✅ GOOD: "Dịch vụ marketing online toàn diện cho SME. Tăng doanh thu 200% với chiến lược proven của CSA Vietnam. Tư vấn miễn phí ngay!"
+
 ```
 
 **📋 Header Structure:**
@@ -223,15 +233,18 @@
 **🧠 Semantic Keyword Examples:**
 
 ```
+
 Primary: "digital marketing"
 Semantic keywords:
-- online marketing
-- internet marketing
-- digital advertising
-- social media marketing
-- content marketing
-- email marketing
-- SEO optimization
+
+-   online marketing
+-   internet marketing
+-   digital advertising
+-   social media marketing
+-   content marketing
+-   email marketing
+-   SEO optimization
+
 ```
 
 #### Content Quality Factors:
@@ -277,25 +290,32 @@ Semantic keywords:
 **2. Content Type Performance:**
 
 ```
+
 📊 ENGAGEMENT RATES BY TYPE:
-- Video content: 6.5% average engagement
-- Image posts: 4.2% average engagement
-- Link posts: 2.8% average engagement
-- Text posts: 1.9% average engagement
+
+-   Video content: 6.5% average engagement
+-   Image posts: 4.2% average engagement
+-   Link posts: 2.8% average engagement
+-   Text posts: 1.9% average engagement
+
 ```
 
 **3. Posting Time Optimization:**
 
 ```
+
 🕐 BEST TIMES (Vietnam timezone):
 Monday-Friday:
-- 9:00 AM (people checking before work)
-- 1:00 PM (lunch break browsing)
-- 8:00 PM (evening social time)
+
+-   9:00 AM (people checking before work)
+-   1:00 PM (lunch break browsing)
+-   8:00 PM (evening social time)
 
 Weekend:
-- 10:00 AM (casual morning browsing)
-- 2:00 PM (afternoon leisure)
+
+-   10:00 AM (casual morning browsing)
+-   2:00 PM (afternoon leisure)
+
 ```
 
 **📝 Facebook Content Optimization Tactics:**
@@ -303,20 +323,25 @@ Weekend:
 **Hook Formulas cho Facebook:**
 
 ```
+
 🎯 CURIOSITY HOOKS:
-- "3 điều mà 90% SME owners không biết về..."
-- "Tại sao [common belief] lại hoàn toàn sai?"
-- "Bí mật mà competitors không muốn bạn biết"
+
+-   "3 điều mà 90% SME owners không biết về..."
+-   "Tại sao [common belief] lại hoàn toàn sai?"
+-   "Bí mật mà competitors không muốn bạn biết"
 
 🎯 BENEFIT HOOKS:
-- "Cách tăng doanh thu 50% mà không tăng budget"
-- "5 phút đọc này sẽ save 5 triệu marketing budget"
-- "Từ 0 đến 1000 leads trong 30 ngày"
+
+-   "Cách tăng doanh thu 50% mà không tăng budget"
+-   "5 phút đọc này sẽ save 5 triệu marketing budget"
+-   "Từ 0 đến 1000 leads trong 30 ngày"
 
 🎯 STORY HOOKS:
-- "2 năm trước, khách hàng này gần như phá sản..."
-- "Cuộc gọi 15 phút này đã thay đổi business của họ"
-- "Mistake này cost 500 triệu, nhưng lesson learned priceless"
+
+-   "2 năm trước, khách hàng này gần như phá sản..."
+-   "Cuộc gọi 15 phút này đã thay đổi business của họ"
+-   "Mistake này cost 500 triệu, nhưng lesson learned priceless"
+
 ```
 
 #### LinkedIn Algorithm Mastery:
@@ -340,11 +365,14 @@ Weekend:
 **3. Content Format Performance:**
 
 ```
+
 📈 LINKEDIN ENGAGEMENT RATES:
-- Text posts with images: 5.8%
-- Video content: 4.9%
-- Document posts: 4.2%
-- Article shares: 3.1%
+
+-   Text posts with images: 5.8%
+-   Video content: 4.9%
+-   Document posts: 4.2%
+-   Article shares: 3.1%
+
 ```
 
 **📊 LinkedIn Content Strategy:**
@@ -352,29 +380,35 @@ Weekend:
 **Professional Content Pillars:**
 
 ```
+
 🎯 THOUGHT LEADERSHIP (40%):
-- Industry predictions và analysis
-- Personal insights from experience
-- Controversial takes (balanced)
-- Future trends discussion
+
+-   Industry predictions và analysis
+-   Personal insights from experience
+-   Controversial takes (balanced)
+-   Future trends discussion
 
 🎯 EDUCATIONAL (35%):
-- How-to guides for professionals
-- Best practices sharing
-- Tools và resources recommendations
-- Skill development content
+
+-   How-to guides for professionals
+-   Best practices sharing
+-   Tools và resources recommendations
+-   Skill development content
 
 🎯 BEHIND-SCENES (15%):
-- Company culture insights
-- Team achievements
-- Work process transparency
-- Professional journey stories
+
+-   Company culture insights
+-   Team achievements
+-   Work process transparency
+-   Professional journey stories
 
 🎯 ENGAGEMENT (10%):
-- Polls về industry topics
-- Questions for community
-- Opinion requests
-- Discussion starters
+
+-   Polls về industry topics
+-   Questions for community
+-   Opinion requests
+-   Discussion starters
+
 ```
 
 #### Instagram Algorithm Optimization:
@@ -407,12 +441,15 @@ Weekend:
 **Content Type ROI:**
 
 ```
+
 📈 AVERAGE ENGAGEMENT RATES:
-- Reels: 7.3% (highest reach)
-- Carousel posts: 5.9%
-- Single image posts: 4.7%
-- Video posts: 4.3%
-- Story content: 2.1% (but high frequency)
+
+-   Reels: 7.3% (highest reach)
+-   Carousel posts: 5.9%
+-   Single image posts: 4.7%
+-   Video posts: 4.3%
+-   Story content: 2.1% (but high frequency)
+
 ```
 
 **🎬 Instagram Content Optimization:**
@@ -420,16 +457,20 @@ Weekend:
 **Reels Strategy:**
 
 ```
+
 🎯 15-SECOND FORMULA:
-- Seconds 0-3: Hook (problem/question)
-- Seconds 3-10: Value delivery (solution/answer)
-- Seconds 10-15: CTA và branding
+
+-   Seconds 0-3: Hook (problem/question)
+-   Seconds 3-10: Value delivery (solution/answer)
+-   Seconds 10-15: CTA và branding
 
 🎯 TRENDING PARTICIPATION:
-- Audio trends + business twist
-- Challenge participation với brand message
-- Meme adaptation for B2B context
-- Transition trends với before/after content
+
+-   Audio trends + business twist
+-   Challenge participation với brand message
+-   Meme adaptation for B2B context
+-   Transition trends với before/after content
+
 ```
 
 ### 2.2 Content Analytics & Performance Measurement
@@ -441,47 +482,59 @@ Weekend:
 **Level 1: Awareness Metrics**
 
 ```
+
 🎯 REACH & IMPRESSION:
-- Total reach: Unique people seeing content
-- Impression: Total content views
-- Share of voice: Brand mentions vs competitors
-- Brand awareness lift: Survey-based measurement
+
+-   Total reach: Unique people seeing content
+-   Impression: Total content views
+-   Share of voice: Brand mentions vs competitors
+-   Brand awareness lift: Survey-based measurement
 
 📊 CSA VIETNAM BENCHMARKS:
-- Monthly reach target: 100,000+ unique users
-- Impression growth: 15% month-over-month
-- Share of voice: Top 3 trong "marketing agency HCM"
+
+-   Monthly reach target: 100,000+ unique users
+-   Impression growth: 15% month-over-month
+-   Share of voice: Top 3 trong "marketing agency HCM"
+
 ```
 
 **Level 2: Engagement Metrics**
 
 ```
+
 🤝 INTERACTION RATES:
-- Engagement rate: (Likes + Comments + Shares) / Reach × 100
-- Comment rate: Comments / Reach × 100
-- Share rate: Shares / Reach × 100
-- Save rate: Saves / Reach × 100 (Instagram)
+
+-   Engagement rate: (Likes + Comments + Shares) / Reach × 100
+-   Comment rate: Comments / Reach × 100
+-   Share rate: Shares / Reach × 100
+-   Save rate: Saves / Reach × 100 (Instagram)
 
 📊 INDUSTRY BENCHMARKS:
-- Facebook engagement: 3-5% excellent
-- LinkedIn engagement: 4-6% excellent
-- Instagram engagement: 5-7% excellent
+
+-   Facebook engagement: 3-5% excellent
+-   LinkedIn engagement: 4-6% excellent
+-   Instagram engagement: 5-7% excellent
+
 ```
 
 **Level 3: Conversion Metrics**
 
 ```
+
 💰 BUSINESS IMPACT:
-- Click-through rate (CTR): Clicks / Impressions × 100
-- Cost per click (CPC): Ad spend / Total clicks
-- Lead conversion rate: Leads / Website visitors × 100
-- Customer acquisition cost (CAC): Marketing spend / New customers
+
+-   Click-through rate (CTR): Clicks / Impressions × 100
+-   Cost per click (CPC): Ad spend / Total clicks
+-   Lead conversion rate: Leads / Website visitors × 100
+-   Customer acquisition cost (CAC): Marketing spend / New customers
 
 📊 CSA VIETNAM TARGETS:
-- CTR target: >2% for organic content
-- Lead conversion: >5% for landing pages
-- CAC target: <2,000,000 VND per customer
-```
+
+-   CTR target: >2% for organic content
+-   Lead conversion: >5% for landing pages
+-   CAC target: <2,000,000 VND per customer
+
+````
 
 #### Google Analytics 4 Setup cho Content Marketing:
 
@@ -514,7 +567,7 @@ gtag("event", "lead_generation", {
     source_content: "Blog CTA",
     lead_value: 500000,
 });
-```
+````
 
 **📊 GA4 Custom Reports cho Content:**
 
@@ -659,13 +712,13 @@ Hook (5-8 từ đầu) → Phép Sóng Đôi → Story/Value → CTA với Urgen
 
 💬 ENGAGEMENT HACKS:
 - Kết thúc post bằng câu hỏi + emoji relevant
-- "Tag 3 bạn muốn share tip này..." mechanics  
+- "Tag 3 bạn muốn share tip này..." mechanics
 - Controversial opinions (không political) tăng comments
 - User-generated content campaigns với hashtag riêng
 
 📊 POSTING BEST PRACTICES:
 - Golden hours: 9-10AM và 7-9PM (weekdays)
-- Weekends: Saturday 12-1PM performing well  
+- Weekends: Saturday 12-1PM performing well
 - Frequency: 1-2 posts/day optimal cho business pages
 - Cross-promote: Instagram Stories → Facebook posts
 ```
@@ -681,7 +734,7 @@ Hook (5-8 từ đầu) → Phép Sóng Đôi → Story/Value → CTA với Urgen
    - Loop count (người xem lại nhiều lần)
    - Save video để xem sau
 
-2. Early Engagement (30%)  
+2. Early Engagement (30%)
    - Likes, comments, shares trong 1 giờ đầu
    - Share rate đặc biệt quan trọng (viral indicator)
    - Speed of engagement (engagement velocity)
@@ -702,7 +755,7 @@ Hook (5-8 từ đầu) → Phép Sóng Đôi → Story/Value → CTA với Urgen
 ```
 📱 CONTENT PILLARS CHO B2B:
 - Educational (40%): Quick tips, step-by-step tutorials
-- Behind-the-scenes (30%): Team working, office culture  
+- Behind-the-scenes (30%): Team working, office culture
 - Trending participation (20%): Sounds, challenges adaptation
 - Soft promotion (10%): Client wins, case study teaser
 
