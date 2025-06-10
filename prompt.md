@@ -53,4 +53,6 @@ Hãy giúp tôi tạo ra một chương trình chi tiết cho khóa training nà
 
 ------
 
-Hãy đọc file `references\content-chan-kinh.md` và `references\cong-thuc-content.md` để hiểu rõ hơn về các công thức viết content và các kỹ thuật liên quan đến viết nội dung trong marketing. Và cập nhật lại nội dung của các file trong folder của bạn theo những thông tin đó.
+Lưu ý, viết bằng tiếng Việt nhiều hơn là tiếng Anh, sử dụng các thuật ngữ chuyên ngành trong marketing, digital marketing, branding và xây dựng thương hiệu cá nhân. Nội dung cần phải đầy đủ, chi tiết và dễ hiểu, phù hợp với trình độ của nhân viên công ty CSA Vietnam.
+file `references\cong-thuc-content.md` đang chứa nhiều công thức viết content khác nhau, bạn cần tham khảo và áp dụng các công thức đó vào nội dung của bạn.
+Hãy đọc file `references\content-chan-kinh.md` và `references\cong-thuc-content.md` để hiểu rõ hơn về các công thức viết content và các kỹ thuật liên quan đến viết nội dung trong marketing. Và cập nhật lại nội dung của khóa học theo những thông tin mới nhất trong các file đó.
