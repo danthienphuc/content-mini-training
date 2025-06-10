@@ -7,45 +7,50 @@
 ### 1.1 AIDA Formula - The Classic Conversion Framework
 
 #### Định nghĩa AIDA:
+
 **A**ttention (Thu hút chú ý) → **I**nterest (Tạo sự quan tâm) → **D**esire (Khơi gợi mong muốn) → **A**ction (Thúc đẩy hành động)
 
 #### Cấu trúc chi tiết:
 
 **🎯 A - ATTENTION (Headline + Hook)**
-- **Mục đích:** Dừng scroll, thu hút click
-- **Thời gian:** 3-5 giây đầu tiên
-- **Techniques:**
-  - Number headlines: "5 cách để..."
-  - Question hooks: "Bạn có biết..."
-  - Shocking stats: "89% doanh nghiệp Việt..."
-  - Pain point callout: "Đang đau đầu vì..."
+
+-   **Mục đích:** Dừng scroll, thu hút click
+-   **Thời gian:** 3-5 giây đầu tiên
+-   **Techniques:**
+    -   Number headlines: "5 cách để..."
+    -   Question hooks: "Bạn có biết..."
+    -   Shocking stats: "89% doanh nghiệp Việt..."
+    -   Pain point callout: "Đang đau đầu vì..."
 
 **🔍 I - INTEREST (Value Proposition)**
-- **Mục đích:** Giữ chân người đọc tiếp
-- **Thời gian:** 15-30 giây tiếp theo
-- **Techniques:**
-  - Story opening: Kể câu chuyện liên quan
-  - Problem amplification: Mở rộng vấn đề
-  - Benefit preview: Hint về giải pháp
-  - Credibility indicators: Stats, testimonials
+
+-   **Mục đích:** Giữ chân người đọc tiếp
+-   **Thời gian:** 15-30 giây tiếp theo
+-   **Techniques:**
+    -   Story opening: Kể câu chuyện liên quan
+    -   Problem amplification: Mở rộng vấn đề
+    -   Benefit preview: Hint về giải pháp
+    -   Credibility indicators: Stats, testimonials
 
 **💖 D - DESIRE (Solution + Benefits)**
-- **Mục đích:** Khiến họ muốn sản phẩm/dịch vụ
-- **Thời gian:** Phần chính của content
-- **Techniques:**
-  - Feature → Benefit transformation
-  - Social proof (case studies, reviews)
-  - Before/After scenarios
-  - Emotional triggers (fear, pride, security)
+
+-   **Mục đích:** Khiến họ muốn sản phẩm/dịch vụ
+-   **Thời gian:** Phần chính của content
+-   **Techniques:**
+    -   Feature → Benefit transformation
+    -   Social proof (case studies, reviews)
+    -   Before/After scenarios
+    -   Emotional triggers (fear, pride, security)
 
 **🚀 A - ACTION (Clear CTA)**
-- **Mục đích:** Conversion cụ thể
-- **Thời gian:** 2-5 giây cuối
-- **Techniques:**
-  - Strong action verbs: "Đặt lịch", "Tải ngay"
-  - Urgency creators: "Chỉ còn 3 ngày"
-  - Risk reducers: "Miễn phí", "Không cam kết"
-  - Benefit reinforcement: "Nhận báo giá trong 24h"
+
+-   **Mục đích:** Conversion cụ thể
+-   **Thời gian:** 2-5 giây cuối
+-   **Techniques:**
+    -   Strong action verbs: "Đặt lịch", "Tải ngay"
+    -   Urgency creators: "Chỉ còn 3 ngày"
+    -   Risk reducers: "Miễn phí", "Không cam kết"
+    -   Benefit reinforcement: "Nhận báo giá trong 24h"
 
 #### Ví dụ AIDA cho CSA Vietnam:
 
@@ -73,21 +78,24 @@ CSA Vietnam đã giúp 50+ doanh nghiệp tăng trưởng average 150% revenue t
 #### Cấu trúc PAS:
 
 **🔴 P - PROBLEM (Xác định vấn đề)**
-- Nêu rõ pain point mà audience đang gặp
-- Specific và relatable với target persona
-- Avoid generic problems, focus vào unique challenges
+
+-   Nêu rõ pain point mà audience đang gặp
+-   Specific và relatable với target persona
+-   Avoid generic problems, focus vào unique challenges
 
 **😤 A - AGITATION (Khuấy động cảm xúc)**
-- Amplify consequences của problem
-- Paint picture về worst-case scenario
-- Create urgency về việc giải quyết
-- Emotional triggers: frustration, fear, anxiety
+
+-   Amplify consequences của problem
+-   Paint picture về worst-case scenario
+-   Create urgency về việc giải quyết
+-   Emotional triggers: frustration, fear, anxiety
 
 **✅ S - SOLUTION (Đưa ra giải pháp)**
-- Present product/service như hero
-- Focus vào outcomes, không chỉ features
-- Include social proof và credibility
-- Clear path forward với specific CTA
+
+-   Present product/service như hero
+-   Focus vào outcomes, không chỉ features
+-   Include social proof và credibility
+-   Clear path forward với specific CTA
 
 #### Ví dụ PAS cho dịch vụ Website Design:
 
@@ -109,19 +117,22 @@ CSA Vietnam redesign website với mobile-first approach, loading speed < 3 giâ
 #### Cấu trúc FAB:
 
 **⚙️ F - FEATURES (Tính năng)**
-- What the product/service DOES
-- Technical specifications và capabilities
-- Concrete, measurable aspects
+
+-   What the product/service DOES
+-   Technical specifications và capabilities
+-   Concrete, measurable aspects
 
 **📈 A - ADVANTAGES (Lợi thế)**
-- How features make it BETTER than alternatives
-- Competitive differentiation
-- Unique selling propositions
+
+-   How features make it BETTER than alternatives
+-   Competitive differentiation
+-   Unique selling propositions
 
 **💎 B - BENEFITS (Lợi ích)**
-- What it MEANS for the customer
-- Emotional và practical outcomes
-- End results trong business/life của họ
+
+-   What it MEANS for the customer
+-   Emotional và practical outcomes
+-   End results trong business/life của họ
 
 #### Ví dụ FAB cho Social Media Management:
 
@@ -150,19 +161,22 @@ CSA Vietnam redesign website với mobile-first approach, loading speed < 3 giâ
 #### Cấu trúc BAB:
 
 **😵 B - BEFORE (Tình trạng hiện tại)**
-- Current pain state của customer
-- Frustrations và limitations
-- Status quo không sustainable
+
+-   Current pain state của customer
+-   Frustrations và limitations
+-   Status quo không sustainable
 
 **🌟 A - AFTER (Tương lai mong muốn)**
-- Ideal outcome sau khi dùng solution
-- Vision của perfect state
-- Dream scenario với specific results
+
+-   Ideal outcome sau khi dùng solution
+-   Vision của perfect state
+-   Dream scenario với specific results
 
 **🌉 B - BRIDGE (Cầu nối)**
-- How to get from Before to After
-- Your product/service là vehicle
-- Specific process và timeline
+
+-   How to get from Before to After
+-   Your product/service là vehicle
+-   Specific process và timeline
 
 #### Ví dụ BAB cho Marketing Automation:
 
@@ -176,7 +190,7 @@ Imagine: Marketing system chạy tự động 24/7. Leads qualify và nurture th
 🌉 BRIDGE:
 CSA Marketing Automation Suite là bridge từ chaos to control. 3-step implementation:
 1. Setup (2 tuần): Integrate tools, build workflows, train team
-2. Optimize (1 tháng): A/B test, refine processes, improve conversions  
+2. Optimize (1 tháng): A/B test, refine processes, improve conversions
 3. Scale (ongoing): Advanced features, expansion, continuous growth
 
 Result: Client average tăng 250% efficiency và 180% revenue trong 6 tháng đầu.
@@ -187,28 +201,32 @@ Result: Client average tăng 250% efficiency và 180% revenue trong 6 tháng đ�
 #### 4 Principles của Effective Content:
 
 **🔍 C1 - CLEAR (Rõ ràng)**
-- Simple language, avoid jargon
-- One main idea per paragraph
-- Logical flow và structure
-- Headers và bullet points để scan dễ
+
+-   Simple language, avoid jargon
+-   One main idea per paragraph
+-   Logical flow và structure
+-   Headers và bullet points để scan dễ
 
 **⚡ C2 - CONCISE (Súc tích)**
-- No fluff, every word has purpose
-- Short sentences và paragraphs
-- Get to the point quickly
-- Respect audience's time
+
+-   No fluff, every word has purpose
+-   Short sentences và paragraphs
+-   Get to the point quickly
+-   Respect audience's time
 
 **🎯 C3 - COMPELLING (Hấp dẫn)**
-- Emotional hooks và storytelling
-- Relevant examples và case studies
-- Strong CTAs và value propositions
-- Address reader's specific needs
+
+-   Emotional hooks và storytelling
+-   Relevant examples và case studies
+-   Strong CTAs và value propositions
+-   Address reader's specific needs
 
 **🏆 C4 - CREDIBLE (Đáng tin cậy)**
-- Data, stats, và testimonials
-- Expert quotes và industry insights
-- Social proof và authority signals
-- Transparent about limitations
+
+-   Data, stats, và testimonials
+-   Expert quotes và industry insights
+-   Social proof và authority signals
+-   Transparent about limitations
 
 #### Checklist 4C cho mọi content:
 
@@ -243,26 +261,29 @@ Result: Client average tăng 250% efficiency và 180% revenue trong 6 tháng đ�
 #### 3-Act Structure cho Brand Stories:
 
 **🎬 ACT 1 - SETUP (25%)**
-- **Character:** Who is the hero? (Customer, not brand)
-- **Context:** What's the world they live in?
-- **Conflict:** What problem do they face?
+
+-   **Character:** Who is the hero? (Customer, not brand)
+-   **Context:** What's the world they live in?
+-   **Conflict:** What problem do they face?
 
 **🎬 ACT 2 - CONFRONTATION (50%)**
-- **Stakes:** What happens if they fail?
-- **Struggle:** Attempts to solve problem
-- **Mentor:** How brand helps (guide role)
+
+-   **Stakes:** What happens if they fail?
+-   **Struggle:** Attempts to solve problem
+-   **Mentor:** How brand helps (guide role)
 
 **🎬 ACT 3 - RESOLUTION (25%)**
-- **Solution:** How problem gets solved
-- **Transformation:** How hero changes
-- **New Normal:** Life after success
+
+-   **Solution:** How problem gets solved
+-   **Transformation:** How hero changes
+-   **New Normal:** Life after success
 
 #### StoryBrand Framework cho Business:
 
 ```
 [CHARACTER] wants [GOAL]
 But faces [PROBLEM]
-So they need [GUIDE - Your Brand] 
+So they need [GUIDE - Your Brand]
 Who gives them [PLAN]
 And calls them to [ACTION]
 That results in [SUCCESS]
@@ -302,64 +323,74 @@ Prevent wasted budget, missed opportunities, competitor dominance.
 #### 6 Core Emotions để Leverage:
 
 **😨 FEAR (Sợ hãi)**
-- Fear of missing out (FOMO)
-- Fear of failure trong business
-- Fear of being left behind by competitors
-- Use case: Urgency-driven content, limited offers
+
+-   Fear of missing out (FOMO)
+-   Fear of failure trong business
+-   Fear of being left behind by competitors
+-   Use case: Urgency-driven content, limited offers
 
 **😡 ANGER/FRUSTRATION (Tức giận)**
-- Frustration với current solutions
-- Anger about industry problems
-- Indignation về unfair practices
-- Use case: Disruptive positioning, challenger brand
+
+-   Frustration với current solutions
+-   Anger about industry problems
+-   Indignation về unfair practices
+-   Use case: Disruptive positioning, challenger brand
 
 **🎉 JOY/EXCITEMENT (Vui vẻ)**
-- Excitement about new opportunities
-- Joy of achieving goals
-- Pride trong accomplishments
-- Use case: Success stories, celebrations
+
+-   Excitement about new opportunities
+-   Joy of achieving goals
+-   Pride trong accomplishments
+-   Use case: Success stories, celebrations
 
 **😢 SADNESS/EMPATHY (Đồng cảm)**
-- Struggle stories
-- Understanding customer pain
-- Shared challenges trong industry
-- Use case: Build connection, trust
+
+-   Struggle stories
+-   Understanding customer pain
+-   Shared challenges trong industry
+-   Use case: Build connection, trust
 
 **🤔 CURIOSITY (Tò mò)**
-- "How did they do it?"
-- Behind-the-scenes content
-- Industry secrets
-- Use case: Educational content, thought leadership
+
+-   "How did they do it?"
+-   Behind-the-scenes content
+-   Industry secrets
+-   Use case: Educational content, thought leadership
 
 **💪 TRUST/SECURITY (Tin tưởng)**
-- Reliability và consistency
-- Safety trong choices
-- Confidence trong outcomes
-- Use case: Testimonials, guarantees
+
+-   Reliability và consistency
+-   Safety trong choices
+-   Confidence trong outcomes
+-   Use case: Testimonials, guarantees
 
 ### 2.3 Viết Headlines Hiệu Quả
 
 #### 4 Types of High-Converting Headlines:
 
 **1. NUMBER HEADLINES**
-- "5 Strategies to Double Your Revenue"
-- "23 Content Ideas cho Social Media"
-- "3-Step Process to Build Brand Awareness"
 
-**2. QUESTION HEADLINES**  
-- "Bạn có biết tại sao 80% startups fail?"
-- "What if marketing could run itself?"
-- "Ready to scale your business?"
+-   "5 Strategies to Double Your Revenue"
+-   "23 Content Ideas cho Social Media"
+-   "3-Step Process to Build Brand Awareness"
+
+**2. QUESTION HEADLINES**
+
+-   "Bạn có biết tại sao 80% startups fail?"
+-   "What if marketing could run itself?"
+-   "Ready to scale your business?"
 
 **3. HOW-TO HEADLINES**
-- "How to Get 1000 Qualified Leads per Month"
-- "How CSA Helped Clients Achieve 300% Growth"
-- "How to Build Brand từ Zero to Hero"
+
+-   "How to Get 1000 Qualified Leads per Month"
+-   "How CSA Helped Clients Achieve 300% Growth"
+-   "How to Build Brand từ Zero to Hero"
 
 **4. BENEFIT HEADLINES**
-- "Get More Customers Without Increasing Budget"
-- "Turn Your Website Into Lead Generation Machine"
-- "Build Brand That Customers Love"
+
+-   "Get More Customers Without Increasing Budget"
+-   "Turn Your Website Into Lead Generation Machine"
+-   "Build Brand That Customers Love"
 
 #### Headline Formulas That Work:
 
@@ -386,35 +417,41 @@ Example: "How Nam Phương SG Increased Leads 300% in 3 Months"
 #### Anatomy của Strong CTA:
 
 **1. ACTION VERB (Động từ hành động)**
-- Strong: Tải, Đặt lịch, Nhận, Bắt đầu
-- Weak: Click, Tìm hiểu, Xem thêm
+
+-   Strong: Tải, Đặt lịch, Nhận, Bắt đầu
+-   Weak: Click, Tìm hiểu, Xem thêm
 
 **2. VALUE PROPOSITION (Giá trị)**
-- What they get: "Nhận báo giá miễn phí"
-- Time benefit: "Trong 24 giờ"
-- Risk reduction: "Không cam kết"
+
+-   What they get: "Nhận báo giá miễn phí"
+-   Time benefit: "Trong 24 giờ"
+-   Risk reduction: "Không cam kết"
 
 **3. URGENCY (Tính khẩn cấp)**
-- Limited time: "Chỉ còn 3 ngày"
-- Limited quantity: "Chỉ 10 suất"
-- Immediate action: "Ngay hôm nay"
+
+-   Limited time: "Chỉ còn 3 ngày"
+-   Limited quantity: "Chỉ 10 suất"
+-   Immediate action: "Ngay hôm nay"
 
 #### CTA Examples cho Different Goals:
 
 **LEAD GENERATION:**
-- "Đặt lịch tư vấn MIỄN PHÍ - Nhận audit marketing trong 48h"
-- "Tải template content calendar - 50+ ý tưởng ready-to-use"
-- "Nhận báo giá chi tiết - Phù hợp với budget của bạn"
+
+-   "Đặt lịch tư vấn MIỄN PHÍ - Nhận audit marketing trong 48h"
+-   "Tải template content calendar - 50+ ý tưởng ready-to-use"
+-   "Nhận báo giá chi tiết - Phù hợp với budget của bạn"
 
 **SALES CONVERSION:**
-- "Bắt đầu dự án ngay - Setup trong 7 ngày"
-- "Đặt hàng ngay - Miễn phí shipping toàn quốc"
-- "Ký hợp đồng hôm nay - Tặng 1 tháng dịch vụ"
+
+-   "Bắt đầu dự án ngay - Setup trong 7 ngày"
+-   "Đặt hàng ngay - Miễn phí shipping toàn quốc"
+-   "Ký hợp đồng hôm nay - Tặng 1 tháng dịch vụ"
 
 **ENGAGEMENT:**
-- "Chia sẻ story của bạn - Cơ hội được feature"
-- "Join community - 1000+ marketers đang thảo luận"
-- "Subscribe newsletter - Tips mỗi tuần"
+
+-   "Chia sẻ story của bạn - Cơ hội được feature"
+-   "Join community - 1000+ marketers đang thảo luận"
+-   "Subscribe newsletter - Tips mỗi tuần"
 
 ---
 
@@ -425,22 +462,25 @@ Example: "How Nam Phương SG Increased Leads 300% in 3 Months"
 #### Content Types hiệu quả:
 
 **📝 TEXT POSTS (Engagement cao)**
-- Length: 40-80 words optimal
-- Tone: Conversational, personal
-- Format: Question → Story → CTA
-- Best time: 9AM, 1PM, 3PM
+
+-   Length: 40-80 words optimal
+-   Tone: Conversational, personal
+-   Format: Question → Story → CTA
+-   Best time: 9AM, 1PM, 3PM
 
 **📸 IMAGE POSTS (Reach cao)**
-- Aspect ratio: 1:1 hoặc 4:5 cho mobile
-- Text overlay: < 20% của image
-- Colors: Brand consistent, eye-catching
-- Captions: 125 characters cho preview
+
+-   Aspect ratio: 1:1 hoặc 4:5 cho mobile
+-   Text overlay: < 20% của image
+-   Colors: Brand consistent, eye-catching
+-   Captions: 125 characters cho preview
 
 **🎥 VIDEO POSTS (Algorithm favor)**
-- Length: 15-60 seconds cho organic
-- First 3 seconds: Hook critical
-- Captions: Always add cho accessibility
-- Format: Square hoặc vertical
+
+-   Length: 15-60 seconds cho organic
+-   First 3 seconds: Hook critical
+-   Captions: Always add cho accessibility
+-   Format: Square hoặc vertical
 
 #### Facebook Content Template:
 
@@ -450,7 +490,7 @@ Example: "How Nam Phương SG Increased Leads 300% in 3 Months"
 [HOOK - 1 line]
 Attention-grabbing statement hoặc question
 
-[STORY - 2-3 lines]  
+[STORY - 2-3 lines]
 Brief story hoặc context relevant to audience
 
 [VALUE - 2-3 lines]
@@ -467,22 +507,25 @@ Clear next step với strong action verb
 #### Professional Tone Guidelines:
 
 **📊 DATA-DRIVEN CONTENT**
-- Industry insights với statistics
-- Trend analysis với predictions
-- Case study results với numbers
-- Research findings với implications
+
+-   Industry insights với statistics
+-   Trend analysis với predictions
+-   Case study results với numbers
+-   Research findings với implications
 
 **🎓 EDUCATIONAL CONTENT**
-- How-to guides cho professionals
-- Best practices từ experience
-- Mistakes to avoid trong industry
-- Tools và resources recommendations
+
+-   How-to guides cho professionals
+-   Best practices từ experience
+-   Mistakes to avoid trong industry
+-   Tools và resources recommendations
 
 **👥 THOUGHT LEADERSHIP**
-- Industry commentary
-- Future predictions
-- Controversial opinions (balanced)
-- Personal insights from experience
+
+-   Industry commentary
+-   Future predictions
+-   Controversial opinions (balanced)
+-   Personal insights from experience
 
 #### LinkedIn Post Structure:
 
@@ -497,7 +540,7 @@ Background information hoặc personal experience
 
 [BREAKDOWN]
 • Point 1 với explanation
-• Point 2 với example  
+• Point 2 với example
 • Point 3 với actionable advice
 
 [REFLECTION]
@@ -514,22 +557,25 @@ Thoughtful question để encourage discussion
 #### Visual-First Approach:
 
 **📱 FEED POSTS**
-- High-quality images với consistent aesthetic
-- Carousel posts cho storytelling
-- Behind-the-scenes content
-- User-generated content repost
+
+-   High-quality images với consistent aesthetic
+-   Carousel posts cho storytelling
+-   Behind-the-scenes content
+-   User-generated content repost
 
 **📖 STORIES**
-- Real-time updates
-- Polls, questions, stickers cho engagement  
-- Quick tips và tutorials
-- Takeovers và live content
+
+-   Real-time updates
+-   Polls, questions, stickers cho engagement
+-   Quick tips và tutorials
+-   Takeovers và live content
 
 **🎬 REELS**
-- Trending audio với brand twist
-- Quick tutorials và how-tos
-- Before/after transformations
-- Day-in-the-life content
+
+-   Trending audio với brand twist
+-   Quick tutorials và how-tos
+-   Before/after transformations
+-   Day-in-the-life content
 
 #### Instagram Caption Formula:
 
@@ -560,20 +606,23 @@ Encourage engagement (comment, share, save)
 #### Short-Form Video Mastery:
 
 **⚡ QUICK HOOKS (First 3 seconds)**
-- "POV: You're a small business owner..."
-- "3 marketing mistakes I see daily..."
-- "This changed my business..."
+
+-   "POV: You're a small business owner..."
+-   "3 marketing mistakes I see daily..."
+-   "This changed my business..."
 
 **🎵 TREND PARTICIPATION**
-- Use trending sounds với business twist
-- Participate trends relevant to audience
-- Create original content với popular formats
+
+-   Use trending sounds với business twist
+-   Participate trends relevant to audience
+-   Create original content với popular formats
 
 **📚 EDUCATIONAL CONTENT**
-- Quick tips trong 15-30 seconds
-- Step-by-step tutorials
-- Behind-the-scenes processes
-- Common mistakes với solutions
+
+-   Quick tips trong 15-30 seconds
+-   Step-by-step tutorials
+-   Behind-the-scenes processes
+-   Common mistakes với solutions
 
 #### TikTok Video Structure:
 
@@ -601,22 +650,25 @@ Trending audio: Relevant to content theme
 #### Long-Form Content Approach:
 
 **🎬 VIDEO TYPES**
-- Tutorial videos (10-20 minutes)
-- Case study breakdowns (15-25 minutes)
-- Industry discussions (20-30 minutes)
-- Behind-the-scenes vlogs (8-15 minutes)
+
+-   Tutorial videos (10-20 minutes)
+-   Case study breakdowns (15-25 minutes)
+-   Industry discussions (20-30 minutes)
+-   Behind-the-scenes vlogs (8-15 minutes)
 
 **📋 VIDEO STRUCTURE**
-- Hook (0-15 seconds)
-- Preview (15-30 seconds)  
-- Content delivery (main portion)
-- Recap và CTA (last 30 seconds)
+
+-   Hook (0-15 seconds)
+-   Preview (15-30 seconds)
+-   Content delivery (main portion)
+-   Recap và CTA (last 30 seconds)
 
 **🔍 SEO OPTIMIZATION**
-- Keyword-rich titles
-- Detailed descriptions với timestamps
-- Custom thumbnails với text overlay
-- End screens và cards cho engagement
+
+-   Keyword-rich titles
+-   Detailed descriptions với timestamps
+-   Custom thumbnails với text overlay
+-   End screens và cards cho engagement
 
 ---
 
@@ -625,22 +677,25 @@ Trending audio: Relevant to content theme
 ### Writing Efficiency Tips:
 
 **⏰ TIME-BLOCKING TECHNIQUE**
-- 25 minutes write, 5 minutes break (Pomodoro)
-- Batch similar content types together
-- Separate research/writing/editing phases
-- Use templates để speed up process
+
+-   25 minutes write, 5 minutes break (Pomodoro)
+-   Batch similar content types together
+-   Separate research/writing/editing phases
+-   Use templates để speed up process
 
 **🧠 OVERCOMING WRITER'S BLOCK**
-- Start với bullet points outline
-- Write bad first draft, edit later
-- Change environment hoặc device
-- Talk through ideas với colleague
+
+-   Start với bullet points outline
+-   Write bad first draft, edit later
+-   Change environment hoặc device
+-   Talk through ideas với colleague
 
 **📝 CONTENT REPURPOSING**
-- Blog post → 5 social posts
-- Webinar → 10 short video clips
-- Case study → Multiple platform adaptations
-- FAQ → Educational content series
+
+-   Blog post → 5 social posts
+-   Webinar → 10 short video clips
+-   Case study → Multiple platform adaptations
+-   FAQ → Educational content series
 
 ### Quality Control Checklist:
 
@@ -677,24 +732,29 @@ Trending audio: Relevant to content theme
 ## ⚠️ NHỮNG LỖI THƯỜNG GẶP TRONG CONTENT WRITING
 
 ### Lỗi 1: Feature-Heavy, Benefit-Light
-- ❌ **Sai:** "Chúng tôi có team 15 experts với 100+ tools"
-- ✅ **Đúng:** "Team 15 experts giúp bạn tăng ROI 200% với 100+ tools tested"
+
+-   ❌ **Sai:** "Chúng tôi có team 15 experts với 100+ tools"
+-   ✅ **Đúng:** "Team 15 experts giúp bạn tăng ROI 200% với 100+ tools tested"
 
 ### Lỗi 2: Generic Content không Personal
-- ❌ **Sai:** "Marketing rất quan trọng cho business"
-- ✅ **Đúng:** "Nếu bạn là SME owner struggling với lead generation..."
+
+-   ❌ **Sai:** "Marketing rất quan trọng cho business"
+-   ✅ **Đúng:** "Nếu bạn là SME owner struggling với lead generation..."
 
 ### Lỗi 3: Weak hoặc Missing CTA
-- ❌ **Sai:** "Tìm hiểu thêm về dịch vụ"
-- ✅ **Đúng:** "Đặt lịch audit marketing MIỄN PHÍ - Nhận roadmap tăng trưởng trong 48h"
+
+-   ❌ **Sai:** "Tìm hiểu thêm về dịch vụ"
+-   ✅ **Đúng:** "Đặt lịch audit marketing MIỄN PHÍ - Nhận roadmap tăng trưởng trong 48h"
 
 ### Lỗi 4: Không phù hợp Platform
-- ❌ **Sai:** Copy same content across all platforms
-- ✅ **Đúng:** Adapt format, length, tone cho từng platform
+
+-   ❌ **Sai:** Copy same content across all platforms
+-   ✅ **Đúng:** Adapt format, length, tone cho từng platform
 
 ### Lỗi 5: Quá Focus vào Brand, ít về Customer
-- ❌ **Sai:** "CSA Vietnam is the best agency..."
-- ✅ **Đúng:** "Your business deserves marketing that actually works..."
+
+-   ❌ **Sai:** "CSA Vietnam is the best agency..."
+-   ✅ **Đúng:** "Your business deserves marketing that actually works..."
 
 ---
 
@@ -711,19 +771,21 @@ Sẽ được chia thành 5 teams, mỗi team responsible cho 1 công thức:
 **Team 4C:** LinkedIn thought leadership post (300 words)
 
 ### Đầu ra mong đợi:
-- Mỗi team present content của mình
-- Other teams give feedback using formula criteria
-- Trainer provides insights và improvements
-- Everyone gets templates để apply sau này
+
+-   Mỗi team present content của mình
+-   Other teams give feedback using formula criteria
+-   Trainer provides insights và improvements
+-   Everyone gets templates để apply sau này
 
 ### Criteria đánh giá:
-- **Formula compliance:** Có follow đúng structure không?
-- **Target audience fit:** Phù hợp với CSA's personas không?
-- **Engagement potential:** Có khả năng engage audience không?
-- **Business value:** Support company goals không?
+
+-   **Formula compliance:** Có follow đúng structure không?
+-   **Target audience fit:** Phù hợp với CSA's personas không?
+-   **Engagement potential:** Có khả năng engage audience không?
+-   **Business value:** Support company goals không?
 
 ---
 
-*"The best content feels like a conversation with a trusted friend who happens to know exactly what you need to hear." - Unknown*
+_"The best content feels like a conversation with a trusted friend who happens to know exactly what you need to hear." - Unknown_
 
 **Ready to write content that converts? Let's create some magic! ✨📝**

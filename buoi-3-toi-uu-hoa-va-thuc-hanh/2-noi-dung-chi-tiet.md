@@ -9,22 +9,25 @@
 #### Tại sao SEO quan trọng cho Content Marketing?
 
 **🔍 Thống kê quan trọng:**
-- 68% người dùng internet bắt đầu online experience bằng search engine
-- 53% website traffic đến từ organic search
-- Content được optimize SEO có CTR cao gấp 5.66 lần so với không optimize
-- Top 3 results trên Google chiếm 75.1% clicks
+
+-   68% người dùng internet bắt đầu online experience bằng search engine
+-   53% website traffic đến từ organic search
+-   Content được optimize SEO có CTR cao gấp 5.66 lần so với không optimize
+-   Top 3 results trên Google chiếm 75.1% clicks
 
 #### Nguyên tắc SEO cơ bản:
 
 **🎯 Search Intent (Ý định tìm kiếm):**
-- **Informational:** "Cách làm marketing cho SME"
-- **Commercial:** "Dịch vụ marketing tốt nhất TP.HCM"  
-- **Transactional:** "Thuê agency marketing giá rẻ"
-- **Navigational:** "CSA Vietnam contact"
+
+-   **Informational:** "Cách làm marketing cho SME"
+-   **Commercial:** "Dịch vụ marketing tốt nhất TP.HCM"
+-   **Transactional:** "Thuê agency marketing giá rẻ"
+-   **Navigational:** "CSA Vietnam contact"
 
 **📊 Keyword Research Process:**
 
 **Bước 1: Brainstorm Seed Keywords**
+
 ```
 Core Business: Digital Marketing Agency
 Seed Keywords:
@@ -36,19 +39,21 @@ Seed Keywords:
 ```
 
 **Bước 2: Expand với Tools**
-- **Google Keyword Planner:** Volume và competition data
-- **Ubersuggest:** Keyword suggestions và difficulty
-- **Answer The Public:** Question-based keywords
-- **Google Autocomplete:** Real user searches
+
+-   **Google Keyword Planner:** Volume và competition data
+-   **Ubersuggest:** Keyword suggestions và difficulty
+-   **Answer The Public:** Question-based keywords
+-   **Google Autocomplete:** Real user searches
 
 **Bước 3: Analyze Competition**
+
 ```
 Keyword: "dịch vụ marketing online"
 - Search Volume: 2,400/month
 - Difficulty: 45/100
 - Top 3 competitors:
   1. [Competitor 1] - DA: 35, Content length: 1,200 words
-  2. [Competitor 2] - DA: 28, Content length: 800 words  
+  2. [Competitor 2] - DA: 28, Content length: 800 words
   3. [Competitor 3] - DA: 42, Content length: 1,500 words
 ```
 
@@ -59,77 +64,87 @@ Keyword: "dịch vụ marketing online"
 ```html
 <!DOCTYPE html>
 <html>
-<head>
-  <title>[Primary Keyword] | [Brand Name] - [Secondary Keyword]</title>
-  <meta description="[Primary keyword] + value proposition trong 155 characters">
-</head>
-<body>
-  <h1>[Primary Keyword Variation]</h1>
-  
-  <h2>[Secondary Keyword 1]</h2>
-  <p>Content section với semantic keywords...</p>
-  
-  <h2>[Secondary Keyword 2]</h2>
-  <p>Content section với internal links...</p>
-  
-  <h3>[Long-tail Keyword]</h3>
-  <p>Detailed content với examples...</p>
-</body>
+    <head>
+        <title>[Primary Keyword] | [Brand Name] - [Secondary Keyword]</title>
+        <meta
+            description="[Primary keyword] + value proposition trong 155 characters"
+        />
+    </head>
+    <body>
+        <h1>[Primary Keyword Variation]</h1>
+
+        <h2>[Secondary Keyword 1]</h2>
+        <p>Content section với semantic keywords...</p>
+
+        <h2>[Secondary Keyword 2]</h2>
+        <p>Content section với internal links...</p>
+
+        <h3>[Long-tail Keyword]</h3>
+        <p>Detailed content với examples...</p>
+    </body>
 </html>
 ```
 
 #### On-Page SEO Checklist:
 
 **🎯 Title Tag Optimization:**
-- Length: 50-60 characters
-- Include primary keyword
-- Brand name ở cuối
-- Compelling và click-worthy
+
+-   Length: 50-60 characters
+-   Include primary keyword
+-   Brand name ở cuối
+-   Compelling và click-worthy
 
 **Example:**
+
 ```
 ❌ BAD: "Dịch vụ | CSA Vietnam"
 ✅ GOOD: "Dịch Vụ Marketing Online Chuyên Nghiệp | CSA Vietnam"
 ```
 
 **📝 Meta Description Optimization:**
-- Length: 150-160 characters
-- Include primary keyword natural
-- Clear value proposition
-- Call-to-action implied
+
+-   Length: 150-160 characters
+-   Include primary keyword natural
+-   Clear value proposition
+-   Call-to-action implied
 
 **Example:**
+
 ```
 ✅ GOOD: "Dịch vụ marketing online toàn diện cho SME. Tăng doanh thu 200% với chiến lược proven của CSA Vietnam. Tư vấn miễn phí ngay!"
 ```
 
 **📋 Header Structure:**
-- **H1:** Một H1 duy nhất với primary keyword
-- **H2:** Section headers với secondary keywords
-- **H3:** Subsection headers với long-tail keywords
+
+-   **H1:** Một H1 duy nhất với primary keyword
+-   **H2:** Section headers với secondary keywords
+-   **H3:** Subsection headers với long-tail keywords
 
 **🔗 Internal Linking Strategy:**
-- Link đến 2-3 related pages
-- Anchor text descriptive và natural
-- Deep linking để improve page authority
-- Logical site structure
+
+-   Link đến 2-3 related pages
+-   Anchor text descriptive và natural
+-   Deep linking để improve page authority
+-   Logical site structure
 
 ### 1.3 Content Optimization Techniques
 
 #### Keyword Density và Semantic SEO:
 
 **📊 Keyword Density Guidelines:**
-- Primary keyword: 1-2% density
-- Secondary keywords: 0.5-1% density
-- Semantic keywords: Throughout content naturally
-- Avoid keyword stuffing (>3% density)
+
+-   Primary keyword: 1-2% density
+-   Secondary keywords: 0.5-1% density
+-   Semantic keywords: Throughout content naturally
+-   Avoid keyword stuffing (>3% density)
 
 **🧠 Semantic Keyword Examples:**
+
 ```
 Primary: "digital marketing"
 Semantic keywords:
 - online marketing
-- internet marketing  
+- internet marketing
 - digital advertising
 - social media marketing
 - content marketing
@@ -140,22 +155,25 @@ Semantic keywords:
 #### Content Quality Factors:
 
 **📏 Content Length Guidelines:**
-- **Blog posts:** 800-2,000 words optimal
-- **Service pages:** 500-1,000 words
-- **Product descriptions:** 200-500 words
-- **FAQs:** 100-300 words per question
+
+-   **Blog posts:** 800-2,000 words optimal
+-   **Service pages:** 500-1,000 words
+-   **Product descriptions:** 200-500 words
+-   **FAQs:** 100-300 words per question
 
 **📖 Readability Optimization:**
-- **Flesch Reading Score:** 60-70 (easy to read)
-- **Average sentence length:** 15-20 words
-- **Paragraph length:** 2-4 sentences
-- **Transition words:** 30%+ of sentences
+
+-   **Flesch Reading Score:** 60-70 (easy to read)
+-   **Average sentence length:** 15-20 words
+-   **Paragraph length:** 2-4 sentences
+-   **Transition words:** 30%+ of sentences
 
 **🎯 User Experience Signals:**
-- **Page load speed:** <3 seconds
-- **Mobile responsiveness:** 100% mobile-friendly
-- **Bounce rate:** <40% target
-- **Time on page:** 2+ minutes for blog posts
+
+-   **Page load speed:** <3 seconds
+-   **Mobile responsiveness:** 100% mobile-friendly
+-   **Bounce rate:** <40% target
+-   **Time on page:** 2+ minutes for blog posts
 
 ---
 
@@ -168,21 +186,24 @@ Semantic keywords:
 **🔍 Facebook Algorithm Factors (2024):**
 
 **1. Meaningful Interactions (40% weight):**
-- Comments > Reactions > Shares > Clicks
-- Conversation starters perform better
-- Long-form comments boost reach
-- Author replies increase distribution
+
+-   Comments > Reactions > Shares > Clicks
+-   Conversation starters perform better
+-   Long-form comments boost reach
+-   Author replies increase distribution
 
 **2. Content Type Performance:**
+
 ```
 📊 ENGAGEMENT RATES BY TYPE:
 - Video content: 6.5% average engagement
-- Image posts: 4.2% average engagement  
+- Image posts: 4.2% average engagement
 - Link posts: 2.8% average engagement
 - Text posts: 1.9% average engagement
 ```
 
 **3. Posting Time Optimization:**
+
 ```
 🕐 BEST TIMES (Vietnam timezone):
 Monday-Friday:
@@ -198,6 +219,7 @@ Weekend:
 **📝 Facebook Content Optimization Tactics:**
 
 **Hook Formulas cho Facebook:**
+
 ```
 🎯 CURIOSITY HOOKS:
 - "3 điều mà 90% SME owners không biết về..."
@@ -209,7 +231,7 @@ Weekend:
 - "5 phút đọc này sẽ save 5 triệu marketing budget"
 - "Từ 0 đến 1000 leads trong 30 ngày"
 
-🎯 STORY HOOKS:  
+🎯 STORY HOOKS:
 - "2 năm trước, khách hàng này gần như phá sản..."
 - "Cuộc gọi 15 phút này đã thay đổi business của họ"
 - "Mistake này cost 500 triệu, nhưng lesson learned priceless"
@@ -220,18 +242,21 @@ Weekend:
 **💼 LinkedIn Algorithm Priorities:**
 
 **1. Professional Value (50% weight):**
-- Industry insights and trends
-- Professional development content
-- Career advice và tips
-- Business strategy discussions
+
+-   Industry insights and trends
+-   Professional development content
+-   Career advice và tips
+-   Business strategy discussions
 
 **2. Network Engagement (30% weight):**
-- Comments from connections
-- Shares within professional networks
-- Industry peer interactions
-- Thought leader engagement
+
+-   Comments from connections
+-   Shares within professional networks
+-   Industry peer interactions
+-   Thought leader engagement
 
 **3. Content Format Performance:**
+
 ```
 📈 LINKEDIN ENGAGEMENT RATES:
 - Text posts with images: 5.8%
@@ -243,10 +268,11 @@ Weekend:
 **📊 LinkedIn Content Strategy:**
 
 **Professional Content Pillars:**
+
 ```
 🎯 THOUGHT LEADERSHIP (40%):
 - Industry predictions và analysis
-- Personal insights from experience  
+- Personal insights from experience
 - Controversial takes (balanced)
 - Future trends discussion
 
@@ -274,26 +300,30 @@ Weekend:
 **📸 Instagram Algorithm Factors:**
 
 **1. Interest Prediction (35% weight):**
-- Past interaction history
-- Content type preferences
-- Account relationship strength
-- Topic relevance scoring
+
+-   Past interaction history
+-   Content type preferences
+-   Account relationship strength
+-   Topic relevance scoring
 
 **2. Relationship Signals (30% weight):**
-- Profile visits frequency
-- DM conversations
-- Tagged photos together
-- Story interactions
+
+-   Profile visits frequency
+-   DM conversations
+-   Tagged photos together
+-   Story interactions
 
 **3. Timeliness (20% weight):**
-- Posting recency
-- Story freshness
-- Real-time trending participation
-- Live video engagement
+
+-   Posting recency
+-   Story freshness
+-   Real-time trending participation
+-   Live video engagement
 
 **📊 Instagram Content Performance:**
 
 **Content Type ROI:**
+
 ```
 📈 AVERAGE ENGAGEMENT RATES:
 - Reels: 7.3% (highest reach)
@@ -306,6 +336,7 @@ Weekend:
 **🎬 Instagram Content Optimization:**
 
 **Reels Strategy:**
+
 ```
 🎯 15-SECOND FORMULA:
 - Seconds 0-3: Hook (problem/question)
@@ -326,6 +357,7 @@ Weekend:
 **📊 Content Marketing Metrics Hierarchy:**
 
 **Level 1: Awareness Metrics**
+
 ```
 🎯 REACH & IMPRESSION:
 - Total reach: Unique people seeing content
@@ -340,6 +372,7 @@ Weekend:
 ```
 
 **Level 2: Engagement Metrics**
+
 ```
 🤝 INTERACTION RATES:
 - Engagement rate: (Likes + Comments + Shares) / Reach × 100
@@ -354,6 +387,7 @@ Weekend:
 ```
 
 **Level 3: Conversion Metrics**
+
 ```
 💰 BUSINESS IMPACT:
 - Click-through rate (CTR): Clicks / Impressions × 100
@@ -372,36 +406,38 @@ Weekend:
 **📈 GA4 Event Tracking Configuration:**
 
 **Custom Events cho Content:**
+
 ```javascript
 // Blog post engagement tracking
-gtag('event', 'blog_engagement', {
-  'event_category': 'Content',
-  'event_label': 'Time on Page',
-  'value': time_spent,
-  'content_type': 'blog_post',
-  'content_title': 'Article Title'
+gtag("event", "blog_engagement", {
+    event_category: "Content",
+    event_label: "Time on Page",
+    value: time_spent,
+    content_type: "blog_post",
+    content_title: "Article Title",
 });
 
-// Social share tracking  
-gtag('event', 'social_share', {
-  'event_category': 'Content',
-  'event_label': 'Platform',
-  'platform': 'facebook',
-  'content_url': window.location.href
+// Social share tracking
+gtag("event", "social_share", {
+    event_category: "Content",
+    event_label: "Platform",
+    platform: "facebook",
+    content_url: window.location.href,
 });
 
 // Lead generation tracking
-gtag('event', 'lead_generation', {
-  'event_category': 'Conversion',
-  'event_label': 'Content Source',
-  'source_content': 'Blog CTA',
-  'lead_value': 500000
+gtag("event", "lead_generation", {
+    event_category: "Conversion",
+    event_label: "Content Source",
+    source_content: "Blog CTA",
+    lead_value: 500000,
 });
 ```
 
 **📊 GA4 Custom Reports cho Content:**
 
 **Content Performance Dashboard:**
+
 ```
 📈 TRAFFIC ANALYSIS:
 - Top performing pages by traffic
@@ -411,7 +447,7 @@ gtag('event', 'lead_generation', {
 
 🎯 ENGAGEMENT ANALYSIS:
 - Average session duration by content category
-- Pages per session for content visitors  
+- Pages per session for content visitors
 - Scroll depth và reading completion rate
 - Internal link click tracking
 
@@ -427,16 +463,18 @@ gtag('event', 'lead_generation', {
 **💰 Content Marketing ROI Formula:**
 
 **Basic ROI Calculation:**
+
 ```
 Content ROI = (Revenue Attributed to Content - Content Investment) / Content Investment × 100
 
 Example CSA Vietnam:
 - Monthly content investment: 50,000,000 VND
-- Revenue attributed to content: 200,000,000 VND  
+- Revenue attributed to content: 200,000,000 VND
 - Content ROI = (200M - 50M) / 50M × 100 = 300%
 ```
 
 **Advanced Attribution Model:**
+
 ```
 🎯 MULTI-TOUCH ATTRIBUTION:
 - First-touch: Content that introduced lead
@@ -453,6 +491,7 @@ Blog attribution: 40,000,000 VND
 **📊 Content Performance Scorecard:**
 
 **Monthly Content Report Template:**
+
 ```
 📋 CSA VIETNAM CONTENT PERFORMANCE - [MONTH/YEAR]
 
@@ -477,7 +516,7 @@ Blog attribution: 40,000,000 VND
 💰 CONVERSIONS:
 - Content-generated leads: [Number] (Target: 50/month)
 - Lead conversion rate: [%] (Target: >5%)
-- Content-attributed revenue: [VND] 
+- Content-attributed revenue: [VND]
 - Content ROI: [%] (Target: >200%)
 
 📊 TOP PERFORMING CONTENT:
@@ -487,7 +526,7 @@ Blog attribution: 40,000,000 VND
 
 🔧 OPTIMIZATION ACTIONS:
 - [Action 1 based on data insights]
-- [Action 2 based on data insights]  
+- [Action 2 based on data insights]
 - [Action 3 based on data insights]
 ```
 
@@ -502,6 +541,7 @@ Blog attribution: 40,000,000 VND
 **🎯 90-Day Content Strategy Blueprint:**
 
 **Phase 1: Foundation (Days 1-30)**
+
 ```
 🔍 AUDIT & RESEARCH:
 - Current content performance analysis
@@ -515,7 +555,7 @@ Pillar 1: Educational (40%)
 - Industry insights và trends
 - How-to guides và tutorials
 
-Pillar 2: Social Proof (25%)  
+Pillar 2: Social Proof (25%)
 - Client success stories
 - Case studies với metrics
 - Testimonials và reviews
@@ -532,6 +572,7 @@ Pillar 4: Promotional (15%)
 ```
 
 **Phase 2: Execution (Days 31-60)**
+
 ```
 📅 CONTENT CALENDAR EXECUTION:
 - Daily content production workflow
@@ -547,6 +588,7 @@ Pillar 4: Promotional (15%)
 ```
 
 **Phase 3: Scale & Optimize (Days 61-90)**
+
 ```
 📈 SCALING STRATEGIES:
 - Content repurposing workflows
@@ -566,6 +608,7 @@ Pillar 4: Promotional (15%)
 **🔄 Content Production Pipeline:**
 
 **Step 1: Ideation (Monday)**
+
 ```
 💡 CONTENT BRAINSTORMING:
 - Industry news monitoring
@@ -581,6 +624,7 @@ Pillar 4: Promotional (15%)
 ```
 
 **Step 2: Creation (Tuesday-Thursday)**
+
 ```
 ✍️ CONTENT PRODUCTION:
 Day 1: Writing và drafting
@@ -596,6 +640,7 @@ Day 3: Review và optimization
 ```
 
 **Step 3: Distribution (Friday)**
+
 ```
 📤 CONTENT PUBLISHING:
 - Blog posts scheduled
@@ -616,6 +661,7 @@ Day 3: Review và optimization
 **👥 Roles & Responsibilities:**
 
 **Content Strategist (1 person)**
+
 ```
 🎯 STRATEGIC RESPONSIBILITIES:
 - Content strategy development
@@ -631,6 +677,7 @@ Day 3: Review và optimization
 ```
 
 **Content Writers (2-3 people)**
+
 ```
 ✍️ CREATION RESPONSIBILITIES:
 - Blog post writing (2-3 posts/week each)
@@ -645,6 +692,7 @@ Day 3: Review và optimization
 ```
 
 **Visual Content Creator (1 person)**
+
 ```
 🎨 DESIGN RESPONSIBILITIES:
 - Social media graphics
@@ -663,6 +711,7 @@ Day 3: Review và optimization
 **🛠️ Tool Stack Recommendation:**
 
 **Planning & Strategy:**
+
 ```
 📅 NOTION: Content strategy hub
 - Content calendar master view
@@ -677,6 +726,7 @@ Day 3: Review và optimization
 ```
 
 **Creation & Production:**
+
 ```
 ✍️ GOOGLE DOCS: Collaborative writing
 - Real-time editing
@@ -692,6 +742,7 @@ Day 3: Review và optimization
 ```
 
 **Distribution & Analysis:**
+
 ```
 📤 BUFFER: Social media scheduling
 - Multi-platform posting
@@ -713,10 +764,11 @@ Day 3: Review và optimization
 **📋 Project Scope: Real Client Content Strategy**
 
 **Deliverable 1: Strategy Document (8-10 pages)**
+
 ```
 📄 EXECUTIVE SUMMARY (1 page):
 - Client background và challenges
-- Strategic recommendations overview  
+- Strategic recommendations overview
 - Expected outcomes và timeline
 - Investment requirements
 
@@ -740,6 +792,7 @@ Day 3: Review và optimization
 ```
 
 **Deliverable 2: Content Calendar Template (3 months)**
+
 ```
 📅 MONTHLY BREAKDOWN:
 Month 1: Foundation building
@@ -748,7 +801,7 @@ Month 1: Foundation building
 - 4 email campaigns (1/week)
 - 4 video content pieces (1/week)
 
-Month 2: Engagement amplification  
+Month 2: Engagement amplification
 Month 3: Conversion optimization
 
 📊 CONTENT MIX:
@@ -759,6 +812,7 @@ Month 3: Conversion optimization
 ```
 
 **Deliverable 3: Performance Dashboard Mockup**
+
 ```
 📈 KEY METRICS TRACKING:
 - Content production metrics
@@ -777,6 +831,7 @@ Month 3: Conversion optimization
 #### Presentation Guidelines:
 
 **🎤 10-Minute Presentation Structure:**
+
 ```
 Slide 1: Project overview (1 minute)
 Slides 2-3: Situation analysis (2 minutes)
@@ -786,10 +841,11 @@ Slide 9: Expected outcomes (1 minute)
 ```
 
 **📊 Evaluation Criteria:**
-- Strategic thinking: 25%
-- Practical application: 25%
-- Data-driven approach: 25%
-- Presentation quality: 25%
+
+-   Strategic thinking: 25%
+-   Practical application: 25%
+-   Data-driven approach: 25%
+-   Presentation quality: 25%
 
 ---
 
@@ -798,6 +854,7 @@ Slide 9: Expected outcomes (1 minute)
 ### Content Optimization Hacks:
 
 **🔍 SEO Secret Techniques:**
+
 ```
 🎯 FEATURED SNIPPET OPTIMIZATION:
 - Target question-based keywords
@@ -813,6 +870,7 @@ Slide 9: Expected outcomes (1 minute)
 ```
 
 **📱 Platform Growth Hacks:**
+
 ```
 🔥 FACEBOOK ENGAGEMENT BOOSTERS:
 - Post trong Facebook groups relevant
@@ -830,6 +888,7 @@ Slide 9: Expected outcomes (1 minute)
 ### Measurement & Analytics Secrets:
 
 **📊 Advanced Analytics Techniques:**
+
 ```
 🎯 COHORT ANALYSIS:
 - Track user behavior by acquisition date
@@ -846,6 +905,6 @@ Slide 9: Expected outcomes (1 minute)
 
 ---
 
-*"The best content marketing is not about telling your company's story; it's about telling your customer's story and making your company part of that story." - Content Marketing Institute*
+_"The best content marketing is not about telling your company's story; it's about telling your customer's story and making your company part of that story." - Content Marketing Institute_
 
 **Ready to become a Content Marketing Strategist? Let's optimize, measure, and scale content that drives real business results! 📈🚀**

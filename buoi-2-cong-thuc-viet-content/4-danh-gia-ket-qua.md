@@ -5,18 +5,20 @@
 ## 🎯 TIÊU CHÍ ĐÁNH GIÁ TỔNG QUAN BUỔI 2
 
 ### Cấu trúc điểm số:
-- **Workshop tham gia:** 35 điểm
-- **Bài tập thực hành trong lớp:** 35 điểm  
-- **Bài tập về nhà:** 20 điểm
-- **Bài kiểm tra ứng dụng:** 10 điểm
-- **Tổng cộng:** 100 điểm
+
+-   **Workshop tham gia:** 35 điểm
+-   **Bài tập thực hành trong lớp:** 35 điểm
+-   **Bài tập về nhà:** 20 điểm
+-   **Bài kiểm tra ứng dụng:** 10 điểm
+-   **Tổng cộng:** 100 điểm
 
 ### Thang điểm đánh giá:
-- **90-100 điểm:** Xuất sắc - Thành thạo content creation
-- **80-89 điểm:** Tốt - Nắm vững các công thức
-- **70-79 điểm:** Khá - Hiểu cơ bản, cần practice thêm
-- **60-69 điểm:** Trung bình - Cần review và hỗ trợ
-- **< 60 điểm:** Cần học lại - 1-on-1 coaching required
+
+-   **90-100 điểm:** Xuất sắc - Thành thạo content creation
+-   **80-89 điểm:** Tốt - Nắm vững các công thức
+-   **70-79 điểm:** Khá - Hiểu cơ bản, cần practice thêm
+-   **60-69 điểm:** Trung bình - Cần review và hỗ trợ
+-   **< 60 điểm:** Cần học lại - 1-on-1 coaching required
 
 ---
 
@@ -27,45 +29,51 @@
 #### 1.1 Speed Writing Challenge (20 điểm)
 
 **Tiêu chí chấm điểm:**
-- **Formula Application (8 điểm):**
-  - Correct structure: 4 điểm
-  - Complete elements: 2 điểm
-  - Natural flow: 2 điểm
 
-- **Content Quality (7 điểm):**
-  - Engaging hook: 2 điểm
-  - Clear value proposition: 2 điểm
-  - Strong CTA: 2 điểm
-  - Grammar & style: 1 điểm
+-   **Formula Application (8 điểm):**
 
-- **Target Audience Fit (5 điểm):**
-  - Persona alignment: 3 điểm
-  - Pain point addressing: 2 điểm
+    -   Correct structure: 4 điểm
+    -   Complete elements: 2 điểm
+    -   Natural flow: 2 điểm
+
+-   **Content Quality (7 điểm):**
+
+    -   Engaging hook: 2 điểm
+    -   Clear value proposition: 2 điểm
+    -   Strong CTA: 2 điểm
+    -   Grammar & style: 1 điểm
+
+-   **Target Audience Fit (5 điểm):**
+    -   Persona alignment: 3 điểm
+    -   Pain point addressing: 2 điểm
 
 #### 1.2 Platform Adaptation Challenge (15 điểm)
 
 **Tiêu chí chấm điểm:**
-- **Platform Appropriateness (6 điểm):**
-  - Format phù hợp: 3 điểm
-  - Tone phù hợp: 2 điểm
-  - Length phù hợp: 1 điểm
 
-- **Message Consistency (5 điểm):**
-  - Core message unchanged: 3 điểm
-  - Brand voice consistent: 2 điểm
+-   **Platform Appropriateness (6 điểm):**
 
-- **Engagement Potential (4 điểm):**
-  - Shareability: 2 điểm
-  - Interaction likelihood: 2 điểm
+    -   Format phù hợp: 3 điểm
+    -   Tone phù hợp: 2 điểm
+    -   Length phù hợp: 1 điểm
+
+-   **Message Consistency (5 điểm):**
+
+    -   Core message unchanged: 3 điểm
+    -   Brand voice consistent: 2 điểm
+
+-   **Engagement Potential (4 điểm):**
+    -   Shareability: 2 điểm
+    -   Interaction likelihood: 2 điểm
 
 #### Rubric chi tiết Workshop:
 
-| Tiêu chí | Xuất sắc (5đ) | Tốt (4đ) | Khá (3đ) | TB (2đ) | Yếu (1đ) |
-|----------|---------------|----------|----------|---------|----------|
-| **Formula Mastery** | Áp dụng perfect, creative | Correct structure, good flow | Basic application | Một số thiếu sót | Không hiểu formula |
-| **Writing Quality** | Compelling, professional | Clear, engaging | Understandable | Basic, functional | Confusing, poor |
-| **Audience Targeting** | Perfect persona fit | Good alignment | Generally relevant | Somewhat relevant | Off-target |
-| **Platform Adaptation** | Native-feeling content | Well-adapted | Recognizable effort | Basic adaptation | Generic copy-paste |
+| Tiêu chí                | Xuất sắc (5đ)             | Tốt (4đ)                     | Khá (3đ)            | TB (2đ)           | Yếu (1đ)           |
+| ----------------------- | ------------------------- | ---------------------------- | ------------------- | ----------------- | ------------------ |
+| **Formula Mastery**     | Áp dụng perfect, creative | Correct structure, good flow | Basic application   | Một số thiếu sót  | Không hiểu formula |
+| **Writing Quality**     | Compelling, professional  | Clear, engaging              | Understandable      | Basic, functional | Confusing, poor    |
+| **Audience Targeting**  | Perfect persona fit       | Good alignment               | Generally relevant  | Somewhat relevant | Off-target         |
+| **Platform Adaptation** | Native-feeling content    | Well-adapted                 | Recognizable effort | Basic adaptation  | Generic copy-paste |
 
 ### 2. Bài tập thực hành trong lớp (35 điểm)
 
@@ -80,7 +88,7 @@ Formula assigned: [AIDA/PAS/FAB/BAB/4C]
 
 ✅ Formula Application (8 điểm):
    - Structure correct: ___/4
-   - Complete elements: ___/2  
+   - Complete elements: ___/2
    - Natural flow: ___/2
 
 ✅ Content Quality (7 điểm):
@@ -126,23 +134,26 @@ Stations completed: ___/5
 #### 3.1 Content Series Creation (12 điểm)
 
 **Tiêu chí đánh giá:**
-- **Volume & Consistency (4 điểm):** 14 posts đầy đủ, timeline realistic
-- **Formula Application (4 điểm):** Sử dụng đúng ít nhất 4/5 công thức
-- **Platform Optimization (2 điểm):** Content phù hợp cho từng platform
-- **Strategic Alignment (2 điểm):** Support business goals và audience needs
+
+-   **Volume & Consistency (4 điểm):** 14 posts đầy đủ, timeline realistic
+-   **Formula Application (4 điểm):** Sử dụng đúng ít nhất 4/5 công thức
+-   **Platform Optimization (2 điểm):** Content phù hợp cho từng platform
+-   **Strategic Alignment (2 điểm):** Support business goals và audience needs
 
 #### 3.2 Headline & CTA Optimization (4 điểm)
 
 **Tiêu chí đánh giá:**
-- **Variety & Creativity (2 điểm):** 5 headlines khác nhau, creative approach
-- **Strategic Thinking (2 điểm):** Rationale clear, testing hypothesis sound
+
+-   **Variety & Creativity (2 điểm):** 5 headlines khác nhau, creative approach
+-   **Strategic Thinking (2 điểm):** Rationale clear, testing hypothesis sound
 
 #### 3.3 Brand Storytelling (4 điểm)
 
 **Tiêu chí đánh giá:**
-- **Story Structure (2 điểm):** 3-Act format followed correctly
-- **Brand Integration (1 điểm):** CSA positioning natural và compelling
-- **Emotional Engagement (1 điểm):** Story resonates với target audience
+
+-   **Story Structure (2 điểm):** 3-Act format followed correctly
+-   **Brand Integration (1 điểm):** CSA positioning natural và compelling
+-   **Emotional Engagement (1 điểm):** Story resonates với target audience
 
 ### 4. Bài kiểm tra ứng dụng (10 điểm)
 
@@ -150,8 +161,9 @@ Stations completed: ___/5
 
 **Scenario-based Questions:**
 Cho một business scenario thực tế, học viên phải:
+
 1. Chọn công thức phù hợp (2 điểm)
-2. Viết outline content (4 điểm)  
+2. Viết outline content (4 điểm)
 3. Craft headline và CTA (2 điểm)
 4. Justify choices (2 điểm)
 
@@ -167,21 +179,25 @@ Cho một business scenario thực tế, học viên phải:
 **🎯 Your Mission (15 phút):**
 
 #### Question 1: Formula Selection (2 điểm)
+
 Bạn cần tạo Facebook ad để attract new customers. Chọn 1 trong 5 công thức (AIDA/PAS/FAB/BAB/4C) và giải thích tại sao phù hợp nhất cho scenario này.
 
 **Answer Template:**
+
 ```
 Công thức chọn: ___________
 Lý do:
 - Context phù hợp: ___________
-- Target audience needs: ___________  
+- Target audience needs: ___________
 - Platform best practice: ___________
 ```
 
 #### Question 2: Content Outline (4 điểm)
+
 Sử dụng công thức đã chọn, tạo outline cho Facebook ad (100-150 words).
 
 **Answer Template:**
+
 ```
 📝 FACEBOOK AD OUTLINE:
 
@@ -189,7 +205,7 @@ Sử dụng công thức đã chọn, tạo outline cho Facebook ad (100-150 wor
 - Main point: ___________
 - Supporting details: ___________
 
-[Phần 2 - Formula Element 2]:  
+[Phần 2 - Formula Element 2]:
 - Main point: ___________
 - Supporting details: ___________
 
@@ -203,9 +219,11 @@ Sử dụng công thức đã chọn, tạo outline cho Facebook ad (100-150 wor
 ```
 
 #### Question 3: Headlines & CTA (2 điểm)
+
 Viết 2 headline options và 1 compelling CTA cho ad này.
 
 **Answer Template:**
+
 ```
 🎯 HEADLINE OPTIONS:
 1. ___________
@@ -220,9 +238,11 @@ CTA: ___________
 ```
 
 #### Question 4: Strategic Justification (2 điểm)
+
 Giải thích strategy đằng sau choices của bạn và predict potential outcomes.
 
 **Answer Template:**
+
 ```
 📊 STRATEGY RATIONALE:
 
@@ -242,21 +262,25 @@ Expected Outcomes:
 #### Tiêu chí chấm bài test:
 
 **Formula Selection (2 điểm):**
-- Choice logical cho scenario: 1 điểm
-- Reasoning sound và detailed: 1 điểm
+
+-   Choice logical cho scenario: 1 điểm
+-   Reasoning sound và detailed: 1 điểm
 
 **Content Outline (4 điểm):**
-- Formula structure followed: 2 điểm
-- Content relevant và engaging: 1 điểm
-- Complete và detailed: 1 điểm
+
+-   Formula structure followed: 2 điểm
+-   Content relevant và engaging: 1 điểm
+-   Complete và detailed: 1 điểm
 
 **Headlines & CTA (2 điểm):**
-- Headlines attention-grabbing: 1 điểm
-- CTA clear và compelling: 1 điểm
+
+-   Headlines attention-grabbing: 1 điểm
+-   CTA clear và compelling: 1 điểm
 
 **Strategic Justification (2 điểm):**
-- Audience psychology understanding: 1 điểm
-- Platform và business alignment: 1 điểm
+
+-   Audience psychology understanding: 1 điểm
+-   Platform và business alignment: 1 điểm
 
 ---
 
@@ -272,7 +296,7 @@ Expected Outcomes:
 
 📈 PROGRESS TRACKING:
 Buổi 1 Score: ___/100
-Buổi 2 Score: ___/100  
+Buổi 2 Score: ___/100
 Improvement: +/- ___ points
 
 🎯 SKILL ASSESSMENT:
@@ -280,7 +304,7 @@ Improvement: +/- ___ points
 Formula Mastery:
 □ AIDA: [Novice/Developing/Proficient/Advanced]
 □ PAS: [Novice/Developing/Proficient/Advanced]
-□ FAB: [Novice/Developing/Proficient/Advanced]  
+□ FAB: [Novice/Developing/Proficient/Advanced]
 □ BAB: [Novice/Developing/Proficient/Advanced]
 □ 4C: [Novice/Developing/Proficient/Advanced]
 
@@ -324,29 +348,34 @@ ___________
 #### 🏅 Buổi 2 Awards:
 
 **"Formula Master" 🎖️**
-- Criteria: Perfect application của ít nhất 3 formulas
-- Winner: ___________
-- Reward: Advanced copywriting templates pack
+
+-   Criteria: Perfect application của ít nhất 3 formulas
+-   Winner: ****\_\_\_****
+-   Reward: Advanced copywriting templates pack
 
 **"Platform Native" 📱**
-- Criteria: Best platform-specific content adaptation
-- Winner: ___________  
-- Reward: Social media strategy session
+
+-   Criteria: Best platform-specific content adaptation
+-   Winner: ****\_\_\_****
+-   Reward: Social media strategy session
 
 **"Storytelling Star" ✨**
-- Criteria: Most engaging brand story creation
-- Winner: ___________
-- Reward: Storytelling masterclass access
+
+-   Criteria: Most engaging brand story creation
+-   Winner: ****\_\_\_****
+-   Reward: Storytelling masterclass access
 
 **"Speed Demon" ⚡**
-- Criteria: Fastest quality content creation
-- Winner: ___________
-- Reward: Productivity tools subscription
+
+-   Criteria: Fastest quality content creation
+-   Winner: ****\_\_\_****
+-   Reward: Productivity tools subscription
 
 **"Peer Mentor" 🤝**
-- Criteria: Most helpful feedback to colleagues
-- Winner: ___________
-- Reward: Leadership development opportunity
+
+-   Criteria: Most helpful feedback to colleagues
+-   Winner: ****\_\_\_****
+-   Reward: Leadership development opportunity
 
 ### Class-wide Performance Insights:
 
@@ -361,7 +390,7 @@ ___________
 
 🎯 Formula Mastery Rates:
 - AIDA: __% proficient or above
-- PAS: __% proficient or above  
+- PAS: __% proficient or above
 - FAB: __% proficient or above
 - BAB: __% proficient or above
 - 4C: __% proficient or above
@@ -381,7 +410,7 @@ ___________
 
 📋 Areas for Buổi 3 Focus:
 1. [Most common weakness]: __% need improvement
-2. [Technical skills gap]: __% need training  
+2. [Technical skills gap]: __% need training
 3. [Strategic thinking]: __% need development
 ```
 
@@ -392,62 +421,71 @@ ___________
 ### Knowledge Consolidation Checklist:
 
 #### ✅ Formula Fluency Check:
-- [ ] Có thể explain tất cả 5 formulas without notes
-- [ ] Biết khi nào dùng formula nào cho specific goals
-- [ ] Comfortable switching between formulas mid-content
-- [ ] Understand formula combinations và advanced applications
+
+-   [ ] Có thể explain tất cả 5 formulas without notes
+-   [ ] Biết khi nào dùng formula nào cho specific goals
+-   [ ] Comfortable switching between formulas mid-content
+-   [ ] Understand formula combinations và advanced applications
 
 #### ✅ Content Creation Confidence:
-- [ ] Có thể write compelling content từ blank page
-- [ ] Headlines grab attention consistently  
-- [ ] CTAs drive action effectively
-- [ ] Platform adaptations feel natural
+
+-   [ ] Có thể write compelling content từ blank page
+-   [ ] Headlines grab attention consistently
+-   [ ] CTAs drive action effectively
+-   [ ] Platform adaptations feel natural
 
 #### ✅ Strategic Thinking Development:
-- [ ] Connect content choices to business outcomes
-- [ ] Understand audience psychology deeply
-- [ ] Think beyond single pieces to content systems
-- [ ] Ready to learn optimization và scaling
+
+-   [ ] Connect content choices to business outcomes
+-   [ ] Understand audience psychology deeply
+-   [ ] Think beyond single pieces to content systems
+-   [ ] Ready to learn optimization và scaling
 
 ### Skill Gap Analysis:
 
 #### Red Flags (Cần attention trước Buổi 3):
-- **Score < 60:** Requires 1-on-1 review session
-- **Workshop participation < 80%:** Confidence building needed
-- **Formula confusion:** Fundamentals review required
-- **Platform misunderstanding:** Best practices study needed
+
+-   **Score < 60:** Requires 1-on-1 review session
+-   **Workshop participation < 80%:** Confidence building needed
+-   **Formula confusion:** Fundamentals review required
+-   **Platform misunderstanding:** Best practices study needed
 
 #### Yellow Flags (Watch areas):
-- **Score 60-75:** Extra practice recommended
-- **Inconsistent quality:** Template usage suggested
-- **Weak headlines/CTAs:** Copywriting focus needed
-- **Limited creativity:** Inspiration sources needed
+
+-   **Score 60-75:** Extra practice recommended
+-   **Inconsistent quality:** Template usage suggested
+-   **Weak headlines/CTAs:** Copywriting focus needed
+-   **Limited creativity:** Inspiration sources needed
 
 #### Green Flags (Ready to advance):
-- **Score > 80:** Advanced techniques appropriate
-- **Consistent performance:** Leadership opportunities
-- **Creative risk-taking:** Experimentation encouraged
-- **Strong peer support:** Mentoring roles possible
+
+-   **Score > 80:** Advanced techniques appropriate
+-   **Consistent performance:** Leadership opportunities
+-   **Creative risk-taking:** Experimentation encouraged
+-   **Strong peer support:** Mentoring roles possible
 
 ### Advanced Preparation Materials:
 
 #### For High Performers (Score > 85):
-- **Advanced Copywriting Techniques:** Power words, psychological triggers
-- **Content Psychology:** Behavioral economics trong content
-- **Multi-format Campaigns:** Integrated content strategies
-- **Performance Prediction:** Analytics forecasting
+
+-   **Advanced Copywriting Techniques:** Power words, psychological triggers
+-   **Content Psychology:** Behavioral economics trong content
+-   **Multi-format Campaigns:** Integrated content strategies
+-   **Performance Prediction:** Analytics forecasting
 
 #### For Standard Performers (Score 70-85):
-- **Template Mastery:** Perfect execution của basic formats
-- **Platform Deep-dives:** Best practices cho preferred platforms
-- **Audience Research:** Enhanced persona development
-- **Quality Assurance:** Self-editing và improvement techniques
+
+-   **Template Mastery:** Perfect execution của basic formats
+-   **Platform Deep-dives:** Best practices cho preferred platforms
+-   **Audience Research:** Enhanced persona development
+-   **Quality Assurance:** Self-editing và improvement techniques
 
 #### For Developing Performers (Score < 70):
-- **Formula Drills:** Repetitive practice với feedback
-- **Simplified Templates:** Step-by-step guides
-- **Confidence Building:** Small wins và encouragement
-- **Peer Support:** Buddy system assignments
+
+-   **Formula Drills:** Repetitive practice với feedback
+-   **Simplified Templates:** Step-by-step guides
+-   **Confidence Building:** Small wins và encouragement
+-   **Peer Support:** Buddy system assignments
 
 ---
 
@@ -461,7 +499,7 @@ ___________
 📝 Content Creation Skills:
 Rate yourself (1-5):
 □ Formula application speed: ___
-□ Content quality consistency: ___  
+□ Content quality consistency: ___
 □ Platform adaptation ability: ___
 □ Headline creation confidence: ___
 □ CTA effectiveness: ___
@@ -491,12 +529,12 @@ Rate yourself (1-5):
 
 📋 Personal Learning Goals cho Buổi 3:
 1. ___________
-2. ___________  
+2. ___________
 3. ___________
 ```
 
 ---
 
-*"The aim of marketing is to know and understand the customer so well the product or service fits him and sells itself." - Peter Drucker*
+_"The aim of marketing is to know and understand the customer so well the product or service fits him and sells itself." - Peter Drucker_
 
 **Excellent progress in Buổi 2! You've learned to CREATE compelling content. Now it's time to learn how to OPTIMIZE and SCALE it in Buổi 3! 📈🚀**

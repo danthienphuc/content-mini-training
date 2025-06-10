@@ -5,18 +5,20 @@
 ## 🎯 TIÊU CHÍ ĐÁNH GIÁ TỔNG QUAN BUỔI 3
 
 ### Cấu trúc điểm số:
-- **SEO Workshop & Optimization:** 30 điểm
-- **Platform Algorithm Workshop:** 25 điểm
-- **Analytics Analysis Challenge:** 20 điểm
-- **Capstone Project:** 25 điểm
-- **Tổng cộng:** 100 điểm
+
+-   **SEO Workshop & Optimization:** 30 điểm
+-   **Platform Algorithm Workshop:** 25 điểm
+-   **Analytics Analysis Challenge:** 20 điểm
+-   **Capstone Project:** 25 điểm
+-   **Tổng cộng:** 100 điểm
 
 ### Thang điểm đánh giá cuối khóa:
-- **90-100 điểm:** Content Marketing Expert - Sẵn sàng lead projects
-- **80-89 điểm:** Advanced Practitioner - Có thể handle complex assignments
-- **70-79 điểm:** Competent Creator - Thực hiện tốt daily tasks
-- **60-69 điểm:** Developing Skills - Cần mentoring và support
-- **< 60 điểm:** Need Additional Training - Yêu cầu đào tạo bổ sung
+
+-   **90-100 điểm:** Content Marketing Expert - Sẵn sàng lead projects
+-   **80-89 điểm:** Advanced Practitioner - Có thể handle complex assignments
+-   **70-79 điểm:** Competent Creator - Thực hiện tốt daily tasks
+-   **60-69 điểm:** Developing Skills - Cần mentoring và support
+-   **< 60 điểm:** Need Additional Training - Yêu cầu đào tạo bổ sung
 
 ---
 
@@ -29,19 +31,22 @@
 **Tiêu chí chấm điểm:**
 
 **Technical SEO Understanding (8 điểm):**
-- On-page elements identification: 3 điểm
-- Technical factors assessment: 3 điểm  
-- Tools usage proficiency: 2 điểm
+
+-   On-page elements identification: 3 điểm
+-   Technical factors assessment: 3 điểm
+-   Tools usage proficiency: 2 điểm
 
 **Content Optimization Skills (7 điểm):**
-- Keyword research application: 3 điểm
-- Content quality evaluation: 2 điểm
-- Optimization recommendations: 2 điểm
+
+-   Keyword research application: 3 điểm
+-   Content quality evaluation: 2 điểm
+-   Optimization recommendations: 2 điểm
 
 **Strategic Thinking (5 điểm):**
-- Priority ranking logic: 2 điểm
-- Impact prediction accuracy: 2 điểm
-- Implementation feasibility: 1 điểm
+
+-   Priority ranking logic: 2 điểm
+-   Impact prediction accuracy: 2 điểm
+-   Implementation feasibility: 1 điểm
 
 #### Template đánh giá SEO Workshop:
 
@@ -82,6 +87,7 @@ Areas for Development:
 #### 1.2 Keyword Research & Implementation (10 điểm)
 
 **Practical Application Test:**
+
 ```
 📝 KEYWORD RESEARCH CHALLENGE (15 phút):
 
@@ -92,7 +98,7 @@ Task 1: Keyword Research (4 điểm)
 - Find 10 long-tail keyword variations
 - Assess keyword difficulty và competition
 
-Task 2: Content Optimization (3 điểm)  
+Task 2: Content Optimization (3 điểm)
 - Write optimized title tag (60 characters)
 - Create meta description (160 characters)
 - Structure H1/H2/H3 hierarchy
@@ -110,6 +116,7 @@ Task 3: Strategic Recommendations (3 điểm)
 **Evaluation Criteria:**
 
 **Platform Understanding (10 điểm):**
+
 ```
 📱 FACEBOOK OPTIMIZATION (2.5 điểm):
 □ Hook effectiveness: ___/1
@@ -133,23 +140,25 @@ Task 3: Strategic Recommendations (3 điểm)
 ```
 
 **Content Adaptation Skills (8 điểm):**
-- Message consistency across platforms: 3 điểm
-- Format optimization cho từng platform: 3 điểm
-- Brand voice maintenance: 2 điểm
+
+-   Message consistency across platforms: 3 điểm
+-   Format optimization cho từng platform: 3 điểm
+-   Brand voice maintenance: 2 điểm
 
 **Creative Innovation (7 điểm):**
-- Original approach to content adaptation: 3 điểm
-- Engagement potential assessment: 2 điểm
-- Practical implementation feasibility: 2 điểm
+
+-   Original approach to content adaptation: 3 điểm
+-   Engagement potential assessment: 2 điểm
+-   Practical implementation feasibility: 2 điểm
 
 #### Platform Performance Rubric:
 
-| Criteria | Expert (4-5đ) | Proficient (3đ) | Developing (2đ) | Beginner (1đ) |
-|----------|---------------|-----------------|-----------------|---------------|
-| **Algorithm Knowledge** | Demonstrates deep understanding của platform mechanics | Good grasp của key factors | Basic understanding | Limited knowledge |
-| **Content Adaptation** | Seamless adaptation maintaining message integrity | Good adaptation với minor inconsistencies | Basic adaptation effort | Poor adaptation |
-| **Creative Innovation** | Highly creative, engagement-optimized approach | Creative with good engagement potential | Some creativity shown | Generic approach |
-| **Technical Execution** | Flawless technical implementation | Good execution với minor issues | Basic execution | Poor technical quality |
+| Criteria                | Expert (4-5đ)                                          | Proficient (3đ)                           | Developing (2đ)         | Beginner (1đ)          |
+| ----------------------- | ------------------------------------------------------ | ----------------------------------------- | ----------------------- | ---------------------- |
+| **Algorithm Knowledge** | Demonstrates deep understanding của platform mechanics | Good grasp của key factors                | Basic understanding     | Limited knowledge      |
+| **Content Adaptation**  | Seamless adaptation maintaining message integrity      | Good adaptation với minor inconsistencies | Basic adaptation effort | Poor adaptation        |
+| **Creative Innovation** | Highly creative, engagement-optimized approach         | Creative with good engagement potential   | Some creativity shown   | Generic approach       |
+| **Technical Execution** | Flawless technical implementation                      | Good execution với minor issues           | Basic execution         | Poor technical quality |
 
 ### 3. Analytics Analysis Challenge (20 điểm)
 
@@ -158,15 +167,17 @@ Task 3: Strategic Recommendations (3 điểm)
 **Analytics Competency Assessment:**
 
 **Data Analysis Skills (8 điểm):**
+
 ```
 📊 PERFORMANCE ANALYSIS:
 - Metric interpretation accuracy: 3 điểm
-- Pattern identification: 2 điểm  
+- Pattern identification: 2 điểm
 - Trend analysis: 2 điểm
 - Insight extraction: 1 điểm
 ```
 
 **Strategic Thinking (7 điểm):**
+
 ```
 🎯 OPTIMIZATION RECOMMENDATIONS:
 - Problem diagnosis accuracy: 3 điểm
@@ -175,6 +186,7 @@ Task 3: Strategic Recommendations (3 điểm)
 ```
 
 **Business Impact Understanding (5 điểm):**
+
 ```
 💰 ROI & BUSINESS VALUE:
 - Revenue attribution understanding: 2 điểm
@@ -226,6 +238,7 @@ Technical competency need: ________________________
 **Project Components Scoring:**
 
 **Strategy Document Quality (10 điểm):**
+
 ```
 📄 STRATEGY DOCUMENT EVALUATION:
 
@@ -251,6 +264,7 @@ Implementation Plan (2 điểm):
 ```
 
 **Content Calendar Excellence (8 điểm):**
+
 ```
 📅 CONTENT CALENDAR ASSESSMENT:
 
@@ -268,6 +282,7 @@ Execution Details (4 điểm):
 ```
 
 **Presentation Performance (7 điểm):**
+
 ```
 🎤 PRESENTATION EVALUATION:
 
@@ -286,32 +301,36 @@ Professional Skills (3 điểm):
 #### Capstone Project Rubric:
 
 **Outstanding (23-25 điểm): Ready to Lead**
-- Strategy demonstrates deep understanding của client needs
-- Implementation plan realistic và well-resourced
-- Presentation professional và compelling
-- Innovation và creativity evident
-- Business impact clearly articulated
+
+-   Strategy demonstrates deep understanding của client needs
+-   Implementation plan realistic và well-resourced
+-   Presentation professional và compelling
+-   Innovation và creativity evident
+-   Business impact clearly articulated
 
 **Proficient (20-22 điểm): Ready to Execute**
-- Solid strategy với good understanding
-- Implementation plan mostly realistic
-- Good presentation skills
-- Some creative elements
-- Business value understood
+
+-   Solid strategy với good understanding
+-   Implementation plan mostly realistic
+-   Good presentation skills
+-   Some creative elements
+-   Business value understood
 
 **Developing (15-19 điểm): Need Mentoring**
-- Basic strategy understanding
-- Implementation challenges evident
-- Presentation needs improvement
-- Limited creativity
-- Business impact unclear
+
+-   Basic strategy understanding
+-   Implementation challenges evident
+-   Presentation needs improvement
+-   Limited creativity
+-   Business impact unclear
 
 **Needs Development (< 15 điểm): Additional Training Required**
-- Strategy lacks depth
-- Implementation unrealistic
-- Presentation skills poor
-- No innovative elements
-- Business value not demonstrated
+
+-   Strategy lacks depth
+-   Implementation unrealistic
+-   Presentation skills poor
+-   No innovative elements
+-   Business value not demonstrated
 
 ---
 
@@ -329,7 +348,7 @@ Professional Skills (3 điểm):
 
 📈 OVERALL PROGRAM PERFORMANCE:
 Buổi 1 Score: ___/100 (Fundamentals & Analysis)
-Buổi 2 Score: ___/100 (Creation & Formulas)  
+Buổi 2 Score: ___/100 (Creation & Formulas)
 Buổi 3 Score: ___/100 (Optimization & Strategy)
 
 🎯 TOTAL PROGRAM SCORE: ___/300
@@ -392,6 +411,7 @@ Goal for next 3 months: ________________________
 #### 🏅 CSA Content Marketing Certification Tiers:
 
 **🌟 CONTENT MARKETING EXPERT (270-300 points)**
+
 ```
 ✅ CERTIFIED CAPABILITIES:
 - Lead comprehensive content marketing projects
@@ -415,6 +435,7 @@ Goal for next 3 months: ________________________
 ```
 
 **🌟 ADVANCED PRACTITIONER (240-269 points)**
+
 ```
 ✅ CERTIFIED CAPABILITIES:
 - Execute complex content marketing campaigns
@@ -436,6 +457,7 @@ Goal for next 3 months: ________________________
 ```
 
 **🌟 COMPETENT CREATOR (180-239 points)**
+
 ```
 ✅ CERTIFIED CAPABILITIES:
 - Create high-quality content consistently
@@ -462,6 +484,7 @@ Goal for next 3 months: ________________________
 ### 30-60-90 Day Action Plan:
 
 #### First 30 Days - Immediate Application:
+
 ```
 🎯 WEEK 1-2: SKILL CONSOLIDATION
 □ Review all training materials
@@ -469,7 +492,7 @@ Goal for next 3 months: ________________________
 □ Install và familiarize với recommended tools
 □ Begin implementing learned techniques on current projects
 
-🎯 WEEK 3-4: PRACTICAL APPLICATION  
+🎯 WEEK 3-4: PRACTICAL APPLICATION
 □ Apply 5 content formulas to real projects
 □ Conduct SEO audit on 3 existing content pieces
 □ Create content calendar cho next month
@@ -477,6 +500,7 @@ Goal for next 3 months: ________________________
 ```
 
 #### Next 30 Days (31-60) - Skill Enhancement:
+
 ```
 🎯 ADVANCED TECHNIQUE PRACTICE:
 □ A/B testing implementation cho headlines và CTAs
@@ -492,6 +516,7 @@ Goal for next 3 months: ________________________
 ```
 
 #### Final 30 Days (61-90) - Leadership Development:
+
 ```
 🎯 STRATEGIC LEADERSHIP:
 □ Lead content strategy development cho major client
@@ -509,6 +534,7 @@ Goal for next 3 months: ________________________
 ### Ongoing Support Structure:
 
 #### Monthly Check-ins:
+
 ```
 📅 MONTHLY PERFORMANCE REVIEW:
 
@@ -534,17 +560,19 @@ Next Month Goals:
 ```
 
 #### Quarterly Strategy Sessions:
-- Industry trends discussion
-- Tool stack updates
-- Best practices sharing
-- Advanced technique workshops
-- Career development planning
+
+-   Industry trends discussion
+-   Tool stack updates
+-   Best practices sharing
+-   Advanced technique workshops
+-   Career development planning
 
 #### Annual Recertification:
-- Knowledge assessment update
-- Skill demonstration requirement
-- Portfolio review
-- New certification tier opportunity
+
+-   Knowledge assessment update
+-   Skill demonstration requirement
+-   Portfolio review
+-   New certification tier opportunity
 
 ---
 
@@ -555,24 +583,28 @@ Next Month Goals:
 #### 🏆 Program Awards:
 
 **"Content Marketing Visionary"**
-- Criteria: Highest overall score (290+ points)
-- Recognition: Featured case study development opportunity
-- Reward: Advanced marketing conference attendance
 
-**"Most Improved Performer"**  
-- Criteria: Highest score improvement across 3 sessions
-- Recognition: Mentorship program leadership role
-- Reward: Professional development budget allocation
+-   Criteria: Highest overall score (290+ points)
+-   Recognition: Featured case study development opportunity
+-   Reward: Advanced marketing conference attendance
+
+**"Most Improved Performer"**
+
+-   Criteria: Highest score improvement across 3 sessions
+-   Recognition: Mentorship program leadership role
+-   Reward: Professional development budget allocation
 
 **"Innovation Champion"**
-- Criteria: Most creative và practical capstone project
-- Recognition: Innovation team membership
-- Reward: Product development collaboration opportunity
+
+-   Criteria: Most creative và practical capstone project
+-   Recognition: Innovation team membership
+-   Reward: Product development collaboration opportunity
 
 **"Peer Mentor Excellence"**
-- Criteria: Outstanding peer support và collaboration
-- Recognition: Official mentoring role assignment
-- Reward: Leadership training program access
+
+-   Criteria: Outstanding peer support và collaboration
+-   Recognition: Official mentoring role assignment
+-   Reward: Leadership training program access
 
 #### 🎖️ Skill-Specific Recognition:
 
@@ -584,22 +616,24 @@ Next Month Goals:
 ### Alumni Network Benefits:
 
 #### 📱 CSA Content Marketing Alumni Community:
-- Private Slack workspace access
-- Monthly virtual meetups
-- Industry trend sharing
-- Job opportunity referrals
-- Collaborative project opportunities
-- Advanced training early access
-- Industry expert guest sessions
-- Portfolio showcase platform
+
+-   Private Slack workspace access
+-   Monthly virtual meetups
+-   Industry trend sharing
+-   Job opportunity referrals
+-   Collaborative project opportunities
+-   Advanced training early access
+-   Industry expert guest sessions
+-   Portfolio showcase platform
 
 #### 📚 Continued Learning Resources:
-- Advanced technique tutorials
-- Industry report early access
-- Tool trial và discount access
-- Conference presentation opportunities
-- Guest writing opportunities
-- Podcast appearance invitations
+
+-   Advanced technique tutorials
+-   Industry report early access
+-   Tool trial và discount access
+-   Conference presentation opportunities
+-   Guest writing opportunities
+-   Podcast appearance invitations
 
 ---
 
@@ -612,7 +646,7 @@ Next Month Goals:
 
 🎯 CONTENT QUALITY (1-5 scale):
 Relevance to job role: ___/5
-Practical applicability: ___/5  
+Practical applicability: ___/5
 Depth of coverage: ___/5
 Currency of information: ___/5
 
@@ -646,7 +680,7 @@ _____________________________________________
 
 ---
 
-*"The goal of content marketing is to create content so good that people would pay for it, but then give it away for free to drive business results." - Jay Baer*
+_"The goal of content marketing is to create content so good that people would pay for it, but then give it away for free to drive business results." - Jay Baer_
 
 **🎉 Congratulations on completing the CSA Vietnam Content Marketing Training Program! You're now equipped with the knowledge, skills, and confidence to drive exceptional content marketing results. Welcome to the alumni network of Content Marketing Professionals! 🚀📈**
 

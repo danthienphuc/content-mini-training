@@ -7,18 +7,21 @@
 ### Workshop 1: SEO Content Audit Challenge (30 phút)
 
 #### Mục tiêu:
+
 Audit và optimize 1 blog post thực tế của CSA Vietnam theo checklist SEO chuyên nghiệp
 
 #### Chia nhóm:
-- **Nhóm 1:** Audit blog post về Digital Marketing cho SME
-- **Nhóm 2:** Audit blog post về Social Media Strategy
-- **Nhóm 3:** Audit blog post về Branding cho Startup
+
+-   **Nhóm 1:** Audit blog post về Digital Marketing cho SME
+-   **Nhóm 2:** Audit blog post về Social Media Strategy
+-   **Nhóm 3:** Audit blog post về Branding cho Startup
 
 #### Tools cần sử dụng:
-- **SEOquake extension:** Check page metrics
-- **Google PageSpeed Insights:** Analyze loading speed
-- **Screaming Frog (free version):** Technical SEO check
-- **Yoast SEO plugin:** Content optimization
+
+-   **SEOquake extension:** Check page metrics
+-   **Google PageSpeed Insights:** Analyze loading speed
+-   **Screaming Frog (free version):** Technical SEO check
+-   **Yoast SEO plugin:** Content optimization
 
 #### SEO Audit Checklist:
 
@@ -27,7 +30,7 @@ Audit và optimize 1 blog post thực tế của CSA Vietnam theo checklist SEO 
 
 🎯 BASIC SEO ELEMENTS:
 □ Title tag (50-60 characters): ___/10 points
-□ Meta description (150-160 characters): ___/10 points  
+□ Meta description (150-160 characters): ___/10 points
 □ H1 tag (unique, keyword-rich): ___/10 points
 □ H2/H3 structure (logical hierarchy): ___/10 points
 □ URL structure (short, descriptive): ___/5 points
@@ -61,11 +64,13 @@ Audit và optimize 1 blog post thực tế của CSA Vietnam theo checklist SEO 
 ```
 
 #### Deliverable (15 phút làm bài):
+
 Mỗi nhóm present top 3 optimization recommendations với expected impact
 
 ### Workshop 2: Platform Algorithm Optimization (45 phút)
 
 #### Challenge: Multi-Platform Content Optimization
+
 **Base Content:** CSA case study "Hằng Underwears scaling to 1 tỷ/tháng"
 
 #### Mission: Optimize cho 4 platforms với algorithm-specific techniques
@@ -73,12 +78,14 @@ Mỗi nhóm present top 3 optimization recommendations với expected impact
 **📱 Station 1: Facebook Algorithm Optimization (10 phút)**
 
 **Facebook-specific requirements:**
-- Hook trong 3 từ đầu tiên
-- Engagement-driving question ở cuối
-- Visual concept với text overlay <20%
-- Optimal length: 40-80 words
+
+-   Hook trong 3 từ đầu tiên
+-   Engagement-driving question ở cuối
+-   Visual concept với text overlay <20%
+-   Optimal length: 40-80 words
 
 **Template Structure:**
+
 ```
 🔥 FACEBOOK OPTIMIZATION TEMPLATE:
 
@@ -94,12 +101,14 @@ Hashtags: #3relevant #hashtags #maximum
 **💼 Station 2: LinkedIn Algorithm Optimization (10 phút)**
 
 **LinkedIn-specific requirements:**
-- Professional industry insight angle
-- Data/statistics inclusion
-- Thought leadership positioning
-- Length: 150-300 words
+
+-   Professional industry insight angle
+-   Data/statistics inclusion
+-   Thought leadership positioning
+-   Length: 150-300 words
 
 **Template Structure:**
+
 ```
 💼 LINKEDIN OPTIMIZATION TEMPLATE:
 
@@ -115,12 +124,14 @@ Industry hashtags: #DigitalMarketing #SMEGrowth #BusinessStrategy
 **📸 Station 3: Instagram Algorithm Optimization (10 phút)**
 
 **Instagram-specific requirements:**
-- Visual-first storytelling
-- Behind-the-scenes angle
-- Story continuation technique
-- Hashtag strategy: 15-30 mix
+
+-   Visual-first storytelling
+-   Behind-the-scenes angle
+-   Story continuation technique
+-   Hashtag strategy: 15-30 mix
 
 **Template Structure:**
+
 ```
 📸 INSTAGRAM OPTIMIZATION TEMPLATE:
 
@@ -136,12 +147,14 @@ First comment hashtags: #mix #of #popular #and #niche #hashtags
 **🎵 Station 4: TikTok Algorithm Optimization (10 phút)**
 
 **TikTok-specific requirements:**
-- Trend participation element
-- Quick value delivery (15-30 seconds)
-- Generation Z language adaptation
-- Viral potential factors
+
+-   Trend participation element
+-   Quick value delivery (15-30 seconds)
+-   Generation Z language adaptation
+-   Viral potential factors
 
 **Template Structure:**
+
 ```
 🎵 TIKTOK OPTIMIZATION TEMPLATE:
 
@@ -155,10 +168,11 @@ Video concept: [15-30 second storyboard]
 ```
 
 #### Evaluation Criteria (5 phút presentation/team):
-- **Algorithm Alignment:** 40% - Follows platform best practices
-- **Content Adaptation:** 30% - Message consistent but format optimized  
-- **Engagement Potential:** 20% - Likely to drive interactions
-- **Brand Consistency:** 10% - Maintains CSA voice
+
+-   **Algorithm Alignment:** 40% - Follows platform best practices
+-   **Content Adaptation:** 30% - Message consistent but format optimized
+-   **Engagement Potential:** 20% - Likely to drive interactions
+-   **Brand Consistency:** 10% - Maintains CSA voice
 
 ### Workshop 3: Analytics Deep Dive & Performance Optimization (30 phút)
 
@@ -168,28 +182,30 @@ Video concept: [15-30 second storyboard]
 **Data provided:** 3 months of content metrics across platforms
 
 #### Sample Data Set:
+
 ```
 📈 CONTENT PERFORMANCE DATA (Q1 2024):
 
 BLOG POSTS (12 posts total):
-Post A: "Digital Marketing cho SME" 
+Post A: "Digital Marketing cho SME"
 - Page views: 2,500 | Time on page: 3:45 | Bounce rate: 35% | Leads: 8
 
 Post B: "Social Media Strategy 2024"
 - Page views: 1,800 | Time on page: 2:15 | Bounce rate: 65% | Leads: 3
 
-Post C: "Startup Branding Guide"  
+Post C: "Startup Branding Guide"
 - Page views: 3,200 | Time on page: 4:20 | Bounce rate: 28% | Leads: 15
 
 SOCIAL MEDIA (180 posts total):
 Facebook average: 1,200 reach | 48 engagement | 2.1% CTR
-LinkedIn average: 800 reach | 35 engagement | 1.8% CTR  
+LinkedIn average: 800 reach | 35 engagement | 1.8% CTR
 Instagram average: 950 reach | 67 engagement | 1.2% CTR
 ```
 
 #### Analysis Tasks (20 phút team work):
 
 **Task 1: Performance Analysis**
+
 ```
 📊 ANALYTICS WORKSHEET:
 
@@ -210,6 +226,7 @@ Cross-platform learnings: ________________
 ```
 
 **Task 2: Optimization Recommendations**
+
 ```
 🔧 OPTIMIZATION ACTION PLAN:
 
@@ -228,8 +245,9 @@ Cross-platform learnings: ________________
 ```
 
 #### Presentation Format (10 phút total):
-- 2 phút per team: Key findings + top recommendation
-- Group discussion: Cross-team insights sharing
+
+-   2 phút per team: Key findings + top recommendation
+-   Group discussion: Cross-team insights sharing
 
 ---
 
@@ -240,22 +258,24 @@ Cross-platform learnings: ________________
 #### Mission: Tạo complete content strategy cho 1 client thực tế/hypothetical
 
 **📋 Project Scope:**
-- Client: Choose từ CSA portfolio hoặc create realistic scenario
-- Timeline: 3-month strategy
-- Budget: 100-200 triệu VND
-- Team: 2-3 người (content writer, designer, strategist)
+
+-   Client: Choose từ CSA portfolio hoặc create realistic scenario
+-   Timeline: 3-month strategy
+-   Budget: 100-200 triệu VND
+-   Team: 2-3 người (content writer, designer, strategist)
 
 #### Deliverable Requirements:
 
 ### Part 1: Strategy Document (8-10 pages)
 
 **📄 Executive Summary (1 page)**
+
 ```
 📊 EXECUTIVE SUMMARY TEMPLATE:
 
 CLIENT OVERVIEW:
 - Company: ________________________
-- Industry: ________________________  
+- Industry: ________________________
 - Current challenges: ________________________
 - Target audience: ________________________
 
@@ -273,12 +293,13 @@ INVESTMENT & ROI:
 ```
 
 **🔍 Situation Analysis (2-3 pages)**
+
 ```
 📋 SITUATION ANALYSIS FRAMEWORK:
 
 CURRENT STATE AUDIT:
 □ Website content analysis
-□ Social media presence review  
+□ Social media presence review
 □ SEO performance assessment
 □ Content gaps identification
 
@@ -302,6 +323,7 @@ Threats: ________________________
 ```
 
 **🎯 Strategic Recommendations (3-4 pages)**
+
 ```
 📈 STRATEGY FRAMEWORK:
 
@@ -340,12 +362,13 @@ CONTENT FORMATS:
 ```
 
 **📅 Implementation Plan (2 pages)**
+
 ```
 🗓️ 90-DAY IMPLEMENTATION ROADMAP:
 
 MONTH 1 - FOUNDATION:
 Week 1: ________________________
-Week 2: ________________________  
+Week 2: ________________________
 Week 3: ________________________
 Week 4: ________________________
 
@@ -358,7 +381,7 @@ Week 8: ________________________
 MONTH 3 - OPTIMIZATION:
 Week 9: ________________________
 Week 10: ________________________
-Week 11: ________________________  
+Week 11: ________________________
 Week 12: ________________________
 
 RESOURCE ALLOCATION:
@@ -385,6 +408,7 @@ Analytics Specialist: ________________________
 ### Part 2: Content Calendar (3 months detailed)
 
 **📅 Monthly Content Calendar Template:**
+
 ```
 📊 MONTH 1 CONTENT CALENDAR
 
@@ -418,6 +442,7 @@ Video 1: [Title] - [Platform] - [Duration] - [Topic]
 ### Part 3: Performance Dashboard Mock-up
 
 **📊 Analytics Dashboard Design:**
+
 ```
 📈 CONTENT PERFORMANCE DASHBOARD
 
@@ -466,6 +491,7 @@ OPTIMIZATION OPPORTUNITIES:
 ### Advanced SEO Techniques
 
 #### Technical SEO Checklist cho Content:
+
 ```
 🔧 TECHNICAL SEO AUDIT:
 
@@ -497,12 +523,13 @@ STRUCTURED DATA:
 #### Advanced Keyword Research:
 
 **🎯 Semantic Keyword Strategy:**
+
 ```
 PRIMARY KEYWORD: "dịch vụ marketing online"
 
 SEMANTIC CLUSTER:
 - quảng cáo trực tuyến
-- marketing kỹ thuật số  
+- marketing kỹ thuật số
 - digital advertising
 - online promotion
 - internet marketing
@@ -525,6 +552,7 @@ LONG-TAIL VARIATIONS:
 #### 2024 Algorithm Changes:
 
 **📘 Facebook Algorithm Updates:**
+
 ```
 🔄 RECENT CHANGES (2024):
 - Increased focus on meaningful interactions
@@ -542,6 +570,7 @@ LONG-TAIL VARIATIONS:
 ```
 
 **💼 LinkedIn Algorithm Updates:**
+
 ```
 🔄 RECENT CHANGES (2024):
 - Professional value emphasis increased
@@ -563,34 +592,36 @@ LONG-TAIL VARIATIONS:
 #### Custom Tracking Setup:
 
 **📊 Advanced Google Analytics Events:**
+
 ```javascript
 // Content engagement tracking
-gtag('event', 'content_engagement', {
-  'custom_parameter_1': 'blog_post',
-  'custom_parameter_2': article_title,
-  'engagement_time_msec': time_spent,
-  'scroll_depth': scroll_percentage
+gtag("event", "content_engagement", {
+    custom_parameter_1: "blog_post",
+    custom_parameter_2: article_title,
+    engagement_time_msec: time_spent,
+    scroll_depth: scroll_percentage,
 });
 
 // Social share tracking with platform
-gtag('event', 'social_share', {
-  'method': platform_name,
-  'content_type': 'article',
-  'item_id': article_id,
-  'content_group1': 'blog'
+gtag("event", "social_share", {
+    method: platform_name,
+    content_type: "article",
+    item_id: article_id,
+    content_group1: "blog",
 });
 
 // Lead scoring based on content consumption
-gtag('event', 'lead_score_increase', {
-  'score_increase': 10,
-  'trigger_content': content_title,
-  'total_score': user_total_score
+gtag("event", "lead_score_increase", {
+    score_increase: 10,
+    trigger_content: content_title,
+    total_score: user_total_score,
 });
 ```
 
 #### ROI Attribution Models:
 
 **💰 Advanced ROI Calculation:**
+
 ```
 🎯 MULTI-TOUCH ATTRIBUTION:
 
@@ -643,6 +674,7 @@ D. Google không care về speed
 ### Platform Optimization Assessment:
 
 **Scenario Analysis:**
+
 ```
 📊 CONTENT PERFORMANCE COMPARISON:
 
@@ -660,6 +692,7 @@ Question: Cách nào để optimize LinkedIn posts để tăng professional enga
 ### Analytics Interpretation Exercise:
 
 **Data Analysis Challenge:**
+
 ```
 📈 ANALYTICS DATA:
 
@@ -684,6 +717,7 @@ Tasks:
 ### Presentation Guidelines:
 
 **🎤 10-Minute Presentation Structure:**
+
 ```
 SLIDE 1: Project Overview (1 minute)
 - Client introduction
@@ -712,6 +746,7 @@ SLIDE 9: Expected Outcomes (1 minute)
 ```
 
 **📊 Evaluation Rubric:**
+
 ```
 🎯 STRATEGIC THINKING (25%):
 - Problem identification accuracy
@@ -741,14 +776,15 @@ SLIDE 9: Expected Outcomes (1 minute)
 ### Success Metrics for Capstone:
 
 **📈 Project Success Indicators:**
-- Strategy completeness: All required sections included
-- Data-driven approach: Decisions backed by research
-- Practical applicability: Ready for real implementation
-- Innovation factor: Creative solutions proposed
-- Professional presentation: Client-ready quality
+
+-   Strategy completeness: All required sections included
+-   Data-driven approach: Decisions backed by research
+-   Practical applicability: Ready for real implementation
+-   Innovation factor: Creative solutions proposed
+-   Professional presentation: Client-ready quality
 
 ---
 
-*"Content marketing is the gap between what brands produce and what consumers actually want." - Michael Brenner*
+_"Content marketing is the gap between what brands produce and what consumers actually want." - Michael Brenner_
 
 **Excellent work completing the Content Marketing Training program! You're now ready to drive real business results through strategic content! 🚀📈**
