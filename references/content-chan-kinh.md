@@ -6,11 +6,11 @@ Chào bạn,
 
 Chúng ta vừa bước qua giai đoạn **"Content is King"** và sang trang mới **"Content is Queen"**! Content ngày càng đóng vai trò quan trọng trong kinh doanh và marketing:
 
--   Bán hàng bằng content
--   Viral bằng content
--   Thu hút khách bằng content hữu ích (gọi là content marketing)
--   SEO bằng content chất lượng
--   Tăng tương tác fanpage bằng content trúng insight
+- Bán hàng bằng content
+- Viral bằng content
+- Thu hút khách bằng content hữu ích (gọi là content marketing)
+- SEO bằng content chất lượng
+- Tăng tương tác fanpage bằng content trúng insight
 
 Tạo được content hay là bí quyết để bán hàng online, là cách để viral, là cách để giảm chi phí, là cách để chiến thắng với nguồn lực giới hạn.
 
@@ -35,20 +35,20 @@ Hoàng Bảo Kiếm
 
 ### [PHẦN I] ĐỂ TRỞ THÀNH THÁNH CONTENT BÁN HÀNG
 
--   **Bài 1:** Cấu trúc của một content hay
--   **Bài 2:** Mức độ hay (MDH) của bài viết
--   **Bài 3:** Tạo ra sự khác biệt cho content
--   **Bài 4:** Giá trị - yếu tố cốt lõi của một content hay
--   **Bài 5:** Đưa giá trị vào content là cách để làm content hay hơn
--   **Bài 6:** Làm thế nào để content cuốn hút?
--   **Bài 7:** Cách giữ nhịp content cuốn hút từ đầu đến cuối
--   **Bài 8:** Vai trò của cảm xúc trong content
+- **Bài 1:** Cấu trúc của một content hay
+- **Bài 2:** Mức độ hay (MDH) của bài viết
+- **Bài 3:** Tạo ra sự khác biệt cho content
+- **Bài 4:** Giá trị - yếu tố cốt lõi của một content hay
+- **Bài 5:** Đưa giá trị vào content là cách để làm content hay hơn
+- **Bài 6:** Làm thế nào để content cuốn hút?
+- **Bài 7:** Cách giữ nhịp content cuốn hút từ đầu đến cuối
+- **Bài 8:** Vai trò của cảm xúc trong content
 
 ### [PHẦN II] TƯ DUY VỀ CONTENT
 
--   **Bài 1:** Tư duy trước content
--   **Bài 2:** Tư duy trong content
--   **Bài 3:** Tư duy sau content
+- **Bài 1:** Tư duy trước content
+- **Bài 2:** Tư duy trong content
+- **Bài 3:** Tư duy sau content
 
 ### [PHẦN III] CÔNG THỨC TIÊU ĐỀ DỄ DÀNG MÀ LẠI HIỆU QUẢ
 
@@ -58,15 +58,17 @@ Hoàng Bảo Kiếm
 
 # [PHẦN I] ĐỂ TRỞ THÀNH THÁNH CONTENT BÁN HÀNG
 
+![Phần I Cover](../assets/[PHẦN%20I]%20%20ĐỂ%20TRỞ%20THÀNH%20THÁNH%20CONTENT%20BÁN%20HÀNG.png)
+
 ## Thánh Content là gì?
 
 **Thánh Content** là người viết content hay. Hay đến nỗi người đọc phải:
 
--   Chăm chú đọc từ đầu đến cuối bài cho dù nó dài thế nào
--   Dừng xem tivi để đọc nó
--   Dừng tán gẫu để đọc nó
--   Dừng làm việc để đọc nó
--   Nói chung là dừng mọi thứ xung quanh để nghiền ngẫm nó
+- Chăm chú đọc từ đầu đến cuối bài cho dù nó dài thế nào
+- Dừng xem tivi để đọc nó
+- Dừng tán gẫu để đọc nó
+- Dừng làm việc để đọc nó
+- Nói chung là dừng mọi thứ xung quanh để nghiền ngẫm nó
 
 **Thánh Content bán hàng** là người viết content hay và khiến khách hàng đọc xong phải hành động như người viết mong muốn: mua hàng, để lại contact, comment, inbox, like, share.
 
@@ -81,19 +83,21 @@ Bạn phải trở thành Thánh Content bán hàng hoặc phải thuê được
 
 ### 1. Tăng doanh số bán hàng
 
--   Với cùng một số lượng người đọc, content hay sẽ cho tỉ lệ chuyển đổi cao hơn content bình thường
--   Cao hơn nhiều so với content dở
+- Với cùng một số lượng người đọc, content hay sẽ cho tỉ lệ chuyển đổi cao hơn content bình thường
+- Cao hơn nhiều so với content dở
 
 ### 2. Content đang lên ngôi
 
--   **Facebook:** ưu tiên content thú vị, cho nó tiếp cận nhiều người hơn → giảm chi phí quảng cáo
--   **Google:** content hay giúp bài viết đứng ở thứ hạng cao trong danh sách tìm kiếm
+- **Facebook:** ưu tiên content thú vị, cho nó tiếp cận nhiều người hơn → giảm chi phí quảng cáo
+- **Google:** content hay giúp bài viết đứng ở thứ hạng cao trong danh sách tìm kiếm
 
 **Tóm lại:** Content hay sẽ giúp bạn bán được hàng và giảm chi phí tiếp cận khách hàng mới.
 
 ---
 
 ## Bài 1: Cấu trúc của một content hay
+
+![Cấu trúc của một content hay](../assets/CẤU%20TRÚC%20CỦA%20MỘT%20CONTENT%20HAY.jpg)
 
 Theo quan điểm cá nhân của tôi, một content hay gồm có **3 phần**:
 
@@ -113,17 +117,17 @@ Từ tượng hình là từ gợi lên hình ảnh trong tâm trí người đ�
 
 #### Ví dụ Hot Keywords:
 
--   Bóc phốt - Đánh ghen - Nghe lén - Bói toán
--   Mất trộm, mất cắp
--   Dì ghẻ, con chồng
--   Người chồng bất lực
--   Ông hàng xóm
--   Thả ga
+- Bóc phốt - Đánh ghen - Nghe lén - Bói toán
+- Mất trộm, mất cắp
+- Dì ghẻ, con chồng
+- Người chồng bất lực
+- Ông hàng xóm
+- Thả ga
 
 #### Ví dụ tiêu đề có vần:
 
--   "Trang sức cực xinh, tôn vinh nét quý phái"
--   "Xinh xinh cute cute trông thật đáng yêu"
+- "Trang sức cực xinh, tôn vinh nét quý phái"
+- "Xinh xinh cute cute trông thật đáng yêu"
 
 ### 2. Phép tu từ hay
 
@@ -145,21 +149,25 @@ Nghệ thuật dùng 2 hình ảnh, 2 chi tiết đối lập để khắc họa
 
 **Ưu điểm của người trẻ:**
 
--   Giàu năng lượng, đầy nhiệt huyết
--   Tính sáng tạo cao, tư tưởng phóng khoáng
--   Dũng cảm, gan dạ, xông pha
+- Giàu năng lượng, đầy nhiệt huyết
+- Tính sáng tạo cao, tư tưởng phóng khoáng
+- Dũng cảm, gan dạ, xông pha
 
 **Nhược điểm:**
 
--   Thiếu kiến thức, thiếu kinh nghiệm
--   Thiếu khả năng kiềm chế cảm xúc tiêu cực
--   Thiếu tài chính và thiếu lực lượng ủng hộ
+- Thiếu kiến thức, thiếu kinh nghiệm
+- Thiếu khả năng kiềm chế cảm xúc tiêu cực
+- Thiếu tài chính và thiếu lực lượng ủng hộ
 
 ### 3. Ý tưởng hay
+
+![Ý tưởng hay](../assets/ý%20tưởng%20hay.png)
 
 Ý tưởng bài viết bao gồm: Viết cái gì? Viết thế nào? Nên đưa thông tin gì? Trình bày ý nào trước, ý nào sau?
 
 > Ý tưởng chiếm hơn **70%** sự thành công của bài viết bán hàng. Và nó là phần quan trọng nhất trong 3 yếu tố.
+
+![Content hoàn chỉnh](../assets/Content_hoan_chinh.jpg)
 
 ---
 
@@ -168,6 +176,8 @@ Nghệ thuật dùng 2 hình ảnh, 2 chi tiết đối lập để khắc họa
 ### Thế nào là mức độ hay?
 
 Để đánh giá khách quan mức độ hay của bài viết, bạn phải để người đọc đánh giá.
+
+![Công thức mức độ hay](../assets/Cong-thuc-muc-do-hay.jpg)
 
 **Công thức tính MDH:**
 
@@ -188,23 +198,25 @@ MDH = (Số comment + Số share) / Số like × 100%
 
 ### Lưu ý:
 
--   Công thức không áp dụng cho bài viết dạng hỏi đáp/khảo sát
--   Không áp dụng cho bài viết gây phẫn nộ
--   Cần xem sơ qua comment để loại bỏ các trường hợp ngoại lệ
+- Công thức không áp dụng cho bài viết dạng hỏi đáp/khảo sát
+- Không áp dụng cho bài viết gây phẫn nộ
+- Cần xem sơ qua comment để loại bỏ các trường hợp ngoại lệ
 
 ### Ý tưởng hay được tạo nên từ:
 
--   **Khác biệt**
--   Giá trị
--   Cảm xúc
--   Thống nhất
--   Cuốn hút
--   Trải nghiệm
--   Lý trí
+- **Khác biệt**
+- Giá trị
+- Cảm xúc
+- Thống nhất
+- Cuốn hút
+- Trải nghiệm
+- Lý trí
 
 ---
 
 ## Bài 3: Tạo ra sự khác biệt cho content
+
+![Tạo ra sự khác biệt cho content](../assets/TẠO%20RA%20SỰ%20KHÁC%20BIỆT%20CHO%20CONTENT.jpg)
 
 ### 1. Thay đổi điểm nhấn trong bài viết
 
@@ -212,40 +224,44 @@ Thay vì viết về 5 ưu điểm trong một bài dài 500 từ, hãy tập tr
 
 **Ví dụ:** So sánh hai cô gái:
 
--   **Cô Hoàn Hảo:** 5 ưu điểm (xinh đẹp, thông minh, nhà giàu, gia đình quyền thế, hiền lành)
--   **Cô Chỉ Đẹp:** Tập trung vào 1 ưu điểm (xinh đẹp) nhưng mô tả chi tiết, sinh động
+- **Cô Hoàn Hảo:** 5 ưu điểm (xinh đẹp, thông minh, nhà giàu, gia đình quyền thế, hiền lành)
+- **Cô Chỉ Đẹp:** Tập trung vào 1 ưu điểm (xinh đẹp) nhưng mô tả chi tiết, sinh động
 
 ### 2. Thay đổi góc nhìn về sản phẩm
 
+![Góc nhìn về sản phẩm](../assets/góc%20nhìn%20về%20sản%20phẩm.png)
+
 #### Các góc độ có thể sử dụng:
 
--   **Góc độ người sản xuất:** quy trình sản xuất, nguyên vật liệu, nguồn hàng
--   **Góc độ người bán hàng:** khách mua nhiều như thế nào, hết hàng ra sao
--   **Góc độ sản phẩm:** đặc tính, chất lượng, giá cả, ích lợi
--   **Góc độ khách hàng:** feedback, ích lợi khi sử dụng
--   **Góc độ thời gian:** thời gian sản xuất, sử dụng, tiết kiệm thời gian
--   **Góc độ lý tính:** phân tích logic tính năng
--   **Góc độ cảm tính:** lợi ích về mặt cảm xúc
--   **Góc độ tài chính:** tiết kiệm tiền, kiếm thêm tiền, thanh toán dễ dàng
--   **Góc độ giáo dục:** hướng dẫn, chia sẻ kiến thức hữu ích
--   **Góc độ nhân quả:** nguyên nhân & kết quả
--   **Góc độ sức khỏe:** ảnh hưởng đến sức khỏe
+- **Góc độ người sản xuất:** quy trình sản xuất, nguyên vật liệu, nguồn hàng
+- **Góc độ người bán hàng:** khách mua nhiều như thế nào, hết hàng ra sao
+- **Góc độ sản phẩm:** đặc tính, chất lượng, giá cả, ích lợi
+- **Góc độ khách hàng:** feedback, ích lợi khi sử dụng
+- **Góc độ thời gian:** thời gian sản xuất, sử dụng, tiết kiệm thời gian
+- **Góc độ lý tính:** phân tích logic tính năng
+- **Góc độ cảm tính:** lợi ích về mặt cảm xúc
+- **Góc độ tài chính:** tiết kiệm tiền, kiếm thêm tiền, thanh toán dễ dàng
+- **Góc độ giáo dục:** hướng dẫn, chia sẻ kiến thức hữu ích
+- **Góc độ nhân quả:** nguyên nhân & kết quả
+- **Góc độ sức khỏe:** ảnh hưởng đến sức khỏe
 
 ### 3. Thay đổi cách diễn đạt
 
 #### Các phương pháp:
 
--   **Liệt kê:** ngắn gọn, xúc tích, mỗi ý là một đầu dòng
--   **Kể chuyện:** mọi người đều yêu thích nghe chuyện hấp dẫn
--   **Nhân hóa:** hóa thân vào sản phẩm, cho nó có đặc tính con người
--   **Làm thơ:** vài câu đầu có vần, như vè, như rap
+- **Liệt kê:** ngắn gọn, xúc tích, mỗi ý là một đầu dòng
+- **Kể chuyện:** mọi người đều yêu thích nghe chuyện hấp dẫn
+- **Nhân hóa:** hóa thân vào sản phẩm, cho nó có đặc tính con người
+- **Làm thơ:** vài câu đầu có vần, như vè, như rap
 
 ### 4. Thay đổi cách tiếp cận SP/DV
 
--   Nêu vấn đề trước, rồi chỉ ra sản phẩm như giải pháp
--   Đặt tiêu chuẩn cao rồi chỉ ra sản phẩm là giải pháp đạt được tiêu chuẩn đó
--   Từ tổng thể đến chi tiết hoặc ngược lại
--   So sánh với loại thông thường để làm nổi bật giá trị
+![Cách tiếp cận sản phẩm dịch vụ](../assets/cách%20tiếp%20cận%20SP-DV.png)
+
+- Nêu vấn đề trước, rồi chỉ ra sản phẩm như giải pháp
+- Đặt tiêu chuẩn cao rồi chỉ ra sản phẩm là giải pháp đạt được tiêu chuẩn đó
+- Từ tổng thể đến chi tiết hoặc ngược lại
+- So sánh với loại thông thường để làm nổi bật giá trị
 
 ### 5. Dùng thủ thuật sao chép sáng tạo
 
@@ -253,9 +269,9 @@ Thay vì viết về 5 ưu điểm trong một bài dài 500 từ, hãy tập tr
 
 **Ví dụ:**
 
--   iPhone = sao chép tính thẩm mỹ vào ngành công nghệ
--   Võ thuật Trung Quốc = sao chép tư thế động vật (Hổ Quyền, Xà Quyền)
--   Máy tính = sao chép cách xử lý thông tin của con người
+- iPhone = sao chép tính thẩm mỹ vào ngành công nghệ
+- Võ thuật Trung Quốc = sao chép tư thế động vật (Hổ Quyền, Xà Quyền)
+- Máy tính = sao chép cách xử lý thông tin của con người
 
 **Áp dụng vào content:**
 Sao chép từ ý tưởng, tiêu đề, câu nói, cách diễn đạt từ nguồn thông tin hay (bài viết, bài hát, phim, câu nói nổi tiếng) về bài viết của bạn.
@@ -263,6 +279,8 @@ Sao chép từ ý tưởng, tiêu đề, câu nói, cách diễn đạt từ ngu
 ---
 
 ## Bài 4: Giá trị - yếu tố cốt lõi của một content hay
+
+![Giá trị của content](../assets/Gia-tri-cua-content.jpg)
 
 Một content trở thành hay khi nó mang lại **giá trị** cho người đọc. Giá trị càng cao, content càng hay.
 
@@ -272,22 +290,22 @@ Một content trở thành hay khi nó mang lại **giá trị** cho người đ
 
 Sản phẩm phải mang lại giá trị cho khách hàng như:
 
--   Giúp giải quyết vấn đề
--   Mang lại điều họ mong muốn
--   Tạo sự khác biệt so với đối thủ
+- Giúp giải quyết vấn đề
+- Mang lại điều họ mong muốn
+- Tạo sự khác biệt so với đối thủ
 
 **Ví dụ:**
 
--   Quần áo → đẹp hơn, trẻ trung hơn, phong cách hơn
--   Điện thoại → sang trọng đẳng cấp, công cụ bán hàng, selfie, chơi game
+- Quần áo → đẹp hơn, trẻ trung hơn, phong cách hơn
+- Điện thoại → sang trọng đẳng cấp, công cụ bán hàng, selfie, chơi game
 
 #### 2. Giá trị giải trí
 
 Bao gồm sự lôi cuốn, hài hước, hồi hộp, thú vị... Giải trí giúp:
 
--   Quên đi sự lo toàn, vất vả của cuộc sống
--   Cuộc sống bớt nhàm chán
--   Tô điểm cho cuộc sống hằng ngày
+- Quên đi sự lo toàn, vất vả của cuộc sống
+- Cuộc sống bớt nhàm chán
+- Tô điểm cho cuộc sống hằng ngày
 
 #### 3. Giá trị hiểu biết
 
@@ -297,8 +315,8 @@ Mang lại kiến thức, sự hiểu biết mới cho người đọc. Tất c�
 
 Trong tất cả các giá trị, **cảm xúc** là thứ được con người coi trọng nhất. Các loại cảm xúc:
 
--   Tích cực: vui sướng, tự hào, tin tưởng, cảm động, đồng cảm, thích thú, hi vọng
--   Tiêu cực: sợ hãi, tức giận, buồn, chán ghét
+- Tích cực: vui sướng, tự hào, tin tưởng, cảm động, đồng cảm, thích thú, hi vọng
+- Tiêu cực: sợ hãi, tức giận, buồn, chán ghét
 
 > **Lưu ý:** Giá trị phải được cảm nhận ở nơi người đọc, không phải ở nơi tác giả.
 
@@ -310,9 +328,9 @@ Trong tất cả các giá trị, **cảm xúc** là thứ được con người
 
 Để làm nổi bật giá trị sản phẩm:
 
--   Hướng đến nhu cầu của khách hàng
--   Những mong muốn ẩn sâu bên trong (insight)
--   Đảm bảo những gì nói đủ khác biệt
+- Hướng đến nhu cầu của khách hàng
+- Những mong muốn ẩn sâu bên trong (insight)
+- Đảm bảo những gì nói đủ khác biệt
 
 **Ví dụ sai lầm thường gặp:**
 
@@ -367,15 +385,17 @@ Bạn sẽ làm được như trên nếu diện những mẫu bikini HOT dướ
 
 **Phân tích cảm xúc:**
 
--   **Vui sướng:** tưởng tượng cảnh được nhiều người ngắm
--   **Tự hào:** về sự xinh đẹp
--   **Thích thú:** vì phóng đại hài hước ("trăm người", "ngất trời")
--   **Hi vọng:** muốn làm được như vậy
--   **Đồng cảm:** cùng mong muốn
+- **Vui sướng:** tưởng tượng cảnh được nhiều người ngắm
+- **Tự hào:** về sự xinh đẹp
+- **Thích thú:** vì phóng đại hài hước ("trăm người", "ngất trời")
+- **Hi vọng:** muốn làm được như vậy
+- **Đồng cảm:** cùng mong muốn
 
 ---
 
 ## Bài 6: Làm thế nào để content cuốn hút?
+
+![Làm thế nào để content cuốn hút](../assets/LÀM%20THẾ%20NÀO%20ĐỂ%20CONTENT%20CUỐN%20HÚT.jpg)
 
 Để người đọc hết nội dung từ đầu đến cuối:
 
@@ -390,14 +410,14 @@ Con người tò mò những gì họ chỉ biết **1 phần**. Nghĩa là 1 ph
 
 **Ví dụ:**
 
--   "Vì sao con gái nên mặc váy?" → biết "con gái nên mặc váy", chưa biết "vì sao"
--   "Chàng trai chuẩn bị màn tỏ tình công phu và cái kết đầy tủi hờn" → biết có tỏ tình và kết quả xấu, chưa biết cụ thể như thế nào
+- "Vì sao con gái nên mặc váy?" → biết "con gái nên mặc váy", chưa biết "vì sao"
+- "Chàng trai chuẩn bị màn tỏ tình công phu và cái kết đầy tủi hờn" → biết có tỏ tình và kết quả xấu, chưa biết cụ thể như thế nào
 
 **Áp dụng cho quảng cáo:**
 
--   "Cứ 10 người dùng sản phẩm này thì 9 người trở thành khách hàng trung thành"
--   "Tôi vừa bị shop [TÊN_SHOP] lừa mất 500K"
--   "Nhìn là mê - ăn là ghiền"
+- "Cứ 10 người dùng sản phẩm này thì 9 người trở thành khách hàng trung thành"
+- "Tôi vừa bị shop [TÊN_SHOP] lừa mất 500K"
+- "Nhìn là mê - ăn là ghiền"
 
 #### 2. Lợi ích
 
@@ -405,9 +425,9 @@ Hứa hẹn mang lại lợi ích hấp dẫn cho người đọc.
 
 **Ví dụ:**
 
--   "Phụ nữ nên làm gì để vừa xinh đẹp vừa kiếm được nhiều tiền?"
--   "Hết mụn sau 3 ngày, hết thâm sau 2 tuần, bảo hành vĩnh viễn"
--   "KEM HÀN QUỐC MỚI: VỪA NGON, VỪA BẢO VỆ SỨC KHỎE"
+- "Phụ nữ nên làm gì để vừa xinh đẹp vừa kiếm được nhiều tiền?"
+- "Hết mụn sau 3 ngày, hết thâm sau 2 tuần, bảo hành vĩnh viễn"
+- "KEM HÀN QUỐC MỚI: VỪA NGON, VỪA BẢO VỆ SỨC KHỎE"
 
 #### 3. Khác biệt
 
@@ -428,13 +448,15 @@ Cho con đầy đủ dinh dưỡng để khỏe mạnh & thông minh là việc 
 
 ## Bài 7: Cách giữ nhịp content cuốn hút từ đầu đến cuối
 
+![Content cuốn hút từ đầu đến cuối](../assets/CONTENT%20CUỐN%20HÚT%20Từ-đầu-đến-cuối.png)
+
 ### 1. Đánh vào trí tò mò của độc giả
 
 Tạo tính cuốn hút ở:
 
--   Tiêu đề
--   Đoạn văn đầu tiên
--   Phần liên kết giữa các đoạn
+- Tiêu đề
+- Đoạn văn đầu tiên
+- Phần liên kết giữa các đoạn
 
 Giống như tiểu thuyết nhiều chương: gần cuối chương có sự kiện kịch tính, phải qua chương kế tiếp mới biết kết quả.
 
@@ -457,6 +479,8 @@ Câu đầu khơi gợi cảm xúc yêu thương, câu sau thúc đẩy hành đ
 
 ## Bài 8: Vai trò của cảm xúc trong content
 
+![Vai trò của cảm xúc](../assets/VAI%20TRÒ%20CỦA%20CẢM%20XÚC.png)
+
 ### Tại sao cảm xúc quan trọng?
 
 **Cảm xúc** là biểu hiện của **bản năng sinh tồn** - thứ đã được "cài sẵn" trong cơ thể con người từ hàng nghìn năm trước.
@@ -465,14 +489,14 @@ Câu đầu khơi gợi cảm xúc yêu thương, câu sau thúc đẩy hành đ
 
 **Khi giận dữ:**
 
--   Mắt long lên → đe dọa kẻ thù
--   Tim đập nhanh → bơm máu, lấy năng lượng cho cơ thể
--   Chuẩn bị cho trận chiến
+- Mắt long lên → đe dọa kẻ thù
+- Tim đập nhanh → bơm máu, lấy năng lượng cho cơ thể
+- Chuẩn bị cho trận chiến
 
 **Khi sợ hãi:**
 
--   Tim đập nhanh → lấy năng lượng để chạy thoát thân
--   Hoặc không cử động → giả chết để tránh kẻ thù
+- Tim đập nhanh → lấy năng lượng để chạy thoát thân
+- Hoặc không cử động → giả chết để tránh kẻ thù
 
 ### Định nghĩa khoa học:
 
@@ -482,27 +506,29 @@ Câu đầu khơi gợi cảm xúc yêu thương, câu sau thúc đẩy hành đ
 
 **Cảm xúc** = **Trạng thái chuẩn bị hành động**
 
--   Cảm xúc càng mạnh → hành động càng mạnh
--   Muốn khách có hành động (mua hàng, comment, share) → phải đưa họ vào trạng thái cảm xúc
+- Cảm xúc càng mạnh → hành động càng mạnh
+- Muốn khách có hành động (mua hàng, comment, share) → phải đưa họ vào trạng thái cảm xúc
 
 ### Cơ chế thưởng phạt:
 
 **Bản năng sinh tồn** tạo ra:
 
--   **Cảm xúc tích cực** (sung sướng, thoải mái, dễ chịu) → khuyến khích tiếp tục hành vi
--   **Cảm xúc tiêu cực** (đau đớn, khó chịu) → răn đe tránh xa hành vi đó
+- **Cảm xúc tích cực** (sung sướng, thoải mái, dễ chịu) → khuyến khích tiếp tục hành vi
+- **Cảm xúc tiêu cực** (đau đớn, khó chịu) → răn đe tránh xa hành vi đó
 
 ---
 
 # [PHẦN II] TƯ DUY VỀ CONTENT
 
+![Phần II - Tư duy về content](../assets/[PHẦN%202]%20%20TƯ%20DUY%20VỀ%20CONTENT.png)
+
 Content thành công cũng nhiều, thất bại cũng không ít. Nguyên nhân của nhiều content thất bại là **"Tay nhanh hơn não"**.
 
 Thiết lập tư duy trước khi làm content giúp:
 
--   Loại bỏ hơn 70% vấn đề
--   Content có tính chiến lược
--   Đi trên con đường chiến thắng
+- Loại bỏ hơn 70% vấn đề
+- Content có tính chiến lược
+- Đi trên con đường chiến thắng
 
 ## Bài 1: Tư duy trước content
 
@@ -510,28 +536,28 @@ Thiết lập tư duy trước khi làm content giúp:
 
 Sản phẩm/dịch vụ của bạn có gì khác biệt so với đối thủ?
 
--   **Nếu CÓ:** content sẽ dễ dàng, chỉ cần mô tả sản phẩm
--   **Nếu KHÔNG:** hãy làm cho content khác biệt. Học hỏi từ Coca-Cola, sản phẩm không có gì mới nhưng cách quảng cáo luôn mới và thú vị.
+- **Nếu CÓ:** content sẽ dễ dàng, chỉ cần mô tả sản phẩm
+- **Nếu KHÔNG:** hãy làm cho content khác biệt. Học hỏi từ Coca-Cola, sản phẩm không có gì mới nhưng cách quảng cáo luôn mới và thú vị.
 
 ### 2. Thị trường như thế nào? Đối thủ đang làm gì?
 
--   **Thị trường bỏ ngỏ:** làm content dễ dàng
--   **Cạnh tranh khốc liệt:** cần xem đối thủ đang làm gì, tránh cuộc đua giá
+- **Thị trường bỏ ngỏ:** làm content dễ dàng
+- **Cạnh tranh khốc liệt:** cần xem đối thủ đang làm gì, tránh cuộc đua giá
 
 ### 3. Khách hàng muốn gì và muốn gì ở sản phẩm?
 
 Khách hàng quan tâm đến:
 
--   Giá rẻ
--   Có ai đó hiểu họ, hiểu vấn đề của họ
--   Giải quyết được vấn đề
+- Giá rẻ
+- Có ai đó hiểu họ, hiểu vấn đề của họ
+- Giải quyết được vấn đề
 
 **Ví dụ ngành spa:**
 Khách hàng lo sợ:
 
--   Giảm giá có thể làm chất lượng giảm
--   Bị chèo kéo mua thêm sản phẩm khác
--   Nghi ngờ tính chân thực
+- Giảm giá có thể làm chất lượng giảm
+- Bị chèo kéo mua thêm sản phẩm khác
+- Nghi ngờ tính chân thực
 
 → Nếu hiểu và nói lên nỗi lo này, khách sẽ tin tưởng bạn hơn
 
@@ -539,15 +565,17 @@ Khách hàng lo sợ:
 
 Khai thác điểm mạnh của mình:
 
--   **Giỏi kể chuyện** → hãy kể chuyện
--   **Giỏi phân tích** → hãy phân tích
--   **Giỏi mô tả** → hãy mô tả
--   **Giỏi thấu hiểu insight** → hãy khai thác insight
--   **Không giỏi văn** → chỉ cần liệt kê, viết như nói
+- **Giỏi kể chuyện** → hãy kể chuyện
+- **Giỏi phân tích** → hãy phân tích
+- **Giỏi mô tả** → hãy mô tả
+- **Giỏi thấu hiểu insight** → hãy khai thác insight
+- **Không giỏi văn** → chỉ cần liệt kê, viết như nói
 
 ---
 
 ## Bài 2: Tư duy trong content
+
+![Tư duy trong content](../assets/TƯ%20DUY%20TRONG%20CONTENT.jpg)
 
 ### Phần 1: Tư duy cơ bản
 
@@ -555,8 +583,8 @@ Khai thác điểm mạnh của mình:
 
 **Cách học:** Đọc nhiều và xem nhiều
 
--   Sách về kỹ năng, tâm lý, khoa học, kinh doanh
--   Phim, truyện, tiểu thuyết
+- Sách về kỹ năng, tâm lý, khoa học, kinh doanh
+- Phim, truyện, tiểu thuyết
 
 **Lưu ý:** Ngôn từ chỉ là kỹ năng nhập môn. Kỹ năng đỉnh cao là **thấu hiểu khách hàng**.
 
@@ -566,8 +594,8 @@ Khi viết, làm cho khách hàng thấy được hình ảnh hiện trước m�
 
 **Ví dụ:**
 
--   Thay vì: "Đôi tình nhân đang thể hiện tình yêu thương"
--   Viết: "Đôi tình nhân đi bên nhau, tay trong tay, tình trong mắt"
+- Thay vì: "Đôi tình nhân đang thể hiện tình yêu thương"
+- Viết: "Đôi tình nhân đi bên nhau, tay trong tay, tình trong mắt"
 
 #### 3. Âm thanh
 
@@ -575,9 +603,9 @@ Khi đọc, khách sẽ đọc thầm và âm thanh vang trong đầu họ.
 
 **Lưu ý:**
 
--   Dùng từ dễ phát âm
--   Hạn chế từ khó đọc
--   Tránh từ trùng âm nhưng khác nghĩa
+- Dùng từ dễ phát âm
+- Hạn chế từ khó đọc
+- Tránh từ trùng âm nhưng khác nghĩa
 
 **Ví dụ:** Không dùng "siêu xinh" (trùng âm "siêu sinh"), thay bằng "siêu đẹp" hoặc "cực xinh"
 
@@ -587,26 +615,28 @@ Hiểu biết về tâm lý giúp content phù hợp với khách hàng:
 
 **Phụ nữ:**
 
--   Sống tình cảm, quyết định bằng cảm xúc
--   Yêu trẻ con (bản năng làm mẹ)
--   Thích mua sắm và món hời
--   Là lực lượng chính của nền kinh tế
+- Sống tình cảm, quyết định bằng cảm xúc
+- Yêu trẻ con (bản năng làm mẹ)
+- Thích mua sắm và món hời
+- Là lực lượng chính của nền kinh tế
 
 **Đàn ông:**
 
--   Thường quyết định bằng lý trí
+- Thường quyết định bằng lý trí
 
 **Tâm lý chung:**
 
--   **Phi lý trí:** chấp nhận tăng giá từ 100K→105K hơn là 10K→15K
--   **Tâm lý đám đông:** tin khi thấy nhiều người khác đã tin
+- **Phi lý trí:** chấp nhận tăng giá từ 100K→105K hơn là 10K→15K
+- **Tâm lý đám đông:** tin khi thấy nhiều người khác đã tin
 
 #### 5. Yếu tố xã hội
 
--   **Xưa:** thích lời thơ nhẹ nhàng
--   **Nay:** nhịp độ công nghiệp → cần đi thẳng vào vấn đề, ngắn gọn xúc tích
+- **Xưa:** thích lời thơ nhẹ nhàng
+- **Nay:** nhịp độ công nghiệp → cần đi thẳng vào vấn đề, ngắn gọn xúc tích
 
 ### Phần 2: Tư duy Marketing 7Ps
+
+![Marketing 7Ps](../assets/7P.jpg)
 
 #### 1. Product (Sản phẩm)
 
@@ -614,9 +644,9 @@ Trình bày giá trị sản phẩm mang lại cho khách hàng.
 
 **Ví dụ đồ chơi gỗ trẻ em:**
 
--   Rèn luyện đôi tay khéo léo và linh hoạt
--   Phát huy khả năng tư duy và sáng tạo
--   Tăng khả năng giao tiếp, tình cảm anh chị em
+- Rèn luyện đôi tay khéo léo và linh hoạt
+- Phát huy khả năng tư duy và sáng tạo
+- Tăng khả năng giao tiếp, tình cảm anh chị em
 
 #### 2. Price (Giá cả)
 
@@ -630,27 +660,27 @@ Bạn cũng có thể so sánh mức giá khách bỏ ra với mức chi phí h�
 
 #### 3. Promotion (Khuyến mãi)
 
--   Mua 2 tặng 1
--   Tặng kèm sản phẩm khác
--   Lời nói tốt của khách hàng/người nổi tiếng
+- Mua 2 tặng 1
+- Tặng kèm sản phẩm khác
+- Lời nói tốt của khách hàng/người nổi tiếng
 
 #### 4. Places (Phân phối)
 
 Giải thích sự tiện lợi:
 
--   Giao hàng nhanh (nếu bán địa phương)
--   Xem hàng trực tiếp
--   Đổi trả dễ dàng
--   Hệ thống phân phối rộng → thể hiện sức mạnh tài chính
+- Giao hàng nhanh (nếu bán địa phương)
+- Xem hàng trực tiếp
+- Đổi trả dễ dàng
+- Hệ thống phân phối rộng → thể hiện sức mạnh tài chính
 
 #### 5. People (Nhân sự)
 
 Chứng minh kỹ năng, trình độ:
 
--   Bằng cấp, giải thưởng
--   Số năm kinh nghiệm
--   Dự án thành công
--   Uy tín, thương hiệu
+- Bằng cấp, giải thưởng
+- Số năm kinh nghiệm
+- Dự án thành công
+- Uy tín, thương hiệu
 
 #### 6. Process (Quy trình)
 
@@ -668,22 +698,24 @@ Kiểm tra tính marketing → Release
 
 Quan niệm sống trong kinh doanh:
 
--   Mang giá trị đến cộng đồng
--   Cam kết làm từ thiện
--   Triết lý được nhiều người kính phục
+- Mang giá trị đến cộng đồng
+- Cam kết làm từ thiện
+- Triết lý được nhiều người kính phục
 
 #### Phép lặp
 
 Lặp lại để tạo nên content hay:
 
--   Lặp âm, lặp từ → tạo vần
--   Lặp cấu trúc câu → tạo phép sóng đôi
--   Lặp lại tư duy và quy trình
--   Lặp lại việc viết content cho đến khi đạt yêu cầu
+- Lặp âm, lặp từ → tạo vần
+- Lặp cấu trúc câu → tạo phép sóng đôi
+- Lặp lại tư duy và quy trình
+- Lặp lại việc viết content cho đến khi đạt yêu cầu
 
 ---
 
 ## Bài 3: Tư duy sau content
+
+![Viết content xong vẫn phải tư duy](../assets/Viet-content-xong-van-phai-tu-duy.png)
 
 ### Kiểm chứng content
 
@@ -695,8 +727,8 @@ Sau khi post content, đừng đánh giá chủ quan. Hãy sử dụng:
 MDH = (Số comment + Số share) / Số like × 100%
 ```
 
--   **MDH ≥ 10%:** Content hay rồi
--   **Chưa đủ người tiếp cận:** Không áp dụng được công thức
+- **MDH ≥ 10%:** Content hay rồi
+- **Chưa đủ người tiếp cận:** Không áp dụng được công thức
 
 ### Cách kiểm chứng:
 
@@ -708,14 +740,14 @@ MDH = (Số comment + Số share) / Số like × 100%
 
 #### Khi content thành công:
 
--   **Đặt câu hỏi:** Nó hay nhờ yếu tố nào?
--   **Ghi vào sổ tay** các yếu tố thành công
--   **Kiểm chứng** với content khác
+- **Đặt câu hỏi:** Nó hay nhờ yếu tố nào?
+- **Ghi vào sổ tay** các yếu tố thành công
+- **Kiểm chứng** với content khác
 
 #### Khi content thất bại:
 
--   **Phân tích nguyên nhân** thất bại
--   **Đặt giả định** và kiểm chứng
+- **Phân tích nguyên nhân** thất bại
+- **Đặt giả định** và kiểm chứng
 
 ### Nguyên tắc học tập:
 
@@ -723,14 +755,14 @@ MDH = (Số comment + Số share) / Số like × 100%
 
 **Tại sao "điều đúng" quan trọng?**
 
--   Học 1 điều đúng > học 10 điều sai
--   Điều đúng là nền tảng để học điều đúng khác
--   Môi trường tôn vinh giá trị đúng sẽ giúp tiến bộ nhanh hơn
+- Học 1 điều đúng > học 10 điều sai
+- Điều đúng là nền tảng để học điều đúng khác
+- Môi trường tôn vinh giá trị đúng sẽ giúp tiến bộ nhanh hơn
 
 **Ví dụ:**
 
--   Học tiếng Anh 11 năm ở Việt Nam < 3 năm ở Nhật
--   Người ra nước ngoài thường giỏi hơn vì học được "điều đúng"
+- Học tiếng Anh 11 năm ở Việt Nam < 3 năm ở Nhật
+- Người ra nước ngoài thường giỏi hơn vì học được "điều đúng"
 
 ### Quy trình tự học:
 
@@ -744,6 +776,8 @@ MDH = (Số comment + Số share) / Số like × 100%
 
 # [PHẦN III] CÔNG THỨC TIÊU ĐỀ DỄ DÀNG MÀ LẠI HIỆU QUẢ
 
+![Công thức tiêu đề](../assets/CÔNG%20THỨC%20TIÊU%20ĐỀ.jpg)
+
 ## Công thức:
 
 ```
@@ -754,19 +788,19 @@ MDH = (Số comment + Số share) / Số like × 100%
 
 ### Thời trang:
 
--   "**Đẹp hơn, rẻ hơn!**"
+- "**Đẹp hơn, rẻ hơn!**"
 
 ### Nước hoa:
 
--   "**Thơm hơn, lưu hương lâu hơn**"
+- "**Thơm hơn, lưu hương lâu hơn**"
 
 ### Công nghệ:
 
--   "**Nhanh hơn, bền vững hơn**"
+- "**Nhanh hơn, bền vững hơn**"
 
 ### Sản phẩm vệ sinh:
 
--   "**Mỏng hơn, thấm hút nhanh hơn**"
+- "**Mỏng hơn, thấm hút nhanh hơn**"
 
 ## Tại sao hiệu quả?
 
@@ -788,14 +822,21 @@ Dùng "hơn" nhưng không nói "hơn ai" → người đọc hiểu là hơn t�
 
 ## Lưu ý khi sử dụng:
 
--   **Phân tích sản phẩm** trước khi áp dụng
--   **Làm cho đúng:** giá cao thì không ghi "rẻ hơn"
--   **Chọn tính chất phù hợp** với thực tế sản phẩm
--   **Kết hợp với hình ảnh** để tăng độ tin cậy
+- **Phân tích sản phẩm** trước khi áp dụng
+- **Làm cho đúng:** giá cao thì không ghi "rẻ hơn"
+- **Chọn tính chất phù hợp** với thực tế sản phẩm
+- **Kết hợp với hình ảnh** để tăng độ tin cậy
 
 ---
 
 # [PHỤ LỤC] HOT KEYWORDS
+
+![Hot Keywords](../assets/keyword.jpg)
+![Keywords 1](../assets/keyword1.jpg)
+![Keywords 2](../assets/keyword2.jpg)
+![Keywords 3](../assets/keyword3.jpg)
+![Keywords 4](../assets/keyword4.jpg)
+![Keywords 5](../assets/keyword5.jpg)
 
 _Nguồn: FB Phạm Hùng Thắng_
 
@@ -803,33 +844,35 @@ _Nguồn: FB Phạm Hùng Thắng_
 
 ### Từ gây tò mò:
 
--   Bóc phốt
--   Đánh ghen
--   Nghe lén
--   Bói toán
+- Bóc phốt
+- Đánh ghen
+- Nghe lén
+- Bói toán
 
 ### Từ gây cảm xúc:
 
--   Mất trộm, mất cắp
--   Dì ghẻ, con chồng
--   Người chồng bất lực
--   Ông hàng xóm
+- Mất trộm, mất cắp
+- Dì ghẻ, con chồng
+- Người chồng bất lực
+- Ông hàng xóm
 
 ### Từ tạo sự thú vị:
 
--   Thả ga
--   Siêu chill
--   Bá đạo
--   Khủng bố
+- Thả ga
+- Siêu chill
+- Bá đạo
+- Khủng bố
 
 ### Từ thể hiện đẳng cấp:
 
--   Thấu hiểu
--   Bí ẩn
--   Đột phá
--   Xuất sắc
+- Thấu hiểu
+- Bí ẩn
+- Đột phá
+- Xuất sắc
 
 ---
+
+![Customer Journey Map](../assets/Linear-map-physical-touchpoints-customer-journey.jpg)
 
 > **"Content hay là chìa khóa mở cửa trái tim khách hàng"**
 >
