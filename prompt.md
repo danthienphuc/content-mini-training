@@ -39,7 +39,6 @@ Tôi đang muốn tạo ra một khoá training cho nhân viên mới của 
 
 Mục tiêu của khoá học là giúp nhân viên nắm vững các kỹ năng cần thiết để tạo ra nội dung chất lượng cao, hấp dẫn và phù hợp với nhu cầu của khách hàng.
 
-
 Mỗi folder buổi học sẽ có 4 Markdown file:
 
 - File giới thiệu khóa học, mục tiêu khóa học, và các thông tin cần thiết. Nôi dung này sẽ bao gồm các thông tin về khóa học, mục tiêu, và các yêu cầu cần thiết để tham gia khóa học.
