@@ -1,52 +1,51 @@
-# BUỔI 3: ĐÁNH GIÁ KẾT QUẢ & TỔNG KẾT KHÓA HỌC
+# BUỔI 3: ĐÁNH GIÁ KẾT QUẢ & CAPSTONE PROJECT CERTIFICATION
 
 ---
 
-## 🎯 TIÊU CHÍ ĐÁNH GIÁ TỔNG QUAN BUỔI 3
+## 🎯 TIÊU CHÍ ĐÁNH GIÁ TỔNG QUAN
 
-### Cấu trúc điểm số:
+### Cấu trúc điểm số Buổi 3:
 
--   **SEO Workshop & Optimization:** 30 điểm
--   **Platform Algorithm Workshop:** 25 điểm
--   **Analytics Analysis Challenge:** 20 điểm
--   **Capstone Project:** 25 điểm
+-   **Capstone Project:** 40 điểm
+-   **9 Công thức nâng cao mastery:** 25 điểm
+-   **Platform Optimization:** 20 điểm
+-   **Content Analytics & MDH:** 15 điểm
 -   **Tổng cộng:** 100 điểm
 
-### Thang điểm đánh giá cuối khóa:
+### Thang điểm đánh giá Certification:
 
--   **90-100 điểm:** Content Marketing Expert - Sẵn sàng lead projects
--   **80-89 điểm:** Advanced Practitioner - Có thể handle complex assignments
--   **70-79 điểm:** Competent Creator - Thực hiện tốt daily tasks
--   **60-69 điểm:** Developing Skills - Cần mentoring và support
--   **< 60 điểm:** Need Additional Training - Yêu cầu đào tạo bổ sung
+-   **95-100 điểm:** 🥇 Gold - "Thánh Content Master" 
+-   **85-94 điểm:** 🥈 Silver - "Thánh Content Professional"
+-   **80-84 điểm:** 🥉 Bronze - "Thánh Content Practitioner"
+-   **70-79 điểm:** Đạt cơ bản - Cần improvement
+-   **< 70 điểm:** Chưa đạt certification requirements
 
 ---
 
-## 📊 CHI TIẾT ĐÁNH GIÁ TỪNG PHẦN
+## 📊 CHI TIẾT ĐÁNH GIÁ CAPSTONE PROJECT (40 điểm)
 
-### 1. SEO Workshop & Optimization (30 điểm)
+### 1. Campaign Strategy Document (15 điểm)
 
-#### 1.1 SEO Audit Challenge (20 điểm)
+#### A. Target Audience Analysis (5 điểm)
 
-**Tiêu chí chấm điểm:**
+-   ✅ **Xuất sắc (5 điểm):** Buyer Persona chi tiết với deep insights, customer journey mapping chính xác, pain points analysis sâu sắc
+-   ✅ **Tốt (4 điểm):** Persona đầy đủ, journey mapping rõ ràng
+-   ⚠️ **Đạt (3 điểm):** Cơ bản nhưng thiếu insights sâu
+-   ❌ **Chưa đạt (<3 điểm):** Thiếu analysis hoặc không thực tế
 
-**Technical SEO Understanding (8 điểm):**
+#### B. Content Calendar & Distribution (5 điểm)
 
--   On-page elements identification: 3 điểm
--   Technical factors assessment: 3 điểm
--   Tools usage proficiency: 2 điểm
+-   ✅ **Xuất sắc (5 điểm):** 12-week calendar với platform-specific content, timing optimization, seasonal trends consideration
+-   ✅ **Tốt (4 điểm):** Calendar đầy đủ với platform distribution
+-   ⚠️ **Đạt (3 điểm):** Basic calendar, thiếu strategic timing
+-   ❌ **Chưa đạt (<3 điểm):** Incomplete hoặc unrealistic
 
-**Content Optimization Skills (7 điểm):**
+#### C. Success Metrics & KPI (5 điểm)
 
--   Keyword research application: 3 điểm
--   Content quality evaluation: 2 điểm
--   Optimization recommendations: 2 điểm
-
-**Strategic Thinking (5 điểm):**
-
--   Priority ranking logic: 2 điểm
--   Impact prediction accuracy: 2 điểm
--   Implementation feasibility: 1 điểm
+-   ✅ **Xuất sắc (5 điểm):** Comprehensive metrics từ awareness đến conversion, MDH tracking integration, ROI projections realistic
+-   ✅ **Tốt (4 điểm):** Good metrics selection với measurable goals
+-   ⚠️ **Đạt (3 điểm):** Basic KPIs, thiếu advanced tracking
+-   ❌ **Chưa đạt (<3 điểm):** Vague metrics hoặc unrealistic expectations
 
 #### Template đánh giá SEO Workshop:
 

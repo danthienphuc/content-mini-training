@@ -53,12 +53,6 @@ Hãy giúp tôi tạo ra một chương trình chi tiết cho khóa training nà
 
 ------
 
-Lưu ý, viết bằng tiếng Việt nhiều hơn là tiếng Anh, sử dụng các thuật ngữ chuyên ngành trong marketing, digital marketing, branding và xây dựng thương hiệu cá nhân. Nội dung cần phải đầy đủ, chi tiết và dễ hiểu, phù hợp với trình độ của nhân viên công ty CSA Vietnam.
+Lưu ý, viết bằng tiếng Việt nhiều hơn là tiếng Anh, sử dụng các thuật ngữ chuyên ngành trong marketing, digital marketing, branding và xây dựng thương hiệu cá nhân bằng tiếng anh thì cần để trong dấu ngoặc. Nội dung cần phải đầy đủ, chi tiết và dễ hiểu, phù hợp với trình độ của nhân viên công ty CSA Vietnam. Và Việt hoá nội dung để dễ đọc, chú thích - term tiếng Anh cần để trong dấu ngoặc đơn.
 file `references\cong-thuc-content.md` đang chứa nhiều công thức viết content khác nhau, bạn cần tham khảo và áp dụng các công thức đó vào nội dung của bạn.
-Hãy đọc file `references\content-chan-kinh.md` và `references\cong-thuc-content.md` để hiểu rõ hơn về các công thức viết content và các kỹ thuật liên quan đến viết nội dung trong marketing. Và cập nhật lại nội dung của khóa học theo những thông tin mới nhất trong các file đó.
-
-------
-
-kiểm tra kiến thức có đúng với thực tế trên internet từ các nguồn chính quy
-việt hoá nội dung để dễ đọc mở ngoặc để ghi chú thích - term tiếng Anh
-Bạn hãy đọc lại các file trong khoá học và verify lại nội dung, kiểm tra xem có đúng với thực tế không, nếu có sai so với thực tế thì cần phải sửa lại cho đúng. Đồng thời, bạn cũng cần đảm bảo rằng nội dung của khóa học được cập nhật với các xu hướng mới nhất trong ngành marketing và viết nội dung. Nếu có bất kỳ thông tin nào không chính xác hoặc lỗi thời, hãy sửa chữa ngay lập tức để đảm bảo rằng nhân viên nhận được kiến thức chính xác và hữu ích nhất. Và Việt hoá nội dung để dễ đọc, mở ngoặc để ghi chú thích - term tiếng Anh.
+Hãy đọc file `references\content-chan-kinh.md` và `references\cong-thuc-content.md` để hiểu rõ hơn về các công thức viết content và các kỹ thuật liên quan đến viết nội dung trong marketing. Bạn hãy đọc lại các file trong khoá học và verify lại nội dung, kiểm tra xem có đúng với thực tế không, nếu có sai so với thực tế thì cần phải sửa lại cho đúng. Đồng thời, bạn cũng cần đảm bảo rằng nội dung của khóa học được cập nhật với các xu hướng mới nhất trong ngành marketing và viết nội dung. Nếu có bất kỳ thông tin nào không chính xác hoặc lỗi thời, hãy sửa chữa ngay lập tức để đảm bảo rằng nhân viên nhận được kiến thức chính xác và hữu ích nhất.Hãy cập nhật các file trong 3 buổi học sao cho nội dung đúng với thực tế và dễ hiểu nhất, nếu có thông tin nào cần cập nhật thì hãy cập nhật ngay.

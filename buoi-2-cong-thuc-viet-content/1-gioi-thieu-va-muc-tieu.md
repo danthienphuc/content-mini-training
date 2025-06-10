@@ -1,4 +1,4 @@
-# BUỔI 2: CÔNG THỨC VIẾT CONTENT HIỆU QUẢ
+# BUỔI 2: CÔNG THỨC VIẾT NỘI DUNG HIỆU QUẢ
 
 ## GIỚI THIỆU VÀ MỤC TIÊU
 
@@ -8,36 +8,37 @@
 
 ### Mục tiêu chính:
 
--   Nắm vững và áp dụng thành thạo 5 công thức viết content: AIDA, PAS, FAB, BAB, 4C
--   Hiểu nghệ thuật storytelling trong content marketing và ứng dụng vào thương hiệu CSA
--   Viết được content phù hợp cho từng kênh truyền thông: Website, Facebook, TikTok, Instagram, LinkedIn, YouTube
--   Tạo được headline thu hút và Call-to-Action chuyển đổi cao
+-   Nắm vững và áp dụng thành thạo **14 công thức viết nội dung quốc tế**: AIDA, PAS, FAB, BAB, 4C, 4U, A FOREST, 5 sự cản trở, 3 lý do vì sao, 4P, 3S, 4A, 5A, APP
+-   Hiểu nghệ thuật kể chuyện (storytelling) trong Marketing Nội dung và ứng dụng vào thương hiệu CSA
+-   Viết được nội dung "Thánh Content" phù hợp cho từng kênh truyền thông: Website, Facebook, TikTok, Instagram, LinkedIn, YouTube
+-   Tạo được tiêu đề (headline) thu hút và Lời kêu gọi hành động (Call-to-Action) chuyển đổi cao
+-   Áp dụng **Mức Độ Hay (MDH)** để đánh giá và cải thiện chất lượng nội dung
 
 ### Mục tiêu cụ thể:
 
--   **Kiến thức:** Thuộc lòng 5 công thức, hiểu rõ cấu trúc storytelling 3-act
--   **Kỹ năng:** Viết được 1 bài blog, 5 post social media, 3 email marketing
--   **Thái độ:** Tư duy creative, sẵn sàng thử nghiệm và cải tiến content
+-   **Kiến thức:** Thuộc lòng 14 công thức quốc tế, hiểu rõ cấu trúc kể chuyện 3-act, nắm vững phép Sóng Đôi và Tương Phản
+-   **Kỹ năng:** Viết được 1 bài blog "Thánh Content", 5 bài đăng mạng xã hội (social media posts), 3 email marketing với MDH ≥ 8/10
+-   **Thái độ:** Tư duy sáng tạo (creative), sẵn sàng thử nghiệm và cải tiến nội dung, hướng đến trở thành "Thánh Content"
 
 ---
 
 ## 🕐 LỊCH TRÌNH BUỔI HỌC (3 giờ)
 
-### Phần 1: Công thức Content Marketing (90 phút)
+### Phần 1: 5 Công thức Nền tảng (90 phút)
 
--   **9:00 - 9:15:** Warm-up & Review Buổi 1
--   **9:15 - 10:00:** AIDA & PAS Formula + Thực hành
+-   **9:00 - 9:15:** Khởi động & Ôn tập Buổi 1 + Kiểm tra "Thánh Content"
+-   **9:15 - 10:00:** AIDA & PAS với 5 loại Hook "Thánh Content" + Thực hành
 -   **10:00 - 10:15:** Nghỉ giải lao
--   **10:15 - 10:30:** FAB & BAB Formula + Thực hành
+-   **10:15 - 10:30:** FAB & BAB với phép Tương Phản + Thực hành
 
-### Phần 2: Storytelling & Advanced Techniques (60 phút)
+### Phần 2: Kỹ thuật Nâng cao & Đánh giá MDH (60 phút)
 
--   **10:30 - 11:00:** 4C Formula & Storytelling Framework
--   **11:00 - 11:30:** Viết Headline & CTA hiệu quả
+-   **10:30 - 11:00:** 4C Formula & Framework kể chuyện với Mức Độ Hay (MDH)
+-   **11:00 - 11:30:** Viết Tiêu đề & CTA "Thánh Content" + 9 công thức nâng cao
 
-### Phần 3: Platform-specific Content (30 phút)
+### Phần 3: Nội dung theo từng nền tảng (30 phút)
 
--   **11:30 - 12:00:** Content cho từng kênh truyền thông + Workshop cuối
+-   **11:30 - 12:00:** Nội dung cho từng kênh truyền thông + Workshop cuối với đánh giá MDH
 
 ---
 
@@ -45,9 +46,11 @@
 
 ### Từ Buổi 1 cần nhớ:
 
--   ✅ Buyer Persona của dự án bạn đang làm
--   ✅ Customer Journey 5 giai đoạn
--   ✅ Top 3 pain points của target audience
+-   ✅ Hình tượng Người mua (Buyer Persona) của dự án bạn đang làm
+-   ✅ Hành trình Khách hàng (Customer Journey) 5 giai đoạn theo chuẩn quốc tế
+-   ✅ Top 3 điểm đau (pain points) của đối tượng mục tiêu (target audience)
+-   ✅ Khái niệm "Thánh Content" và cấu trúc 3 thành phần
+-   ✅ HOT Keywords 2025 và ngôn từ tượng hình
 -   ✅ Content audit competitors đã hoàn thành
 
 ### Mindset chuyển đổi:

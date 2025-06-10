@@ -1,4 +1,4 @@
-# BUỔI 3: TỐI ƯU HÓA & THỰC HÀNH CHUYÊN SÂU
+# BUỔI 3: TỐI ƯU HÓA & THỰC HÀNH CHUYÊN SÂU - TRỞ THÀNH "THÁNH CONTENT"
 
 ## GIỚI THIỆU VÀ MỤC TIÊU
 
@@ -8,36 +8,37 @@
 
 ### Mục tiêu chính:
 
--   Nắm vững kỹ thuật SEO cơ bản để content được tìm thấy và rank cao trên Google
--   Tối ưu hóa content cho từng platform để tăng engagement và reach tự nhiên
--   Đo lường và phân tích hiệu quả content marketing bằng metrics và tools cụ thể
--   Xây dựng content strategy dài hạn và quy trình làm việc hiệu quả cho CSA Vietnam
+-   Nắm vững **14 công thức viết nội dung quốc tế** còn lại và tích hợp **Mức Độ Hay (MDH)** vào quy trình sản xuất nội dung
+-   Tối ưu hóa nội dung cho từng nền tảng (platform) dựa trên thuật toán (algorithm) và tâm lý người dùng (user psychology)
+-   Đo lường và phân tích hiệu quả Marketing Nội dung bằng hệ thống metrics dựa trên **MDH** và **ROI thực tế**
+-   Xây dựng chiến lược nội dung dài hạn và quy trình "Thánh Content" cho CSA Vietnam
+-   **Capstone Project:** Tạo ra một campaign nội dung hoàn chỉnh áp dụng tất cả kiến thức
 
 ### Mục tiêu cụ thể:
 
--   **Kiến thức:** SEO on-page, platform algorithms, analytics interpretation, content planning
--   **Kỹ năng:** Keyword research, content optimization, performance tracking, strategy development
--   **Thái độ:** Data-driven decision making, continuous improvement, strategic thinking
+-   **Kiến thức:** 14 công thức content quốc tế, platform algorithms, analytics với MDH framework, strategic content planning
+-   **Kỹ năng:** Advanced content creation, cross-platform optimization, performance tracking theo chuẩn "Thánh Content", strategy development
+-   **Thái độ:** Data-driven decision making, continuous improvement, strategic thinking hướng đến "Thánh Content"
 
 ---
 
 ## 🕐 LỊCH TRÌNH BUỔI HỌC (3 giờ)
 
-### Phần 1: SEO & Content Optimization (75 phút)
+### Phần 1: 9 Công thức Nâng cao & MDH Integration (75 phút)
 
--   **9:00 - 9:15:** Review Buổi 2 & SEO Fundamentals
--   **9:15 - 10:00:** Keyword Research & On-page SEO
+-   **9:00 - 9:15:** Review Buổi 2 & Kiểm tra MDH của content đã viết
+-   **9:15 - 10:00:** 9 công thức nâng cao: 4U, A FOREST, 5 sự cản trở, 3 lý do vì sao, 4P, 3S, 4A, 5A, APP
 -   **10:00 - 10:15:** Nghỉ giải lao
--   **10:15 - 10:30:** Technical SEO cho Content Writers
+-   **10:15 - 10:30:** Tích hợp MDH vào creative process
 
-### Phần 2: Platform Optimization & Analytics (75 phút)
+### Phần 2: Platform Optimization theo "Content Chân Kinh" (75 phút)
 
--   **10:30 - 11:15:** Platform-specific Optimization Strategies
--   **11:15 - 12:00:** Content Analytics & Performance Measurement
+-   **10:30 - 11:15:** Algorithm optimization cho Facebook, TikTok, LinkedIn, YouTube với "Thánh Content" principles
+-   **11:15 - 12:00:** Content Analytics với MDH scoring và business impact measurement
 
-### Phần 3: Strategic Planning & Implementation (30 phút)
+### Phần 3: Capstone Project & Certification (30 phút)
 
--   **12:00 - 12:30:** Content Strategy Development & Final Project
+-   **12:00 - 12:30:** Capstone Project: Tạo campaign "Thánh Content" cho CSA Vietnam + Chứng nhận "Thánh Content Marketing"
 
 ---
 
@@ -45,9 +46,11 @@
 
 ### Từ Buổi 1 & 2 cần consolidate:
 
--   ✅ Buyer Persona và Customer Journey mapping thành thạo
--   ✅ 5 công thức content (AIDA, PAS, FAB, BAB, 4C) áp dụng fluent
--   ✅ Platform-specific content creation confident
+-   ✅ Hình tượng Người mua (Buyer Persona) và Hành trình Khách hàng (Customer Journey) mapping thành thạo
+-   ✅ 5 công thức nền tảng (AIDA, PAS, FAB, BAB, 4C) áp dụng fluent với tư duy "Thánh Content"
+-   ✅ Platform-specific content creation confident với ngôn từ tượng hình
+-   ✅ Hiểu khái niệm MDH và 4 loại giá trị của content hay
+-   ✅ Thực hành sử dụng phép Sóng Đôi và Tương Phản
 -   ✅ Bài tập về nhà đã hoàn thành và review insights
 
 ### Technical Readiness:

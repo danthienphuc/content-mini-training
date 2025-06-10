@@ -7,18 +7,59 @@
 ### Cấu trúc điểm số Buổi 1:
 
 -   **Tham gia lớp học:** 30 điểm
--   **Workshop thực hành:** 30 điểm
--   **Bài tập về nhà:** 25 điểm
+-   **Workshop thực hành "Thánh Content":** 30 điểm
+-   **Bài tập về nhà (áp dụng cho dự án thực tế):** 25 điểm
 -   **Bài kiểm tra cuối buổi:** 15 điểm
 -   **Tổng cộng:** 100 điểm
 
 ### Thang điểm đánh giá:
 
--   **90-100 điểm:** Xuất sắc (A)
--   **80-89 điểm:** Tốt (B)
--   **70-79 điểm:** Khá (C)
--   **60-69 điểm:** Trung bình (D)
--   **< 60 điểm:** Cần cải thiện (F)
+-   **90-100 điểm:** Xuất sắc - Đạt chuẩn "Thánh Content" (A)
+-   **80-89 điểm:** Tốt - Content chất lượng cao (B)
+-   **70-79 điểm:** Khá - Content đạt yêu cầu (C)
+-   **60-69 điểm:** Trung bình - Cần cải thiện (D)
+-   **< 60 điểm:** Cần học lại (F)
+
+---
+
+## 📊 CHI TIẾT ĐÁNH GIÁ THEO TIÊU CHUẨN "THÁNH CONTENT"
+
+### 1. Hiểu biết về Marketing Nội dung & "Thánh Content" (30 điểm)
+
+#### A. Khái niệm Marketing Nội dung (Content Marketing) (10 điểm)
+
+-   ✅ **Xuất sắc (9-10 điểm):** Hiểu rõ bản chất, vai trò trong hệ sinh thái Marketing Số, biết ứng dụng vào CSA Vietnam
+-   ✅ **Tốt (7-8 điểm):** Hiểu cơ bản, nắm được tầm quan trọng
+-   ⚠️ **Đạt (5-6 điểm):** Hiểu định nghĩa nhưng chưa hiểu ứng dụng
+-   ❌ **Chưa đạt (<5 điểm):** Chưa nắm được khái niệm cơ bản
+
+#### B. Khái niệm "Thánh Content" (10 điểm)
+
+-   ✅ **Xuất sắc (9-10 điểm):** Hiểu cấu trúc 3 thành phần (ngôn từ + phép tu từ + ý tưởng), biết sử dụng từ ngữ tượng hình
+-   ✅ **Tốt (7-8 điểm):** Hiểu khái niệm và một số kỹ thuật cơ bản
+-   ⚠️ **Đạt (5-6 điểm):** Biết khái niệm nhưng chưa áp dụng được
+-   ❌ **Chưa đạt (<5 điểm):** Chưa hiểu "Thánh Content" là gì
+
+#### C. Mức Độ Hay (MDH) của Content (10 điểm)
+
+-   ✅ **Xuất sắc (9-10 điểm):** Biết đánh giá MDH, hiểu 4 loại giá trị, ý tưởng hay chiếm 70%
+-   ✅ **Tốt (7-8 điểm):** Hiểu khái niệm MDH và một số yếu tố
+-   ⚠️ **Đạt (5-6 điểm):** Biết khái niệm nhưng chưa áp dụng
+-   ❌ **Chưa đạt (<5 điểm):** Chưa hiểu cách đánh giá chất lượng content
+
+### 2. Xây dựng Hình tượng Người mua theo chuẩn "Thánh Content" (30 điểm)
+
+-   ✅ **Xuất sắc (26-30 điểm):** Persona chi tiết, có insight tâm lý sâu, áp dụng HOT keywords, phù hợp dự án CSA
+-   ✅ **Tốt (21-25 điểm):** Persona đầy đủ thông tin, có một số insight hữu ích
+-   ⚠️ **Đạt (15-20 điểm):** Persona cơ bản nhưng thiếu insight tâm lý
+-   ❌ **Chưa đạt (<15 điểm):** Persona quá chung chung hoặc không thực tế
+
+### 3. Hiểu Hành trình Khách hàng chuẩn quốc tế (25 điểm)
+
+-   ✅ **Xuất sắc (23-25 điểm):** Nắm vững 5 giai đoạn chuẩn, biết content cho từng touchpoint, áp dụng thực tế
+-   ✅ **Tốt (19-22 điểm):** Hiểu 5 giai đoạn và nội dung cần thiết
+-   ⚠️ **Đạt (15-18 điểm):** Biết các giai đoạn nhưng chưa hiểu sâu
+-   ❌ **Chưa đạt (<15 điểm):** Chưa phân biệt được các giai đoạn
 
 ---
 
@@ -152,252 +193,238 @@
 - Action items cho Buổi 2:
 ```
 
-### 4. Bài kiểm tra cuối buổi (15 điểm)
+### 4. Tham gia Workshop thực hành (15 điểm)
 
-#### Format: Quiz 10 câu hỏi
-
--   **5 câu trắc nghiệm:** 1 điểm/câu = 5 điểm
--   **3 câu tự luận ngắn:** 2 điểm/câu = 6 điểm
--   **1 câu tự luận dài:** 4 điểm = 4 điểm
-
----
-
-## 📝 BÀI KIỂM TRA CUỐI BUỔI (15 phút)
-
-### PHẦN A: TRẮC NGHIỆM (5 điểm)
-
-**Câu 1:** Content Marketing khác biệt với Traditional Marketing chủ yếu ở điểm nào?
-A. Chi phí thấp hơn
-B. Thu hút thay vì gián đoạn  
-C. Sử dụng nền tảng digital
-D. Targeting chính xác hơn
-
-**Câu 2:** Trong Customer Journey, khách hàng cần Case Study ở giai đoạn nào?
-A. Awareness
-B. Interest  
-C. Consideration
-D. Purchase
-
-**Câu 3:** Tool miễn phí nào để phân tích ads của competitor?
-A. SEMrush
-B. Facebook Ad Library
-C. Ahrefs
-D. BuzzSumo Pro
-
-**Câu 4:** Buyer Persona nên được cập nhật với tần suất như thế nào?
-A. Hàng tháng
-B. Hàng quý
-C. 6 tháng/lần
-D. Hàng năm
-
-**Câu 5:** 4P của Content Marketing bao gồm yếu tố nào KHÔNG được đề cập?
-A. Content
-B. Context
-C. Connection  
-D. Cost
-
-### PHẦN B: TỰ LUẬN NGẮN (6 điểm - 2 điểm/câu)
-
-**Câu 6:** Giải thích vai trò của Content Marketing trong hệ sinh thái Digital Marketing. (40 từ)
-
-**Câu 7:** Nêu 3 đặc điểm chính của một Buyer Persona hiệu quả. (30 từ)
-
-**Câu 8:** Liệt kê 3 tools miễn phí để research competitor content và mô tả ngắn gọn cách sử dụng. (50 từ)
-
-### PHẦN C: TỰ LUẬN DÀI (4 điểm)
-
-**Câu 9:** Bạn là Content Executive của CSA Vietnam. Khách hàng mới là một startup công nghệ fintech có 20 nhân viên, muốn tăng brand awareness trong 3 tháng tới. Hãy thiết kế Customer Journey 5 giai đoạn với content tương ứng cho khách hàng này. (150 từ)
-
-**Tiêu chí chấm Câu 9:**
-
--   Hiểu đúng startup fintech context: 1 điểm
--   5 giai đoạn Customer Journey rõ ràng: 1.5 điểm
--   Content phù hợp cho từng giai đoạn: 1 điểm
--   Tính khả thi và thực tế: 0.5 điểm
+-   ✅ **Xuất sắc (14-15 điểm):** Tích cực tham gia, đóng góp ý kiến chất lượng, hỗ trợ nhóm hiệu quả
+-   ✅ **Tốt (11-13 điểm):** Tham gia tích cực, có đóng góp tốt
+-   ⚠️ **Đạt (8-10 điểm):** Tham gia cơ bản, ít đóng góp
+-   ❌ **Chưa đạt (<8 điểm):** Thụ động, không tham gia
 
 ---
 
-## 🎯 FEEDBACK VÀ CẢI THIỆN
+## 📝 BÀI KIỂM TRA TRẮC NGHIỆM (15 phút - 15 điểm)
 
-### Template feedback cá nhân:
+### Câu 1: Marketing Nội dung (Content Marketing) khác với quảng cáo truyền thống ở điểm nào?
+
+A) Chỉ sử dụng online  
+B) Tập trung tạo giá trị thay vì gián đoạn  
+C) Chi phí cao hơn  
+D) Chỉ dành cho công ty lớn
+
+**Đáp án đúng: B**
+
+### Câu 2: Theo Content Chân Kinh, "Thánh Content" là gì?
+
+A) Content có nhiều lượt thích (like)  
+B) Content dài và chi tiết  
+C) Content khiến người đọc chăm chú từ đầu đến cuối và hành động  
+D) Content có hình ảnh đẹp
+
+**Đáp án đúng: C**
+
+### Câu 3: Hành trình Khách hàng (Customer Journey) chuẩn quốc tế gồm mấy giai đoạn?
+
+A) 4 giai đoạn: Awareness → Interest → Purchase → Retention  
+B) 5 giai đoạn: Awareness → Consideration → Purchase → Retention → Advocacy  
+C) 3 giai đoạn: Awareness → Purchase → Loyalty  
+D) 6 giai đoạn: Awareness → Interest → Consideration → Purchase → Retention → Advocacy
+
+**Đáp án đúng: B**
+
+### Câu 4: Trong cấu trúc content hay, thành phần nào chiếm 70% thành công?
+
+A) Ngôn từ hay  
+B) Phép tu từ hay  
+C) Ý tưởng hay  
+D) Hình ảnh đẹp
+
+**Đáp án đúng: C**
+
+### Câu 5: Hình tượng Người mua (Buyer Persona) cần có những thông tin gì?
+
+A) Chỉ cần thông tin cơ bản (demographics)  
+B) Demographics + Goals + Pain Points + Online Behavior + Insight tâm lý  
+C) Chỉ cần thông tin công việc  
+D) Chỉ cần thông tin cá nhân
+
+**Đáp án đúng: B**
+
+### Câu 6: "Phép Sóng Đôi" trong Content Chân Kinh là gì?
+
+A) Lặp lại cùng ý nghĩa để tăng gấp đôi cảm xúc  
+B) Viết hai bài content cùng chủ đề  
+C) Đăng content trên hai nền tảng  
+D) Sử dụng hai loại hình ảnh
+
+**Đáp án đúng: A**
+
+### Câu 7: HOT Keywords 2025 bao gồm những từ nào?
+
+A) Marketing, digital, online  
+B) Bóc phốt, đánh ghen, mất trộm, dì ghẻ  
+C) Sale, discount, promotion  
+D) Brand, product, service
+
+**Đáp án đúng: B**
+
+### Câu 8: Marketing Nội dung trong hệ sinh thái Marketing Số đóng vai trò gì?
+
+A) Chỉ hỗ trợ SEO  
+B) Chỉ tạo nội dung cho social media  
+C) Trung tâm kết nối và hỗ trợ tất cả kênh khác  
+D) Chỉ viết blog
+
+**Đáp án đúng: C**
+
+---
+
+## 🏠 BÀI TẬP VỀ NHÀ (25 điểm)
+
+### Nhiệm vụ 1: Hoàn thiện Hình tượng Người mua (10 điểm)
+
+**Yêu cầu:**
+
+-   Hoàn thiện Hình tượng Người mua cho 1 dự án thực tế CSA Vietnam
+-   Áp dụng insight tâm lý và HOT keywords 2025
+-   Minimum 300 từ, format theo template đã học
+
+**Tiêu chí đánh giá:**
+
+-   ✅ **Xuất sắc (9-10 điểm):** Chi tiết, thực tế, có insight sâu
+-   ✅ **Tốt (7-8 điểm):** Đầy đủ thông tin, có một số insight
+-   ⚠️ **Đạt (5-6 điểm):** Cơ bản nhưng thiếu chi tiết
+-   ❌ **Chưa đạt (<5 điểm):** Không hoàn thành hoặc quá sơ sài
+
+### Nhiệm vụ 2: Viết 3 đoạn mở đầu "Thánh Content" (10 điểm)
+
+**Yêu cầu:**
+
+-   Viết 3 đoạn mở đầu (hook) cho 3 nền tảng khác nhau: Facebook, LinkedIn, Blog
+-   Áp dụng 5 loại hook đã học: câu hỏi sốc, thống kê, tuyên bố mâu thuẫn, story, bí mật
+-   Sử dụng ngôn từ tượng hình và phép Sóng Đôi/Tương Phản
+
+**Tiêu chí đánh giá:**
+
+-   Hook thu hút: 4 điểm
+-   Áp dụng kỹ thuật "Thánh Content": 3 điểm
+-   Phù hợp platform: 3 điểm
+
+### Nhiệm vụ 3: Phân tích 1 content viral (5 điểm)
+
+**Yêu cầu:**
+
+-   Tìm 1 content viral trong ngành marketing/agency tuần vừa qua
+-   Phân tích tại sao content đó viral theo framework "Thánh Content"
+-   Rút ra 3 bài học có thể áp dụng cho CSA
+
+**Template phân tích:**
 
 ```
-👤 HỌC VIÊN: [Tên]
-📅 NGÀY: [DD/MM/YYYY]
+🔥 CONTENT VIRAL ANALYSIS
 
-📊 KẾT QUẢ TỔNG QUAN:
-- Tham gia lớp học: ___/30
-- Workshop thực hành: ___/30
-- Bài tập về nhà: ___/25
-- Bài kiểm tra: ___/15
-- 🎯 TỔNG ĐIỂM: ___/100
+📊 THÔNG TIN CƠ BẢN:
+- Platform:
+- Engagement: (like, share, comment)
+- Ngày đăng:
+- Brand/Author:
 
-⭐ ĐIỂM MẠNH:
-1. [Điểm mạnh 1]
-2. [Điểm mạnh 2]
-3. [Điểm mạnh 3]
+🎯 PHÂN TÍCH "THÁNH CONTENT":
+1. Ngôn từ hay:
+2. Phép tu từ:
+3. Ý tưởng hay:
 
-🔧 CẦN CẢI THIỆN:
-1. [Điểm cần cải thiện 1]
-2. [Điểm cần cải thiện 2]
-
-📋 ACTION ITEMS CHO BUỔI 2:
-□ [Hành động cụ thể 1]
-□ [Hành động cụ thể 2]
-□ [Hành động cụ thể 3]
-
-💬 GHI CHÚ CỦA TRAINER:
-[Feedback cá nhân hóa]
-
-📞 HỖ TRỢ THÊM:
-- Office hours: [Thời gian]
-- Email: trainer@csavietnam.com
-- Slack: #content-training
+📚 BÀI HỌC CHO CSA:
+1.
+2.
+3.
 ```
 
-### Kế hoạch cải thiện cho học viên yếu:
+---
 
-#### Điểm < 60: Cần hỗ trợ đặc biệt
+## 🎖️ CHỨNG NHẬN VÀ PHÂN LOẠI
 
--   **1-on-1 coaching:** 30 phút trước Buổi 2
--   **Buddy system:** Ghép với học viên giỏi hơn
--   **Extra materials:** Gửi thêm tài liệu đọc
--   **Simplified assignments:** Giảm độ phức tạp bài tập
+### Chứng nhận Buổi 1:
 
-#### Điểm 60-69: Cần theo dõi
+**🏆 "Thánh Content Marketing - Foundation Level"**
 
--   **Review session:** 15 phút clarify concepts
--   **Practice exercises:** Thêm bài tập nhỏ
--   **Peer support:** Tham gia study group
+**Điều kiện nhận chứng nhận:**
 
-#### Điểm 70-79: Khuyến khích phát triển
+-   Tổng điểm ≥ 80/100
+-   Hoàn thành đầy đủ bài tập về nhà
+-   Tham gia tích cực workshop
 
--   **Advanced readings:** Gợi ý tài liệu nâng cao
--   **Leadership roles:** Làm team leader ở workshops
--   **Mentor role:** Hỗ trợ bạn yếu hơn
+**Phân loại:**
 
-#### Điểm 80+: Tạo thách thức
+-   **🥇 Gold (90-100 điểm):** "Thánh Content Potential" - Có tiềm năng trở thành "Thánh Content"
+-   **🥈 Silver (80-89 điểm):** "Content Creator" - Đạt chuẩn content marketing cơ bản
+-   **🥉 Bronze (70-79 điểm):** "Content Learner" - Cần cải thiện thêm
 
--   **Bonus assignments:** Dự án thực tế phức tạp
--   **Teaching opportunity:** Present 1 phần ở Buổi 2
--   **Advanced workshops:** Tham gia session nâng cao
+### Quyền lợi theo từng level:
+
+**🥇 Gold Level:**
+
+-   Ưu tiên tham gia Buổi 2 Advanced Workshop
+-   Nhận feedback cá nhân từ trainer
+-   Access vào CSA Content Creator Community
+
+**🥈 Silver Level:**
+
+-   Tham gia Buổi 2 với support thêm
+-   Nhận additional resources
+
+**🥉 Bronze Level:**
+
+-   Review session trước Buổi 2
+-   Buddy system với Gold learners
 
 ---
 
-## 📈 THEO DÕI TIẾN ĐỘ
+## 📈 FEEDBACK VÀ CẢI THIỆN
 
-### Dashboard học tập cá nhân:
+### Template feedback cho trainee:
 
 ```
-📊 PROGRESS TRACKER - BUỔI 1
+📊 BÁO CÁO KẾT QUẢ BUỔI 1
 
-👤 Tên: ___________
-🎯 Mục tiêu cá nhân: ___________
+👤 Họ tên: [Tên nhân viên]
+📅 Ngày: [Ngày tham gia]
+🎯 Tổng điểm: [X]/100
 
-✅ KIẾN THỨC ĐÃ NẮM:
-□ Định nghĩa Content Marketing
-□ 4P của Content Marketing
-□ Customer Journey 5 giai đoạn
-□ Cách xây dựng Buyer Persona
-□ Phương pháp phân tích competitor
-□ Vai trò CM trong Digital Marketing
+✅ ĐIỂM MẠNH:
+-
+-
+-
 
-🔄 ĐANG PHÁT TRIỂN:
-□ ___________
-□ ___________
+⚠️ CẦN CẢI THIỆN:
+-
+-
+-
 
-❌ CẦN TẬP TRUNG:
-□ ___________
-□ ___________
+🎯 HÀNH ĐỘNG TIẾP THEO:
+-
+-
+-
 
-📅 KẾ HOẠCH CHO BUỔI 2:
-□ Review lại note Buổi 1
-□ Hoàn thành bài tập về nhà
-□ Chuẩn bị mindset viết content
-□ Bring laptop có software text editor
+🏆 XẾP LOẠI: [Gold/Silver/Bronze]
 ```
 
-### Checklist chuẩn bị Buổi 2:
+### Kế hoạch cải thiện cho từng level:
 
-#### Kiến thức foundation:
+**Cho Bronze Level:**
 
--   [ ] Nắm vững 5 giai đoạn Customer Journey
--   [ ] Hiểu rõ Buyer Persona của dự án đang làm
--   [ ] Biết top 3 pain points của target audience
--   [ ] Xác định được content cần tạo cho từng giai đoạn
+-   1-on-1 session với trainer trước Buổi 2
+-   Buddy pairing với Gold learner
+-   Additional reading materials
+-   Practice exercises với feedback
 
-#### Kỹ năng thực hành:
+**Cho Silver Level:**
 
--   [ ] Đã hoàn thành Customer Journey analysis
--   [ ] Phân tích xong 2 competitors
--   [ ] Tạo được content calendar cơ bản
--   [ ] Comfortable với tools cơ bản (Google, Facebook Ad Library)
+-   Group discussion session
+-   Peer learning activities
+-   Advanced resources access
 
-#### Mindset preparation:
+**Cho Gold Level:**
 
--   [ ] Chuyển từ "Analyst" sang "Creator"
--   [ ] Sẵn sàng viết content thực tế, không chỉ lý thuyết
--   [ ] Open mind để học formula và apply ngay
--   [ ] Confidence để present và nhận feedback
-
----
-
-## 🏆 RECOGNITION & MOTIVATION
-
-### Danh hiệu Buổi 1:
-
-#### 🌟 "Outstanding Participant"
-
--   Tiêu chí: Điểm tổng > 95, tương tác tích cực
--   Phần thưởng: Voucher sách content marketing 200k
-
-#### 🎯 "Best Buyer Persona"
-
--   Tiêu chí: Workshop persona chi tiết và thực tế nhất
--   Phần thưởng: Template pack premium từ CSA
-
-#### 💡 "Most Insightful Questions"
-
--   Tiêu chí: Đặt câu hỏi chất lượng, giúp cả lớp học hỏi
--   Phần thưởng: 1 giờ 1-on-1 coaching với Marketing Director
-
-#### 🔥 "Most Improved"
-
--   Tiêu chí: Tiến bộ rõ rệt từ đầu đến cuối buổi
--   Phần thưởng: Advanced content marketing course voucher
-
-### Wall of Fame:
-
-Học viên xuất sắc sẽ được đăng ảnh và achievement lên:
-
--   CSA Vietnam internal newsletter
--   Company Slack workspace
--   LinkedIn company page (nếu đồng ý)
-
----
-
-## 📞 HỖ TRỢ SAU BUỔI HỌC
-
-### Office Hours:
-
--   **Thời gian:** Thứ 3, 5 - 17:00-18:00
--   **Hình thức:** Video call 1-on-1 hoặc nhóm nhỏ
--   **Booking:** Calendar link sẽ được share
-
-### Online Support:
-
--   **Slack channel:** #content-training-cohort-[month]
--   **Email:** training@csavietnam.com
--   **Response time:** Within 24 hours
-
-### Peer Learning:
-
--   **Study buddy assignments:** Sẽ được announce
--   **Group chat:** WhatsApp group cho mỗi cohort
--   **Peer review:** Cross-check bài tập lẫn nhau
-
----
-
-_"Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill_
-
-**Chúc mừng bạn đã hoàn thành Buổi 1! Let's bring the energy to Buổi 2! 🚀**
+-   Mentor role trong Buổi 2
+-   Advanced workshop access
+-   CSA Content Creator Community membership

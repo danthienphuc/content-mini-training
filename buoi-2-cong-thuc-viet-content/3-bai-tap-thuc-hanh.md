@@ -1,52 +1,52 @@
-# BUỔI 2: BÀI TẬP THỰC HÀNH & WORKSHOP CONTENT CREATION
+# BUỔI 2: BÀI TẬP THỰC HÀNH & WORKSHOP TẠO NỘI DUNG
 
 ---
 
 ## 🎯 WORKSHOP CHÍNH TRONG LỚP HỌC
 
-### Workshop 1: Speed Writing Challenge (45 phút)
+### Workshop 1: Thử thách Viết Nhanh "Thánh Content" (45 phút)
 
-#### Format: 5 Teams × 5 Formulas
+#### Format: 5 Teams × 5 Công thức
 
-Mỗi team được assign 1 công thức và phải tạo content cho cùng 1 scenario:
+Mỗi team được giao 1 công thức và phải tạo nội dung cho cùng 1 kịch bản (scenario):
 
-**📋 SCENARIO CHUNG:**
-CSA Vietnam launch dịch vụ mới: "Marketing Automation Package"
+**📋 KỊCH BẢN CHUNG:**
+CSA Vietnam ra mắt dịch vụ mới: "Gói Tự động hóa Marketing (Marketing Automation Package)"
 
--   Target: SME 20-100 nhân viên
--   Pain point: Manual marketing tasks, không scale được
--   Solution: Automated workflows, save 20h/week
--   Price: 15 triệu/tháng
--   Timeline: Setup trong 2 tuần
+-   Đối tượng mục tiêu (Target): SME 20-100 nhân viên
+-   Điểm đau (Pain point): Các tác vụ marketing thủ công, không mở rộng quy mô (scale) được
+-   Giải pháp (Solution): Quy trình tự động (automated workflows), tiết kiệm 20h/tuần
+-   Giá (Price): 15 triệu/tháng
+-   Thời gian triển khai (Timeline): Thiết lập trong 2 tuần
 
-#### Team Assignments:
+#### Phân công Team:
 
-**🔥 TEAM AIDA:** Blog Post Introduction (250 words)
+**🔥 TEAM AIDA:** Phần mở đầu bài Blog (250 từ)
 
--   Nhiệm vụ: Viết phần mở đầu của blog post
--   Time limit: 15 phút viết + 5 phút review
--   Criteria: Hook strong, structure AIDA rõ ràng
+-   Nhiệm vụ: Viết phần mở đầu của bài blog với hook "Thánh Content"
+-   Giới hạn thời gian: 15 phút viết + 5 phút review
+-   Tiêu chí: Hook mạnh mẽ, cấu trúc AIDA rõ ràng, áp dụng phép Sóng Đôi
 
-**⚡ TEAM PAS:** Email Marketing Sequence (3 emails)
+**⚡ TEAM PAS:** Chuỗi Email Marketing (3 emails)
 
--   Email 1: Problem identification (100 words)
--   Email 2: Agitation & consequences (120 words)
--   Email 3: Solution presentation (150 words)
--   Time limit: 20 phút total
+-   Email 1: Xác định vấn đề (Problem identification) (100 từ)
+-   Email 2: Khuấy động & hậu quả (Agitation & consequences) (120 từ)
+-   Email 3: Trình bày giải pháp (Solution presentation) (150 từ)
+-   Giới hạn thời gian: 20 phút tổng cộng
 
-**⭐ TEAM FAB:** Landing Page Copy (200 words)
+**⭐ TEAM FAB:** Bản sao Trang đích (Landing Page Copy) (200 từ)
 
--   Features section với 5 key features
--   Advantages over competitors
--   Benefits transformation cho business
--   Time limit: 15 phút
+-   Phần Tính năng (Features) với 5 tính năng chính
+-   Lợi thế (Advantages) so với đối thủ cạnh tranh
+-   Lợi ích (Benefits) biến đổi cho doanh nghiệp
+-   Giới hạn thời gian: 15 phút
 
-**🌟 TEAM BAB:** Social Media Post (Facebook format)
+**🌟 TEAM BAB:** Bài đăng Mạng xã hội (Facebook format)
 
--   Before: Current manual state
--   After: Automated future vision
--   Bridge: How automation package helps
--   Time limit: 10 phút
+-   Trước (Before): Tình trạng thủ công hiện tại
+-   Sau (After): Tầm nhìn tương lai tự động
+-   Cầu nối (Bridge): Gói tự động hóa giúp như thế nào
+-   Giới hạn thời gian: 10 phút
 
 **💎 TEAM 4C:** LinkedIn Thought Leadership (300 words)
 

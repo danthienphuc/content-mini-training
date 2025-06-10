@@ -4,52 +4,64 @@
 
 ## 🎯 BÀI TẬP THỰC HÀNH TRONG LỚP
 
-### Workshop 1: Xây dựng Buyer Persona (20 phút)
+### Workshop 1: Xây dựng Hình tượng Người mua (Buyer Persona) (20 phút)
 
 #### Mục tiêu:
 
-Tạo ra Buyer Persona chi tiết cho một dự án thực tế của CSA Vietnam
+Tạo ra Hình tượng Người mua (Buyer Persona) chi tiết cho một dự án thực tế của CSA Vietnam theo chuẩn "Thánh Content"
 
 #### Chia nhóm:
 
--   **Nhóm 1:** Dương Gia Phát (Công ty in ấn)
--   **Nhóm 2:** Hằng Underwears (Shop đồ lót)
--   **Nhóm 3:** Nam Phương SG (Công nghệ bảo mật)
+-   **Nhóm 1:** DƯƠNG GIA PHÁT (Công ty in ấn kỹ thuật số)
+-   **Nhóm 2:** HẰNG UNDERWEARS (Shop đồ lót nữ cao cấp)
+-   **Nhóm 3:** NAM PHƯƠNG SG (Công nghệ bảo mật & hệ thống thông minh)
 
-#### Template thực hành:
+#### Template thực hành cho "Thánh Content":
 
 ```
-🎯 BUYER PERSONA: [TÊN KHÁCH HÀNG]
+🎯 HÌNH TƯỢNG NGƯỜI MUA: [TÊN KHÁCH HÀNG]
 
-1. THÔNG TIN CÁ NHÂN:
+1. THÔNG TIN CÁ NHÂN (DEMOGRAPHICS):
    - Tên & Tuổi:
    - Giới tính:
    - Vị trí địa lý:
    - Thu nhập:
+   - Học vấn:
 
 2. THÔNG TIN CÔNG VIỆC:
    - Chức vụ:
    - Loại hình doanh nghiệp:
    - Quy mô công ty:
    - Ngành nghề:
+   - Thâm niên làm việc:
 
 3. MỤC TIÊU (GOALS):
-   - Mục tiêu kinh doanh:
-   - Mục tiêu marketing:
+   - Mục tiêu kinh doanh ngắn hạn:
+   - Mục tiêu marketing dài hạn:
    - KPI cần đạt:
+   - Mục tiêu cá nhân:
 
 4. ĐIỂM ĐAU (PAIN POINTS):
    - Thách thức lớn nhất:
    - Vấn đề marketing:
    - Rào cản ngân sách:
+   - Lo lắng về ROI:
 
-5. HÀNH VI TRỰC TUYẾN:
-   - Platform hay dùng:
+5. HÀNH VI TRỰC TUYẾN (ONLINE BEHAVIOR):
+   - Nền tảng hay dùng (Platform):
    - Thời gian online:
-   - Loại content ưa thích:
-   - Device sử dụng:
+   - Loại nội dung ưa thích:
+   - Thiết bị sử dụng (Device):
+   - Cách tìm kiếm thông tin:
 
-6. CONTENT HỌ CẦN:
+6. INSIGHT TÂM LÝ (theo Content Chân Kinh):
+   - Từ khóa "HOT" họ quan tâm:
+   - Cảm xúc chủ đạo:
+   - Động lực mua hàng:
+   - Rào cản quyết định:
+
+
+7. NỘI DUNG HỌ CẦN:
    - Awareness stage:
    - Interest stage:
    - Consideration stage:
@@ -73,6 +85,7 @@ Chọn 1 khách hàng thực tế mà bạn đang/sẽ làm việc và phân tí
 
 #### Template báo cáo:
 
+```
 **KHÁCH HÀNG:** [Tên công ty - Ngành nghề]
 
 **1. AWARENESS STAGE:**
@@ -107,6 +120,7 @@ Chọn 1 khách hàng thực tế mà bạn đang/sẽ làm việc và phân tí
 -   Success metrics: Đánh giá thành công qua chỉ số gì?
 -   Ongoing needs: Cần support gì từ CSA?
 -   Expansion opportunities: Có thể upsell/cross-sell gì?
+```
 
 #### Hướng dẫn thực hiện:
 
@@ -136,6 +150,7 @@ Phân tích content strategy của 2 đối thủ cạnh tranh chính trong ngà
 
 #### Template phân tích:
 
+```
 **COMPETITOR 1: [Tên Agency]**
 
 _Website Analysis:_
@@ -170,6 +185,7 @@ _Strengths & Weaknesses:_
 -   Gì họ làm tốt mà CSA chưa làm?
 -   Gì CSA có thể làm tốt hơn họ?
 -   Content opportunity nào CSA có thể khai thác?
+```
 
 ### Bài tập 3: Tạo Content Calendar cho 1 tuần
 

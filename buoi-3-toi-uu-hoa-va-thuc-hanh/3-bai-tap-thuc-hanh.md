@@ -1,53 +1,396 @@
-# BUỔI 3: BÀI TẬP THỰC HÀNH & WORKSHOP TỐI ƯU HÓA
+# BUỔI 3: BÀI TẬP THỰC HÀNH & CAPSTONE PROJECT
 
 ---
 
 ## 🎯 WORKSHOP CHÍNH TRONG LỚP HỌC
 
-### Workshop 1: SEO Content Audit Challenge (30 phút)
+### Workshop 1: Master Challenge - 9 Công thức Nâng cao (45 phút)
 
 #### Mục tiêu:
+Áp dụng thành thạo 9 công thức nâng cao để tạo content portfolio chất lượng "Thánh Content"
 
-Audit và optimize 1 blog post thực tế của CSA Vietnam theo checklist SEO chuyên nghiệp
+#### Format: Rotation Workshop (5 stations × 9 phút)
 
-#### Chia nhóm:
+**🚀 STATION 1: 4U Formula Challenge**
+- Task: Viết Facebook Ad cho CSA Vietnam Marketing Automation Package
+- Yêu cầu: Đảm bảo content Useful + Urgent + Unique + Ultra-specific
+- Deliverable: 100-word Facebook ad copy với CTR prediction
 
--   **Nhóm 1:** Audit blog post về Digital Marketing cho SME
--   **Nhóm 2:** Audit blog post về Social Media Strategy
--   **Nhóm 3:** Audit blog post về Branding cho Startup
+**🌟 STATION 2: A FOREST Long-form** 
+- Task: Viết intro cho whitepaper "SME Digital Transformation Guide"
+- Yêu cầu: Áp dụng đầy đủ 7 elements của A FOREST framework
+- Deliverable: 300-word introduction với engagement hooks
 
-#### Tools cần sử dụng:
+**🛡️ STATION 3: 5 Sự Cản Trở Sales Page**
+- Task: Tạo objection-handling section cho landing page CSA
+- Yêu cầu: Address 5 common objections từ SME prospects
+- Deliverable: 250-word objection handling với social proof
 
--   **SEOquake extension:** Check page metrics
--   **Google PageSpeed Insights:** Analyze loading speed
--   **Screaming Frog (free version):** Technical SEO check
--   **Yoast SEO plugin:** Content optimization
+**🎯 STATION 4: 3 Lý Do Email Sequence**
+- Task: Viết email trong nurture sequence 5-email campaign
+- Yêu cầu: Build case tại sao CSA là lựa chọn tốt nhất
+- Deliverable: Subject line + 200-word email body
 
-#### SEO Audit Checklist:
+**📸 STATION 5: 4P Visual Content** 
+- Task: Storyboard cho TikTok video marketing CSA services
+- Yêu cầu: Picture hook + Promise + Prove + Push trong 60 seconds
+- Deliverable: Video script với visual cues và timing
+
+#### Đánh giá Workshop 1:
 
 ```
-📝 SEO AUDIT WORKSHEET
+📊 SCORING RUBRIC (mỗi station 20 điểm):
 
-🎯 BASIC SEO ELEMENTS:
-□ Title tag (50-60 characters): ___/10 points
-□ Meta description (150-160 characters): ___/10 points
-□ H1 tag (unique, keyword-rich): ___/10 points
-□ H2/H3 structure (logical hierarchy): ___/10 points
-□ URL structure (short, descriptive): ___/5 points
+⚡ FORMULA APPLICATION (10 điểm):
+- Correct structure adherence: ___/5
+- Complete elements included: ___/5
 
-🔍 KEYWORD OPTIMIZATION:
-□ Primary keyword in title: ___/10 points
-□ Primary keyword in first paragraph: ___/5 points
-□ Keyword density (1-2%): ___/10 points
-□ Semantic keywords present: ___/10 points
-□ LSI keywords included: ___/5 points
+🎨 CREATIVITY & ORIGINALITY (5 điểm):
+- Unique angle/approach: ___/3  
+- "Thánh Content" factor: ___/2
 
-📊 CONTENT QUALITY:
-□ Content length (800+ words): ___/10 points
-□ Readability score (60-70): ___/5 points
-□ Internal links (2-3 relevant): ___/10 points
-□ External links (1-2 authoritative): ___/5 points
-□ Images with alt text: ___/5 points
+🎯 CSA BRAND ALIGNMENT (5 điểm):
+- Voice & tone consistency: ___/3
+- Value proposition clarity: ___/2
+
+TOTAL STATION SCORE: ___/20
+WORKSHOP 1 TOTAL: ___/100
+```
+
+### Workshop 2: Platform Algorithm Optimization Lab (60 phút)
+
+#### Cross-Platform Content Adaptation Challenge
+
+**📋 Base Content:**
+CSA Vietnam case study: "Hằng Underwears scaling từ startup đến 1 tỷ/tháng trong 12 tháng"
+
+#### 4 Platform Teams:
+
+**📘 TEAM FACEBOOK:**
+- Task: Adapt case study thành Facebook post series (3 posts)
+- Focus: Maximize engagement và shareability
+- Constraints: Mobile-first optimization, hook trong 5 từ đầu
+- Deliverable: 3 posts với timing strategy và hashtag plan
+
+**🎵 TEAM TIKTOK:**
+- Task: Create viral TikTok video script về transformation story
+- Focus: Completion rate optimization và trending potential  
+- Constraints: 30-60 seconds, trending sound integration
+- Deliverable: Video script với hooks, transitions, và sound cues
+
+**💼 TEAM LINKEDIN:**
+- Task: Transform thành thought leadership article
+- Focus: Professional insights và industry analysis
+- Constraints: B2B audience, credibility establishment
+- Deliverable: 800-word article với executive summary
+
+**🔴 TEAM YOUTUBE:**
+- Task: 10-minute case study video outline
+- Focus: Watch time retention và subscriber conversion
+- Constraints: YouTube SEO optimization, clear CTAs
+- Deliverable: Video outline với timestamps và description
+
+#### Platform Lab Assessment:
+
+```
+📱 PLATFORM OPTIMIZATION SCORING:
+
+🔥 ALGORITHM ALIGNMENT (15 điểm):
+- Platform best practices adherence: ___/8
+- Format optimization: ___/4  
+- Timing/posting strategy: ___/3
+
+📊 ENGAGEMENT POTENTIAL (10 điểm):
+- Hook strength: ___/4
+- Content stickiness: ___/3
+- Share/viral potential: ___/3
+
+🎯 CONVERSION FOCUS (10 điểm):
+- Clear value proposition: ___/5
+- Compelling CTA: ___/3
+- Lead generation potential: ___/2
+
+PLATFORM TEAM SCORE: ___/35
+```
+
+### Workshop 3: Live MDH Scoring & Optimization (30 phút)
+
+#### Real-time Content Improvement Lab
+
+**🔥 Process:**
+1. **Present (5 phút):** Mỗi team present 1 piece content tốt nhất
+2. **Score (10 phút):** Audience real-time MDH scoring qua app/tool
+3. **Optimize (10 phút):** Live editing để improve MDH score
+4. **Re-score (5 phút):** Compare before/after MDH ratings
+
+**📊 MDH Scoring App Template:**
+
+```
+🎯 REAL-TIME MDH SCORER
+
+👤 Content Creator: ________________
+📱 Platform: ______________________  
+📝 Content Type: __________________
+
+📊 LIVE SCORING (1-10 scale):
+
+💡 YẾU TỐ NỘI DUNG (40%):
+├── Uniqueness/Originality: ___/10
+├── Practical Value: ___/10  
+└── Emotional Impact: ___/10
+
+🎨 YẾU TỐ NGÔN TỪ (30%):
+├── Từ ngữ tượng hình: ___/10
+└── Phép tu từ application: ___/10
+
+⚡ YẾU TỐ CẤU TRÚC (30%):
+├── Hook effectiveness: ___/10
+├── Logic flow: ___/10
+└── CTA clarity: ___/10
+
+🔥 TOTAL MDH: ___/10
+
+📈 IMPROVEMENT SUGGESTIONS:
+- Quick wins: ________________
+- Major enhancements: ________
+- Next iteration ideas: ______
+```
+
+---
+
+## 🏆 CAPSTONE PROJECT: "THÁNH CONTENT" CAMPAIGN (90 phút)
+
+### Project Brief: CSA Vietnam Q3 Growth Campaign
+
+**🎯 Challenge:**
+Design và execute 1 integrated content marketing campaign cho CSA Vietnam targeting 50 new SME clients trong Q3 2025.
+
+**💰 Constraints:**
+- Budget: 100 triệu VND
+- Timeline: 12 weeks (July - September 2025)
+- Team: 4-5 people maximum
+- Success metrics: ROI ≥ 300%, lead quality score ≥ 8/10
+
+### Capstone Project Structure
+
+#### Phase 1: Strategy Development (30 phút)
+
+**📋 Required Deliverables:**
+
+```
+📊 1. TARGET AUDIENCE ANALYSIS:
+├── Primary Persona: Detailed buyer persona với deep insights
+├── Customer Journey: 5-stage mapping với content requirements
+├── Competitive Analysis: 3 key competitors với differentiation strategy
+└── Market Opportunity: Addressable market size và trends
+
+🎯 2. CONTENT STRATEGY:
+├── Content Pillars: 4 core themes aligned với CSA expertise  
+├── Content Calendar: 12-week calendar với platform distribution
+├── Format Mix: Blog, social, video, email, webinar distribution
+└── SEO Strategy: Keyword research và organic growth plan
+
+📈 3. PERFORMANCE FRAMEWORK:
+├── KPI Hierarchy: Leading indicators → Conversion metrics → ROI
+├── MDH Integration: Quality scoring protocol cho all content
+├── Attribution Model: Multi-touch attribution setup
+└── Optimization Plan: A/B testing và iteration strategy
+```
+
+#### Phase 2: Content Creation (45 phút)
+
+**📝 Minimum Portfolio Requirements:**
+
+```
+📚 CONTENT PORTFOLIO CHECKLIST:
+
+□ 1 Pillar Blog Post (1500+ words):
+  ├── Formula: A FOREST comprehensive application
+  ├── SEO: Target keyword "digital marketing cho SME"
+  ├── Conversion: Lead magnet integration
+  └── MDH Target: ≥ 8.5/10
+
+□ 5 Social Media Posts:
+  ├── Facebook: BAB transformation story
+  ├── LinkedIn: 3 Lý Do thought leadership
+  ├── TikTok: 4P visual storytelling  
+  ├── Instagram: 5 Sự Cản Trở carousel
+  └── YouTube: 3S case study video script
+
+□ 3 Email Marketing:
+  ├── Welcome email: APP formula
+  ├── Nurture email: PAS sequence
+  └── Conversion email: 4U urgency
+
+□ 1 Lead Magnet:
+  ├── Whitepaper/Ebook: "SME Digital Marketing Playbook"
+  ├── Checklist: "10-Point Marketing Audit"
+  └── Template: "Content Calendar Template"
+
+□ 1 Webinar Outline:
+  ├── Topic: "ROI-Driven Marketing cho SME"
+  ├── Structure: 45-minute presentation + 15-minute Q&A
+  └── Follow-up: Automated email sequence
+```
+
+#### Phase 3: Implementation & Measurement (15 phút)
+
+**🚀 Go-to-Market Plan:**
+
+```
+📅 LAUNCH TIMELINE:
+
+WEEK 1-2: FOUNDATION
+├── Blog content publishing và SEO optimization
+├── Social media account optimization và bio updates
+├── Email automation setup và testing
+└── Analytics dashboard configuration
+
+WEEK 3-6: AMPLIFICATION  
+├── Paid social media campaigns launch
+├── Influencer collaboration và partnerships
+├── PR outreach và media placements
+└── Community engagement và networking
+
+WEEK 7-10: OPTIMIZATION
+├── A/B testing implementation và results analysis
+├── Content optimization based on performance data  
+├── Lead nurturing sequence refinement
+└── Conversion rate optimization
+
+WEEK 11-12: SCALING
+├── Successful campaign elements scaling
+├── Budget reallocation based on ROI data
+├── Long-term strategy development
+└── Case study creation cho future campaigns
+```
+
+### Capstone Presentation Format (30 phút total)
+
+**🎤 Presentation Structure (6 phút/team):**
+
+```
+📊 PRESENTATION TEMPLATE:
+
+SLIDE 1-2: STRATEGY OVERVIEW (90 seconds)
+├── Target audience insights và key findings
+├── Unique value proposition và differentiation
+└── Success metrics và ROI projections
+
+SLIDE 3-4: CONTENT SHOWCASE (180 seconds)
+├── Best content pieces với MDH scores
+├── Cross-platform adaptation examples
+└── Lead magnet demonstration
+
+SLIDE 5-6: IMPLEMENTATION PLAN (120 seconds)
+├── 12-week timeline với key milestones
+├── Budget allocation và resource requirements  
+└── Risk mitigation và contingency plans
+
+SLIDE 7: ROI PROJECTION (30 seconds)
+├── Expected results với confidence intervals
+├── Success criteria và failure scenarios
+└── Long-term impact prediction
+```
+
+**🏆 Final Assessment Criteria:**
+
+```
+📊 CAPSTONE SCORING BREAKDOWN:
+
+🎯 STRATEGIC THINKING (30 điểm):
+├── Target audience analysis depth: ___/10
+├── Competitive advantage clarity: ___/10
+└── Implementation feasibility: ___/10
+
+🎨 CREATIVE EXECUTION (35 điểm):
+├── Portfolio quality (MDH average): ___/15
+├── Formula application mastery: ___/10
+└── Platform optimization: ___/10
+
+📈 BUSINESS IMPACT (25 điểm):
+├── ROI projection realism: ___/10
+├── Success metrics relevance: ___/8
+└── Implementation timeline: ___/7
+
+🎤 PRESENTATION QUALITY (10 điểm):
+├── Clarity và persuasiveness: ___/5
+└── Time management: ___/5
+
+TOTAL CAPSTONE SCORE: ___/100
+```
+
+---
+
+## 🎓 CERTIFICATION & GRADUATION
+
+### Final Grade Calculation
+
+```
+📊 BUỔI 3 TOTAL SCORE BREAKDOWN:
+
+📚 Workshop 1 (9 Công thức): ___/25 điểm
+📱 Workshop 2 (Platform Optimization): ___/20 điểm  
+🔥 Workshop 3 (MDH Lab): ___/15 điểm
+🏆 Capstone Project: ___/40 điểm
+
+BUỔI 3 FINAL SCORE: ___/100
+
+🏅 OVERALL PROGRAM SCORE:
+├── Buổi 1: ___/100 (weight: 25%)
+├── Buổi 2: ___/100 (weight: 35%)  
+└── Buổi 3: ___/100 (weight: 40%)
+
+FINAL PROGRAM SCORE: ___/100
+```
+
+### "Thánh Content Marketing Professional" Certification
+
+**🏆 Certification Levels:**
+
+```
+🥇 GOLD LEVEL (95-100): "Thánh Content Master"
+├── Lead complex content campaigns independently
+├── Mentor junior content creators  
+├── Represent CSA tại industry events
+└── Advanced career track eligibility
+
+🥈 SILVER LEVEL (85-94): "Thánh Content Professional"  
+├── Execute sophisticated content strategies
+├── Quality control cho team content
+├── Client strategy presentation
+└── Cross-platform content optimization
+
+🥉 BRONZE LEVEL (80-84): "Thánh Content Practitioner"
+├── Independent content creation với frameworks
+├── Platform-specific optimization
+├── Basic analytics interpretation
+└── Template-based campaign execution
+```
+
+**🎉 Graduation Benefits:**
+
+```
+📜 IMMEDIATE REWARDS:
+├── Official CSA "Thánh Content Marketing" certificate
+├── LinkedIn skill verification và profile optimization
+├── Access CSA Content Creator Master Community
+└── Premium tools subscription (3 months free)
+
+🚀 ONGOING DEVELOPMENT:
+├── Quarterly "Thánh Content" master classes
+├── Priority access to advanced workshops
+├── Industry conference speaking opportunities
+└── Content Director career track consideration
+
+💰 PERFORMANCE BONUSES:
+├── Content performance incentives
+├── Client satisfaction bonuses
+├── Referral rewards program
+└── Annual recognition awards
+```
+
+**🔥 Chúc mừng! Bạn đã chính thức trở thành "Thánh Content Marketing Professional" của CSA Vietnam! 🚀📚✨**
 
 ⚡ TECHNICAL FACTORS:
 □ Page loading speed (<3 seconds): ___/10 points

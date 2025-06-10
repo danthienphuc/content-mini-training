@@ -1,4 +1,4 @@
-# BUỔI 1: CƠ BẢN CONTENT MARKETING & PHÂN TÍCH KHÁCH HÀNG
+# BUỔI 1: CƠ BẢN MARKETING NỘI DUNG & PHÂN TÍCH KHÁCH HÀNG
 
 ## GIỚI THIỆU VÀ MỤC TIÊU
 
@@ -8,32 +8,33 @@
 
 ### Mục tiêu chính:
 
--   Hiểu rõ bản chất và tầm quan trọng của Content Marketing trong chiến lược Digital Marketing
--   Nắm vững phương pháp phân tích đối tượng khách hàng và xây dựng Buyer Persona
--   Hiểu Customer Journey và ứng dụng vào các dự án thực tế của CSA Vietnam
--   Có khả năng phân tích đối thủ cạnh tranh về mặt content
+-   Hiểu rõ bản chất và tầm quan trọng của Marketing Nội dung (Content Marketing) trong chiến lược Marketing Số (Digital Marketing)
+-   Nắm vững phương pháp phân tích đối tượng khách hàng và xây dựng Hình tượng Người mua (Buyer Persona)
+-   Hiểu Hành trình Khách hàng (Customer Journey) và ứng dụng vào các dự án thực tế của CSA Vietnam
+-   Có khả năng phân tích đối thủ cạnh tranh về mặt nội dung
+-   Nắm vững khái niệm "Thánh Content" và cấu trúc content chất lượng cao
 
 ### Mục tiêu cụ thể:
 
--   **Kiến thức:** Nắm vững 4P của Content Marketing, hiểu rõ Customer Journey 5 giai đoạn
--   **Kỹ năng:** Xây dựng được Buyer Persona chi tiết, phân tích content đối thủ
--   **Thái độ:** Tư duy khách hàng làm trung tâm trong mọi hoạt động content
+-   **Kiến thức:** Nắm vững 4 loại giá trị của Marketing Nội dung, hiểu rõ Hành trình Khách hàng 5 giai đoạn theo chuẩn quốc tế
+-   **Kỹ năng:** Xây dựng được Hình tượng Người mua chi tiết, phân tích nội dung đối thủ, áp dụng ngôn từ tượng hình
+-   **Thái độ:** Tư duy khách hàng làm trung tâm, hướng đến trở thành "Thánh Content" bán hàng
 
 ---
 
 ## 🕐 LỊCH TRÌNH BUỔI HỌC (2.5 giờ)
 
-### Phần 1: Lý thuyết cơ bản (60 phút)
+### Phần 1: Nền tảng Marketing Nội dung (60 phút)
 
 -   **9:00 - 9:15:** Check-in và giới thiệu khóa học
--   **9:15 - 9:45:** Content Marketing là gì? Tại sao quan trọng?
--   **9:45 - 10:00:** Content Marketing trong hệ sinh thái Digital Marketing
+-   **9:15 - 9:45:** Marketing Nội dung là gì? Tại sao quan trọng? Khái niệm "Thánh Content"
+-   **9:45 - 10:00:** Marketing Nội dung trong hệ sinh thái Marketing Số
 
 ### Phần 2: Phân tích khách hàng (75 phút)
 
 -   **10:00 - 10:15:** Nghỉ giải lao
--   **10:15 - 11:00:** Xây dựng Buyer Persona & Customer Journey
--   **11:00 - 11:30:** Phân tích đối thủ cạnh tranh
+-   **10:15 - 11:00:** Xây dựng Hình tượng Người mua & Hành trình Khách hàng (5 giai đoạn chuẩn)
+-   **11:00 - 11:30:** Phân tích đối thủ cạnh tranh về nội dung
 
 ### Phần 3: Thực hành (15 phút)
 
@@ -43,11 +44,15 @@
 
 ## 📚 NỘI DUNG CHI TIẾT
 
-### 1. Content Marketing Foundation
+### 1. Nền tảng Marketing Nội dung (Content Marketing Foundation)
 
-#### Định nghĩa Content Marketing:
+#### Định nghĩa Marketing Nội dung theo xu hướng 2025:
 
-> Content Marketing là chiến lược marketing tập trung vào việc tạo ra và phân phối nội dung có giá trị, liên quan và nhất quán để thu hút và giữ chân một đối tượng được xác định rõ ràng - và cuối cùng, để thúc đẩy hành động khách hàng có lợi nhuận.
+> **Marketing Nội dung (Content Marketing)** là chiến lược tiếp thị tập trung vào việc tạo ra và phân phối nội dung có giá trị, liên quan và nhất quán để thu hút và giữ chân một đối tượng khách hàng (target audience) được xác định rõ ràng - và cuối cùng, để thúc đẩy hành động khách hàng có lợi nhuận.
+
+#### Theo Content Chân Kinh 2025:
+
+"Content ngày càng đóng vai trò quan trọng trong kinh doanh và marketing: bán hàng bằng content, viral bằng content, thu hút khách bằng content hữu ích, SEO bằng content chất lượng, tăng tương tác fanpage bằng content trúng insight (thấu hiểu tâm lý)."
 
 #### 4 Trụ cột của Content Marketing:
 
